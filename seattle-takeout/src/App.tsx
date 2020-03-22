@@ -6,6 +6,14 @@ import { Restaurant } from './model/restaurant';
 
 import logo from './logo.svg';
 import './App.css';
+import { TypeTag } from './components/TypeTag';
+import { DeliveryTag } from './components/DeliveryTag';
+
+interface CellType {
+  cell: {
+    value: any
+  }
+}
 
 function App() {
 
@@ -30,7 +38,8 @@ function App() {
           },
           {
             Header: "Types",
-            accessor: (restaurant: Restaurant) => restaurant.types
+            accessor: (restaurant: Restaurant) => restaurant.types,
+            Cell: ({ cell: { value } }: CellType) => <TypeTag types={value} />
           },
           {
             Header: "Phone",
@@ -50,7 +59,8 @@ function App() {
           },
           {
             Header: "Delivery App(s)",
-            accessor: (restaurant: Restaurant) => restaurant.deliveryApps
+            accessor: (restaurant: Restaurant) => restaurant.deliveryApps,
+            Cell: ({ cell: { value } }: CellType) => <DeliveryTag deliveryOptions={value} />
           },
           {
             Header: "Vegan Options",
