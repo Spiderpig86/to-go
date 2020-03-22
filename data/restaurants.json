@@ -2,7 +2,7 @@
     "restaurants": [
         {
             "name": "A+ Kitchen",
-            "type": [
+            "types": [
                 "Chinese",
                 "Cantonese"
             ],
@@ -10,10 +10,10 @@
             "location": "International District",
             "address": "419 6th Ave S, Seattle, WA 98104",
             "website": "",
-            "delivery_apps": [
+            "deliveryApps": [
                 "UberEats"
             ],
-            "vegan_options": "false",
+            "veganOptions": "false",
             "price": "$"
         }
     ]
