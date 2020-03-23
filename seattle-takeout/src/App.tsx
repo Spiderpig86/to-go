@@ -91,7 +91,8 @@ function App() {
                 css={{
                     alignItems: 'center',
                     flexDirection: 'column',
-                    justifyContent: 'center'
+                    justifyContent: 'center',
+                    marginTop: '7rem'
                 }}
             >
                 <h1>🍴 Seattle Takeout.</h1>
