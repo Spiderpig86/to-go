@@ -33,9 +33,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
     };
 
     return (
-        <div css={{
-            overflowX: 'auto'
-        }}>
+        <div>
             <div
                 css={{
                     margin: '1rem .25rem'
@@ -45,7 +43,8 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
             </div>
             <div
                 css={{
-                    margin: '1rem 0'
+                    margin: '1rem 0',
+                    overflowX: 'auto'
                 }}
             >
                 <table className="table bordered striped" {...getTableProps()}>
