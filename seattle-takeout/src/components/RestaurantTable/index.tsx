@@ -33,7 +33,9 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
     };
 
     return (
-        <div>
+        <div css={{
+            overflowX: 'auto'
+        }}>
             <div
                 css={{
                     margin: '1rem 0'

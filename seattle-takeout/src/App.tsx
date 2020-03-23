@@ -90,16 +90,24 @@ function App() {
                 }}
             >
                 <h1>🍴 Seattle Takeout.</h1>
+                <p>Restaurants offering deliveries in these tough times.</p>
                 <div className="content">
                     <blockquote>
                         👋 Hey guys! This is very much WIP (UI changes, sorting, new restaurants, etc.), but I hope that this list of restaurants will
                         encourage people to support local restaurants that are struggling during this crisis. For any
-                        new entries, please create a pull request{' '}
-                        <a target="_blank" rel="noreferrer" href="https://github.com/Spiderpig86/seattle-takeout">here</a>.
+                        new entries, please create a new issue{' '}
+                        <a target="_blank" rel="noreferrer" href="https://github.com/Spiderpig86/seattle-takeout/issues/new">here</a>.
                     </blockquote>
                     <RestaurantTable columns={columns} data={restaurantData} />
                 </div>
             </div>
+            <footer>
+                <div className="u-text-center content">
+                    <h3 className="white">Seattle Takeout.</h3>
+                    <div className="divider"></div>
+                    <p>Powered by <a target="_blank" rel="noreferrer" href="https://spiderpig86.github.io/Cirrus/">Cirrus</a>. Made by your local foodie, <a target="_blank" rel="noreferrer" href="https://stanleylim.me">Stanley Lim</a>.</p>
+                </div>
+            </footer>
         </div>
     );
 }
