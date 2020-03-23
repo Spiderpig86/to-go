@@ -1,0 +1,4 @@
+[build]
+    base = "./seattle-takeout"
+    command = "npm run build"
+    publish = "build"
