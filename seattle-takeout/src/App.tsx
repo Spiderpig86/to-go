@@ -67,7 +67,12 @@ function App() {
                     },
                     {
                         Header: 'Vegan Options',
-                        accessor: (restaurant: Restaurant) => restaurant.veganOptions
+                        accessor: (restaurant: Restaurant) => {
+                            if (restaurant.veganOptions === null) {
+                                return  '';
+                            }
+                            return restaurant.veganOptions ? 'Yes' : 'No';
+                        }
                     },
                     {
                         Header: 'Price',

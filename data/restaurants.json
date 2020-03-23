@@ -11,10 +11,76 @@
             "address": "419 6th Ave S, Seattle, WA 98104",
             "website": "",
             "deliveryApps": [
+                "UberEats",
+                "GrubHub"
+            ],
+            "veganOptions": true,
+            "price": "$"
+        },
+        {
+            "name": "663 Bistro",
+            "types": [
+                "Chinese",
+                "Cantonese"
+            ],
+            "phone": "(206) 667-8760",
+            "location": "International District",
+            "address": "663 S Weller St, Seattle, WA 98104",
+            "website": "https://www.663bistro.com/",
+            "deliveryApps": [
+                "GrubHub"
+            ],
+            "veganOptions": null,
+            "price": "$$"
+        },
+        {
+            "name": "Asia Bar-B-Que",
+            "types": [
+                "Chinese",
+                "Cantonese"
+            ],
+            "phone": "(206) 624-2275",
+            "location": "International District",
+            "address": "655 S Jackson St A, Seattle, WA 98104",
+            "website": "http://www.asibarbqueseattle.com/",
+            "deliveryApps": [
+                "GrubHub",
                 "UberEats"
             ],
-            "veganOptions": "false",
+            "veganOptions": null,
+            "price": "$$"
+        },
+        {
+            "name": "Asiana Bistro Teriyaki",
+            "types": [
+                "Chinese",
+                "Japanese"
+            ],
+            "phone": "(425) 869-2960",
+            "location": "Redmond",
+            "address": "17875 Redmond Way # 150, Redmond, WA 98052",
+            "website": "https://www.asiana-bistro.com/",
+            "deliveryApps": [
+                
+            ],
+            "veganOptions": null,
             "price": "$"
+        },
+        {
+            "name": "Bun & Oc",
+            "types": [
+                "Vietnamese"
+            ],
+            "phone": "(206) 860-1556",
+            "location": "International District",
+            "address": "1306 S King St, Seattle, WA 98144",
+            "website": "https://www.asiana-bistro.com/",
+            "deliveryApps": [
+                "DoorDash",
+                "GrubHub"
+            ],
+            "veganOptions": null,
+            "price": "$$"
         }
     ]
 }

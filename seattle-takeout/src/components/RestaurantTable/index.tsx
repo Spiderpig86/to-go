@@ -38,7 +38,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
         }}>
             <div
                 css={{
-                    margin: '1rem 0'
+                    margin: '1rem .25rem'
                 }}
             >
                 <input value={filterInput} onChange={handleFilterChange} placeholder={'Search for a restaurant...'} />

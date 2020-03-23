@@ -6,6 +6,6 @@ export interface Restaurant {
     address: string;
     website: string;
     deliveryApps: string[];
-    veganOptions: string;
+    veganOptions: boolean | null;
     price: string;
 }
