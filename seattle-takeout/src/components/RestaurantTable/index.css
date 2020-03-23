@@ -1,0 +1,24 @@
+.table th {
+    position: relative;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.table th:before {
+    position: absolute;
+    right: 1rem;
+    top: 1.7rem;
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+}
+
+table th.column-sort--asc:before {
+    border-bottom: 5px solid #22543d;
+}
+
+table th.column-sort--desc:before {
+    border-top: 5px solid #22543d;
+}

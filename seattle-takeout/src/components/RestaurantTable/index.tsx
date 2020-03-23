@@ -1,14 +1,11 @@
 import React, { useState } from 'react';
-import { useTable, useGlobalFilter, useGroupBy, useExpanded } from 'react-table';
+import { useTable, useGlobalFilter, useGroupBy, useExpanded, useSortBy } from 'react-table';
 /** @jsx jsx */
-import { css, jsx } from '@emotion/core'
+import { css, jsx } from '@emotion/core';
 
-import './index.css';
 import { Restaurant } from '../../model/restaurant';
 
-interface ServerData {
-    restaurants: Restaurant[];
-}
+import './index.css';
 
 interface RestaurantTableProps {
     columns: any;
@@ -25,7 +22,8 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
         },
         useGlobalFilter,
         useGroupBy,
-        useExpanded
+        useSortBy,
+        useExpanded,
     );
 
     const handleFilterChange = (e: any) => {
@@ -36,20 +34,35 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
 
     return (
         <div>
-            <div css={{
-                margin: '1rem 0'
-            }}>
+            <div
+                css={{
+                    margin: '1rem 0'
+                }}
+            >
                 <input value={filterInput} onChange={handleFilterChange} placeholder={'Search for a restaurant...'} />
             </div>
-            <div css={{
-                margin: '1rem 0'
-            }}>
+            <div
+                css={{
+                    margin: '1rem 0'
+                }}
+            >
                 <table className="table bordered striped" {...getTableProps()}>
                     <thead>
                         {headerGroups.map(headerGroup => (
                             <tr {...headerGroup.getHeaderGroupProps()}>
                                 {headerGroup.headers.map(column => (
-                                    <th {...column.getHeaderProps()}>{column.render('Header')}</th>
+                                    <th
+                                        {...column.getHeaderProps(column.getSortByToggleProps())}
+                                        className={
+                                            column.isSorted
+                                                ? column.isSortedDesc
+                                                    ? 'column-sort--desc'
+                                                    : 'column-sort--asc'
+                                                : ''
+                                        }
+                                    >
+                                        {column.render('Header')}
+                                    </th>
                                 ))}
                             </tr>
                         ))}
