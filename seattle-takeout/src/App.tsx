@@ -10,6 +10,7 @@ import { DeliveryTag } from './components/DeliveryTag';
 
 import logo from './logo.svg';
 import './App.css';
+import { LocationTag } from './components/LocationTag';
 
 interface CellType {
     cell: {
@@ -26,7 +27,6 @@ function App() {
                 'https://raw.githubusercontent.com/Spiderpig86/seattle-takeout/master/data/restaurants.json'
             );
             setRestaurantData(response.data.restaurants);
-            console.log(restaurantData);
         })();
     }, []);
 
@@ -46,19 +46,29 @@ function App() {
                     },
                     {
                         Header: 'Phone',
-                        accessor: (restaurant: Restaurant) => restaurant.phone
+                        accessor: (restaurant: Restaurant) => restaurant.phone,
+                        Cell: ({ cell: { value } }: CellType) => {
+                            return (value && value !== '') ? <a css={{whiteSpace: 'nowrap'}} className="u u-LR" href={'tel:' + value} target="_blank" rel="noreferrer">{value}</a> : <div></div>
+                        }
                     },
                     {
                         Header: 'Location',
-                        accessor: (restaurant: Restaurant) => restaurant.location
+                        accessor: (restaurant: Restaurant) => restaurant.location,
+                        Cell: ({ cell: { value } }: CellType) => <LocationTag location={value} />
                     },
                     {
                         Header: 'Address',
-                        accessor: (restaurant: Restaurant) => restaurant.address
+                        accessor: (restaurant: Restaurant) => restaurant.address,
+                        Cell: ({ cell: { value } }: CellType) => {
+                            return (value && value !== '') ? <a className="u u-LR u-block" href={'https://maps.google.com/?q=' + value} target="_blank" rel="noreferrer">{value}</a> : <div></div>
+                        }
                     },
                     {
                         Header: 'Website',
-                        accessor: (restaurant: Restaurant) => restaurant.website
+                        accessor: (restaurant: Restaurant) => restaurant,
+                        Cell: ({ cell: { value } }: CellType) => {
+                            return (value.website && value.website !== '') ? <a css={{whiteSpace: 'nowrap'}} className="u u-LR" href={value.website} target="_blank" rel="noreferrer">{value.name}</a> : <div></div>
+                        }
                     },
                     {
                         Header: 'Delivery App(s)',
@@ -95,7 +105,7 @@ function App() {
                     marginTop: '7rem'
                 }}
             >
-                <h1>🍴 Seattle Takeout.</h1>
+                <h1>🍴 SeaToGo.</h1>
                 <p>Restaurants offering deliveries in these tough times.</p>
                 <div className="content">
                     <blockquote>
@@ -109,9 +119,11 @@ function App() {
             </div>
             <footer>
                 <div className="u-text-center content">
-                    <h3 className="white">Seattle Takeout.</h3>
-                    <div className="divider"></div>
-                    <p>Powered by <a target="_blank" rel="noreferrer" href="https://spiderpig86.github.io/Cirrus/">Cirrus</a>. Made by your local foodie, <a target="_blank" rel="noreferrer" href="https://stanleylim.me">Stanley Lim</a>.</p>
+                    <h3 className="white">SeaToGo.</h3>
+                    <div className="divider w-50 u-center" css={{
+                        margin: '2rem auto'
+                    }}></div>
+                    <p>Powered by <a target="_blank" rel="noreferrer" href="https://spiderpig86.github.io/Cirrus/">Cirrus</a>. Made by your local foodie, <a target="_blank" rel="noreferrer" href="https://stanleylim.me">🍚 Stanley Lim</a>.</p>
                 </div>
             </footer>
         </div>

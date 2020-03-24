@@ -1,7 +1,7 @@
 .table th {
     position: relative;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: 1.75rem !important;
+    padding-right: 1.75rem !important;
 }
 
 .table th:before {
@@ -15,11 +15,11 @@
     border-right: 5px solid transparent;
 }
 
-table th.column-sort--asc:before {
+.table th.column-sort--asc:before {
     border-bottom: 5px solid #22543d;
 }
 
-table th.column-sort--desc:before {
+.table th.column-sort--desc:before {
     border-top: 5px solid #22543d;
 }
 

@@ -9,7 +9,7 @@
             "phone": "(206) 682-1267",
             "location": "International District",
             "address": "419 6th Ave S, Seattle, WA 98104",
-            "website": "",
+            "website": null,
             "deliveryApps": [
                 "UberEats",
                 "GrubHub"
@@ -74,7 +74,7 @@
             "phone": "(206) 860-1556",
             "location": "International District",
             "address": "1306 S King St, Seattle, WA 98144",
-            "website": "https://www.asiana-bistro.com/",
+            "website": null,
             "deliveryApps": [
                 "DoorDash",
                 "GrubHub"
