@@ -48,7 +48,7 @@ function App() {
                         Header: 'Phone',
                         accessor: (restaurant: Restaurant) => restaurant.phone,
                         Cell: ({ cell: { value } }: CellType) => {
-                            return (value && value !== '') ? <a css={{whiteSpace: 'nowrap'}} className="u u-LR" href={'tel:' + value} target="_blank" rel="noreferrer">{value}</a> : <div></div>
+                            return (value && value !== '') ? <a css={{whiteSpace: 'nowrap'}} className="u u-LR" href={'tel:' + value} target="_blank" rel="noopener noref">{value}</a> : <div></div>
                         }
                     },
                     {
@@ -60,14 +60,14 @@ function App() {
                         Header: 'Address',
                         accessor: (restaurant: Restaurant) => restaurant.address,
                         Cell: ({ cell: { value } }: CellType) => {
-                            return (value && value !== '') ? <a className="u u-LR u-block" href={'https://maps.google.com/?q=' + value} target="_blank" rel="noreferrer">{value}</a> : <div></div>
+                            return (value && value !== '') ? <a className="u u-LR u-block" href={'https://maps.google.com/?q=' + value} target="_blank" rel="noopener noref">{value}</a> : <div></div>
                         }
                     },
                     {
                         Header: 'Website',
                         accessor: (restaurant: Restaurant) => restaurant,
                         Cell: ({ cell: { value } }: CellType) => {
-                            return (value.website && value.website !== '') ? <a css={{whiteSpace: 'nowrap'}} className="u u-LR" href={value.website} target="_blank" rel="noreferrer">{value.name}</a> : <div></div>
+                            return (value.website && value.website !== '') ? <a css={{whiteSpace: 'nowrap'}} className="u u-LR" href={value.website} target="_blank" rel="noopener noref">{value.name}</a> : <div></div>
                         }
                     },
                     {
@@ -112,7 +112,7 @@ function App() {
                         👋 Hey guys! This is very much WIP (UI changes, sorting, new restaurants, etc.), but I hope that this list of restaurants will
                         encourage people to support local restaurants that are struggling during this crisis. For any
                         new entries, please create a new issue{' '}
-                        <a target="_blank" rel="noreferrer" href="https://github.com/Spiderpig86/seattle-takeout/issues/new">here</a>.
+                        <a target="_blank" rel="noopener noref" href="https://github.com/Spiderpig86/seattle-takeout/issues/new">here</a>.
                     </blockquote>
                     <RestaurantTable columns={columns} data={restaurantData} />
                 </div>
@@ -123,7 +123,7 @@ function App() {
                     <div className="divider w-50 u-center" css={{
                         margin: '2rem auto'
                     }}></div>
-                    <p>Powered by <a target="_blank" rel="noreferrer" href="https://spiderpig86.github.io/Cirrus/">Cirrus</a>. Made by your local foodie, <a target="_blank" rel="noreferrer" href="https://stanleylim.me">🍚 Stanley Lim</a>.</p>
+                    <p>Powered by <a target="_blank" rel="noopener noref" href="https://spiderpig86.github.io/Cirrus/">Cirrus</a>. Made by your local foodie, <a target="_blank" rel="noopener noref" href="https://stanleylim.me">🍚 Stanley Lim</a>.</p>
                 </div>
             </footer>
         </div>

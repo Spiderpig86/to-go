@@ -81,6 +81,118 @@
             ],
             "veganOptions": null,
             "price": "$$"
+        },
+        {
+            "name": "Super Six",
+            "types": [
+                "Asian Fusion", "Hawaiian", "American (New)"
+            ],
+            "phone": "(206) 860-1556",
+            "location": "Columbia City",
+            "address": "3714 S Hudson St, Seattle, WA 98118",
+            "website": "http://www.supersixseattle.com/",
+            "deliveryApps": [
+            ],
+            "veganOptions": true,
+            "price": "$$"
+        },
+        {
+            "name": "El Parche Colombiano Restaurant",
+            "types": [
+                "Colombian"
+            ],
+            "phone": "(206) 458-2465",
+            "location": "Columbia City",
+            "address": "11740 15th Ave NE, Seattle, WA 98125",
+            "website": "http://www.supersixseattle.com/",
+            "deliveryApps": [
+            ],
+            "veganOptions": null,
+            "price": "$$"
+        },
+        {
+            "name": "Araya's Place",
+            "types": [
+                "Thai", "Vegan"
+            ],
+            "phone": "(206) 402-6634",
+            "location": "Capitol Hill",
+            "address": "2808 E Madison St, Seattle, WA 98112",
+            "website": "https://www.arayasplace.com/",
+            "deliveryApps": [
+            ],
+            "veganOptions": true,
+            "price": "$$"
+        },
+        {
+            "name": "Mean Sandwich",
+            "types": [
+                "Sandwiches", "Burgers", "Falafel"
+            ],
+            "phone": "(206) 789-9999",
+            "location": "Ballard",
+            "address": "1510 NW Leary Way, Seattle, WA 98107",
+            "website": "https://www.meansandwich.com/",
+            "deliveryApps": [
+            ],
+            "veganOptions": null,
+            "price": "$$"
+        },
+        {
+            "name": "Pink Bee",
+            "types": [
+                "Sandwiches", "Thai"
+            ],
+            "phone": "(206) 466-1650",
+            "location": "Ballard",
+            "address": "2010 NW 56th St, Seattle, WA 98107",
+            "website": "http://www.pinkbeethai.com/",
+            "deliveryApps": [
+            ],
+            "veganOptions": true,
+            "price": "$"
+        },
+        {
+            "name": "O'Ginger Bistro",
+            "types": [
+                "Thai"
+            ],
+            "phone": "(206) 922-2362",
+            "location": "Greenlake",
+            "address": "6900 E Green Lake Way N, Seattle, WA 98115",
+            "website": "http://www.ogingerbistro.net/",
+            "deliveryApps": [
+            ],
+            "veganOptions": true,
+            "price": "$$"
+        },
+        {
+            "name": "S/T Hooligans",
+            "types": [
+                "Cajun", "Creole", "Burgers"
+            ],
+            "phone": "(206) 659-4754",
+            "location": "Fremont",
+            "address": "4354 Leary Way NW, Seattle, WA 98107",
+            "website": "http://www.sthooligans.com/",
+            "deliveryApps": [
+            ],
+            "veganOptions": true,
+            "price": "$$"
+        },
+        {
+            "name": "Ballard Pizza Company",
+            "types": [
+                "Pizza", "Italian", "Beer Bar"
+            ],
+            "phone": "(206) 946-9960",
+            "location": "Ballard",
+            "address": "5107 Ballard Ave NW, Seattle, WA 98107",
+            "website": "http://www.ballardpizzacompany.com/bpc-ballard",
+            "deliveryApps": [
+            ],
+            "veganOptions": true,
+            "price": "$$"
         }
     ]
 }
