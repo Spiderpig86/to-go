@@ -7,7 +7,7 @@
                 "Cantonese"
             ],
             "phone": "(206) 682-1267",
-            "location": ["International District"],
+            "locations": ["International District"],
             "address": "419 6th Ave S, Seattle, WA 98104",
             "website": null,
             "deliveryApps": [
@@ -24,7 +24,7 @@
                 "Cantonese"
             ],
             "phone": "(206) 667-8760",
-            "location": ["International District"],
+            "locations": ["International District"],
             "address": "663 S Weller St, Seattle, WA 98104",
             "website": "https://www.663bistro.com/",
             "deliveryApps": [
@@ -40,7 +40,7 @@
                 "Cantonese"
             ],
             "phone": "(206) 624-2275",
-            "location": ["International District"],
+            "locations": ["International District"],
             "address": "655 S Jackson St A, Seattle, WA 98104",
             "website": "http://www.asibarbqueseattle.com/",
             "deliveryApps": [
@@ -57,7 +57,7 @@
                 "Japanese"
             ],
             "phone": "(425) 869-2960",
-            "location": ["Redmond"],
+            "locations": ["Redmond"],
             "address": "17875 Redmond Way # 150, Redmond, WA 98052",
             "website": "https://www.asiana-bistro.com/",
             "deliveryApps": [
@@ -72,7 +72,7 @@
                 "Vietnamese"
             ],
             "phone": "(206) 860-1556",
-            "location": ["International District"],
+            "locations": ["International District"],
             "address": "1306 S King St, Seattle, WA 98144",
             "website": null,
             "deliveryApps": [
@@ -88,7 +88,7 @@
                 "Asian Fusion", "Hawaiian", "American (New)"
             ],
             "phone": "(206) 860-1556",
-            "location": ["Columbia City"],
+            "locations": ["Columbia City"],
             "address": "3714 S Hudson St, Seattle, WA 98118",
             "website": "http://www.supersixseattle.com/",
             "deliveryApps": [
@@ -102,7 +102,7 @@
                 "Colombian"
             ],
             "phone": "(206) 458-2465",
-            "location": ["Columbia City"],
+            "locations": ["Columbia City"],
             "address": "11740 15th Ave NE, Seattle, WA 98125",
             "website": "http://www.supersixseattle.com/",
             "deliveryApps": [
@@ -116,7 +116,7 @@
                 "Thai", "Vegan"
             ],
             "phone": "(206) 402-6634",
-            "location": ["Capitol Hill"],
+            "locations": ["Capitol Hill"],
             "address": "2808 E Madison St, Seattle, WA 98112",
             "website": "https://www.arayasplace.com/",
             "deliveryApps": [
@@ -130,7 +130,7 @@
                 "Sandwiches", "Burgers", "Falafel"
             ],
             "phone": "(206) 789-9999",
-            "location": ["Ballard"],
+            "locations": ["Ballard"],
             "address": "1510 NW Leary Way, Seattle, WA 98107",
             "website": "https://www.meansandwich.com/",
             "deliveryApps": [
@@ -144,7 +144,7 @@
                 "Sandwiches", "Thai"
             ],
             "phone": "(206) 466-1650",
-            "location": "Ballard",
+            "locations": "Ballard",
             "address": "2010 NW 56th St, Seattle, WA 98107",
             "website": "http://www.pinkbeethai.com/",
             "deliveryApps": [
@@ -158,7 +158,7 @@
                 "Thai"
             ],
             "phone": "(206) 922-2362",
-            "location": ["Greenlake"],
+            "locations": ["Greenlake"],
             "address": "6900 E Green Lake Way N, Seattle, WA 98115",
             "website": "http://www.ogingerbistro.net/",
             "deliveryApps": [
@@ -172,7 +172,7 @@
                 "Cajun", "Creole", "Burgers"
             ],
             "phone": "(206) 659-4754",
-            "location": ["Fremont"],
+            "locations": ["Fremont"],
             "address": "4354 Leary Way NW, Seattle, WA 98107",
             "website": "http://www.sthooligans.com/",
             "deliveryApps": [
@@ -186,7 +186,7 @@
                 "Pizza", "Italian", "Beer Bar"
             ],
             "phone": "(206) 946-9960",
-            "location": ["Ballard"],
+            "locations": ["Ballard"],
             "address": "5107 Ballard Ave NW, Seattle, WA 98107",
             "website": "http://www.ballardpizzacompany.com/bpc-ballard",
             "deliveryApps": [
