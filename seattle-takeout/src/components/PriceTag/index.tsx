@@ -4,31 +4,23 @@ import { Tag } from '../Tag';
 import { TagColors } from '../../model/tag-color';
 
 interface PriceTagProps {
-    types: string[];
+    price: string;
 }
 
 const deliveryColorMap = new Map<string, TagColors>([
-    ['$', {backColor: '#ef333e', foreColor: '#fff'}],
-    ['$$', {backColor: '#142127', foreColor: '#fff'}],
-    ['$$$', {backColor: '#f6f6f6', foreColor: '#fff'}],
-    ['$$$$', {backColor: '#f8f8f8', foreColor: '#fff'}],
-    ['$$$$$', {backColor: '#f87e00', foreColor: '#fff'}],
+    ['$', { backColor: '#c6facc', foreColor: '#222' }],
+    ['$$', { backColor: '#80eb99', foreColor: '#222' }],
+    ['$$$', { backColor: '#57cc98', foreColor: '#fff' }],
+    ['$$$$', { backColor: '#37a3a5', foreColor: '#fff' }],
+    ['$$$$$', { backColor: '#21577b', foreColor: '#fff' }]
 ]);
 
-export const TypeTag: React.FC<PriceTagProps> = (props) => {
-    
-
+export const TypeTag: React.FC<PriceTagProps> = props => {
+    const tagColor = deliveryColorMap.get(props.price);
     return (
         <>
-            { props.types.map((type, index) => {
-                const tagColor: TagColors = {
-                    backColor: colorHash.hex(type),
-                    foreColor: '#fff'
-                }
-                return (
-                    <Tag key={index} text={type} tagColor={tagColor} />
-                )
-            }) }
+            return (
+            <Tag text={props.price} tagColor={tagColor} />
         </>
-    )
-}
+    );
+};

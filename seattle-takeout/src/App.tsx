@@ -53,7 +53,7 @@ function App() {
                     },
                     {
                         Header: 'Location',
-                        accessor: (restaurant: Restaurant) => restaurant.location,
+                        accessor: (restaurant: Restaurant) => restaurant.locations,
                         Cell: ({ cell: { value } }: CellType) => <LocationTag locations={value} />
                     },
                     {

@@ -144,7 +144,7 @@
                 "Sandwiches", "Thai"
             ],
             "phone": "(206) 466-1650",
-            "locations": "Ballard",
+            "locations": ["Ballard"],
             "address": "2010 NW 56th St, Seattle, WA 98107",
             "website": "http://www.pinkbeethai.com/",
             "deliveryApps": [
