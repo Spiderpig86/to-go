@@ -17,5 +17,6 @@ code {
 }
 
 .content {
-  max-width: 80rem !important;
+  max-width: 100rem !important;
+  width: 90%;
 }

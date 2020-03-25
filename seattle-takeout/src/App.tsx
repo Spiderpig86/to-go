@@ -67,7 +67,7 @@ function App() {
                         Header: 'Website',
                         accessor: (restaurant: Restaurant) => restaurant,
                         Cell: ({ cell: { value } }: CellType) => {
-                            return (value.website && value.website !== '') ? <a css={{whiteSpace: 'nowrap'}} className="u u-LR" href={value.website} target="_blank" rel="noopener noref">{value.name}</a> : <div></div>
+                            return (value.website && value.website !== '') ? <a className="u u-LR u-block" href={value.website} target="_blank" rel="noopener noref">{value.name}</a> : <div></div>
                         }
                     },
                     {
@@ -79,9 +79,9 @@ function App() {
                         Header: 'Vegan Options',
                         accessor: (restaurant: Restaurant) => {
                             if (restaurant.veganOptions === null) {
-                                return  '';
+                                return '❔';
                             }
-                            return restaurant.veganOptions ? 'Yes' : 'No';
+                            return restaurant.veganOptions ? '✅' : '❌';
                         }
                     },
                     {
