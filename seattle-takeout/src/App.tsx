@@ -8,6 +8,7 @@ import { Restaurant } from './model/restaurant';
 import { TypeTag } from './components/TypeTag';
 import { DeliveryTag } from './components/DeliveryTag';
 import { LocationTag } from './components/LocationTag';
+import { PriceTag } from './components/PriceTag';
 
 import logo from './logo.svg';
 import './App.css';
@@ -20,6 +21,8 @@ interface CellType {
 
 function App() {
     const [restaurantData, setRestaurantData] = useState([]);
+    const [filterInput, setFilterInput] = useState('');
+
 
     useEffect(() => {
         (async () => {
@@ -33,47 +36,46 @@ function App() {
     const columns = useMemo(
         () => [
             {
-                Header: 'Restaurants',
+                Header: `Restaurants`,
                 columns: [
                     {
                         Header: 'Name',
-                        accessor: (restaurant: Restaurant) => restaurant.name
+                        accessor: (restaurant: Restaurant) => restaurant,
+                        Cell: ({ cell: { value } }: CellType) => {
+                            return (value.website && value.website !== '') ? <a className="column-link u-block" href={value.website} target="_blank" rel="noopener noref">{value.name}</a> : <div>{value.name}</div>
+                        },
+                        sortType: (a, b) => {
+                            return String(a.original.name).localeCompare(String(b.original.name));
+                        }
                     },
                     {
                         Header: 'Types',
                         accessor: (restaurant: Restaurant) => restaurant.types,
-                        Cell: ({ cell: { value } }: CellType) => <TypeTag types={value} />
+                        Cell: ({ cell: { value } }: CellType) => <TypeTag types={value}  setFilterInput={setFilterInput} />
                     },
                     {
                         Header: 'Phone',
                         accessor: (restaurant: Restaurant) => restaurant.phone,
                         Cell: ({ cell: { value } }: CellType) => {
-                            return (value && value !== '') ? <a css={{whiteSpace: 'nowrap'}} className="u u-LR" href={'tel:' + value} target="_blank" rel="noopener noref">{value}</a> : <div></div>
+                            return (value && value !== '') ? <a css={{whiteSpace: 'nowrap'}} className="column-link" href={'tel:' + value} target="_blank" rel="noopener noref">{value}</a> : <div></div>
                         }
                     },
                     {
                         Header: 'Location',
                         accessor: (restaurant: Restaurant) => restaurant.locations,
-                        Cell: ({ cell: { value } }: CellType) => <LocationTag locations={value} />
+                        Cell: ({ cell: { value } }: CellType) => <LocationTag locations={value} setFilterInput={setFilterInput} />
                     },
                     {
                         Header: 'Address',
                         accessor: (restaurant: Restaurant) => restaurant.address,
                         Cell: ({ cell: { value } }: CellType) => {
-                            return (value && value !== '') ? <a className="u u-LR u-block" href={'https://maps.google.com/?q=' + value} target="_blank" rel="noopener noref">{value}</a> : <div></div>
-                        }
-                    },
-                    {
-                        Header: 'Website',
-                        accessor: (restaurant: Restaurant) => restaurant,
-                        Cell: ({ cell: { value } }: CellType) => {
-                            return (value.website && value.website !== '') ? <a className="u u-LR u-block" href={value.website} target="_blank" rel="noopener noref">{value.name}</a> : <div></div>
+                            return (value && value !== '') ? <a className="column-link u-block" href={'https://maps.google.com/?q=' + value} target="_blank" rel="noopener noref">{value}</a> : <div></div>
                         }
                     },
                     {
                         Header: 'Delivery App(s)',
                         accessor: (restaurant: Restaurant) => restaurant.deliveryApps,
-                        Cell: ({ cell: { value } }: CellType) => <DeliveryTag deliveryOptions={value} />
+                        Cell: ({ cell: { value } }: CellType) => <DeliveryTag deliveryOptions={value} setFilterInput={setFilterInput} />
                     },
                     {
                         Header: 'Vegan Options',
@@ -86,7 +88,8 @@ function App() {
                     },
                     {
                         Header: 'Price',
-                        accessor: (restaurant: Restaurant) => restaurant.price
+                        accessor: (restaurant: Restaurant) => restaurant.price,
+                        Cell: ({ cell: { value } }: CellType) => <PriceTag price={value} setFilterInput={setFilterInput} />
                     }
                 ]
             }
@@ -114,7 +117,7 @@ function App() {
                         new entries, please create a new issue{' '}
                         <a target="_blank" rel="noopener noref" href="https://github.com/Spiderpig86/seattle-takeout/issues/new">here</a>.
                     </blockquote>
-                    <RestaurantTable columns={columns} data={restaurantData} />
+                    <RestaurantTable columns={columns} data={restaurantData} {...{filterInput, setFilterInput}} />
                 </div>
             </div>
             <footer>

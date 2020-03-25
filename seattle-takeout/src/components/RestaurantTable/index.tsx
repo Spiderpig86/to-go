@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useTable, useGlobalFilter, useGroupBy, useExpanded, useSortBy } from 'react-table';
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core';
@@ -10,11 +10,11 @@ import './index.css';
 interface RestaurantTableProps {
     columns: any;
     data: Restaurant[];
+    filterInput: string;
+    setFilterInput: (value: string) => void;
 }
 
 export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
-    const [filterInput, setFilterInput] = useState('');
-
     const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow, setGlobalFilter } = useTable(
         {
             columns: props.columns,
@@ -29,8 +29,14 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
     const handleFilterChange = (e: any) => {
         const value = e.target.value || '';
         setGlobalFilter(value);
-        setFilterInput(value);
+        props.setFilterInput(value);
     };
+
+    useEffect(() => {
+        const value = props.filterInput|| '';
+        setGlobalFilter(value);
+        props.setFilterInput(value);
+    }, [props.filterInput]);
 
     return (
         <div>
@@ -39,7 +45,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                     margin: '1rem .25rem'
                 }}
             >
-                <input value={filterInput} onChange={handleFilterChange} placeholder={'Search for a restaurant...'} />
+                <input value={props.filterInput} onChange={handleFilterChange} placeholder={'Search for a restaurant...'} />
             </div>
             <div
                 css={{

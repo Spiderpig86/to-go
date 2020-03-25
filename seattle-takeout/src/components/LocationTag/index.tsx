@@ -4,6 +4,7 @@ import { TagColors } from '../../model/tag-color';
 
 interface LocationTagProps {
     locations: string[];
+    setFilterInput: (value: string) => void;
 }
 
 const locationColorMap = new Map<string, TagColors>([
@@ -23,14 +24,12 @@ const locationColorMap = new Map<string, TagColors>([
 ]);
 
 export const LocationTag: React.FC<LocationTagProps> = props => {
-    console.log(props.locations);
-    
     return (
         <>
             {props.locations.map((location, index) => {
                 const locationsKey = location.toLowerCase();
                 const tagColor = locationColorMap.get(locationsKey);
-                return <Tag key={index} text={location} tagColor={tagColor} />;
+                return <Tag key={index} text={location} tagColor={tagColor} setFilterInput={props.setFilterInput} />;
             })}
         </>
     );

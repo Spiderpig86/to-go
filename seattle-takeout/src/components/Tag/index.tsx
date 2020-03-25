@@ -7,7 +7,8 @@ import './index.css';
 
 interface TagProps {
     text: string;
-    tagColor?: TagColors
+    tagColor?: TagColors;
+    setFilterInput: (value: string) => void;
 }
 
 export const Tag: React.FC<TagProps> = (props) => {
@@ -16,10 +17,12 @@ export const Tag: React.FC<TagProps> = (props) => {
         {
             backgroundColor: props.tagColor ? `${props.tagColor.backColor} !important` : 'inherit',
             color: props.tagColor ? `${props.tagColor.foreColor} !important` : 'inherit',
+            cursor: 'pointer',
             fontSize: '85%',
             margin: '0.25rem',
             padding: '0.25rem',
-        }}>
+        }}
+        onClick={(e) => props.setFilterInput(props.text)}>
             { props.text }
         </div>
     )

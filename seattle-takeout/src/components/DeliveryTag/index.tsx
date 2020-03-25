@@ -4,6 +4,7 @@ import { TagColors } from '../../model/tag-color';
 
 interface DeliveryTagProps {
     deliveryOptions: string[];
+    setFilterInput: (value: string) => void;
 }
 
 const deliveryColorMap = new Map<string, TagColors>([
@@ -24,7 +25,7 @@ export const DeliveryTag: React.FC<DeliveryTagProps> = (props) => {
                 const tagColor = deliveryColorMap.get(deliveryOptionKey);
                 
                 return (
-                    <Tag key={index} text={deliveryOption} tagColor={tagColor} />
+                    <Tag key={index} text={deliveryOption} tagColor={tagColor} setFilterInput={props.setFilterInput} />
                 )
             }) }
         </>

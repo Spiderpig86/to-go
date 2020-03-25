@@ -5,6 +5,7 @@ import { TagColors } from '../../model/tag-color';
 
 interface TypeTagProps {
     types: string[];
+    setFilterInput: (value: string) => void;
 }
 
 export const TypeTag: React.FC<TypeTagProps> = (props) => {
@@ -18,7 +19,7 @@ export const TypeTag: React.FC<TypeTagProps> = (props) => {
                     foreColor: '#fff'
                 }
                 return (
-                    <Tag key={index} text={type} tagColor={tagColor} />
+                    <Tag key={index} text={type} tagColor={tagColor} setFilterInput={props.setFilterInput} />
                 )
             }) }
         </>
