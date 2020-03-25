@@ -7,10 +7,10 @@ import { css, jsx } from '@emotion/core';
 import { Restaurant } from './model/restaurant';
 import { TypeTag } from './components/TypeTag';
 import { DeliveryTag } from './components/DeliveryTag';
+import { LocationTag } from './components/LocationTag';
 
 import logo from './logo.svg';
 import './App.css';
-import { LocationTag } from './components/LocationTag';
 
 interface CellType {
     cell: {
@@ -54,7 +54,7 @@ function App() {
                     {
                         Header: 'Location',
                         accessor: (restaurant: Restaurant) => restaurant.location,
-                        Cell: ({ cell: { value } }: CellType) => <LocationTag location={value} />
+                        Cell: ({ cell: { value } }: CellType) => <LocationTag locations={value} />
                     },
                     {
                         Header: 'Address',

@@ -3,7 +3,7 @@ import { Tag } from '../Tag';
 import { TagColors } from '../../model/tag-color';
 
 interface LocationTagProps {
-    location: string;
+    locations: string[];
 }
 
 const locationColorMap = new Map<string, TagColors>([
@@ -23,13 +23,15 @@ const locationColorMap = new Map<string, TagColors>([
 ]);
 
 export const LocationTag: React.FC<LocationTagProps> = props => {
-    const locationKey = props.location.toLowerCase();
-    const tagColor = locationColorMap.get(locationKey);
-    console.log(tagColor, props);
-    
     return (
         <>
-            <Tag text={props.location} tagColor={tagColor} />
-        </>
+        { props.locations.map((location, index) => {
+            const locationsKey = location.toLowerCase();
+            const tagColor = locationColorMap.get(locationsKey);
+            return (
+                <Tag key={index} text={location} tagColor={tagColor} />
+            )
+        }) }
+    </>
     );
 };
