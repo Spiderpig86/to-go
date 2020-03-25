@@ -11,8 +11,6 @@ interface TagProps {
 }
 
 export const Tag: React.FC<TagProps> = (props) => {
-    console.log(props);
-    
     return (
         <div className="tag app-tag" css={
         {
