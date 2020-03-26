@@ -46,12 +46,13 @@ function App() {
                         },
                         sortType: (a, b) => {
                             return String(a.original.name).localeCompare(String(b.original.name));
-                        }
+                        },
+                        filter: 'restaurantFilter'
                     },
                     {
                         Header: 'Types',
                         accessor: (restaurant: Restaurant) => restaurant.types,
-                        Cell: ({ cell: { value } }: CellType) => <TypeTag types={value}  setFilterInput={setFilterInput} />
+                        Cell: ({ cell: { value } }: CellType) => <TypeTag types={value} setFilterInput={setFilterInput} />
                     },
                     {
                         Header: 'Phone',
