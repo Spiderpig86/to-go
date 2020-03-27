@@ -6,6 +6,7 @@ import { css, jsx } from '@emotion/core';
 import { Restaurant } from '../../model/restaurant';
 
 import './index.css';
+import { CollapsableTr } from '../CollapsableTr';
 
 interface RestaurantTableProps {
     columns: any;
@@ -62,10 +63,6 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
         props.setFilterInput(value);
     };
 
-    const collapsedClick = (e: React.MouseEvent<HTMLTableRowElement, MouseEvent>) => {
-        console.log(e);
-    };
-
     useEffect(() => {
         const value = props.filterInput || '';
         setGlobalFilter(value);
@@ -117,16 +114,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                         {rows.map(row => {
                             prepareRow(row); // Allow row to get props dynamically
                             return (
-                                <tr
-                                    {...row.getRowProps()}
-                                    className={'table__cell--collapsed'}
-                                    onClick={collapsedClick}
-                                    attr-collapsed={'true'}
-                                >
-                                    {row.cells.map((cell, i) => {
-                                        return <td {...cell.getCellProps()}>{cell.render('Cell')}</td>;
-                                    })}
-                                </tr>
+                                <CollapsableTr row={row} />
                             );
                         })}
                     </tbody>

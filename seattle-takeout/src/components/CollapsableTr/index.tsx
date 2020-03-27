@@ -1,8 +1,29 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { Row } from 'react-table';
+import { Restaurant } from '../../model/restaurant';
 
-
-export const CollapsableTr: React.FC = props => {
-    return (
-        <div></div>
-    )
+interface CollapsableTrProps {
+    row: Row<Restaurant>;
 }
+
+export const CollapsableTr: React.FC<CollapsableTrProps> = props => {
+    const row = props.row;
+    const [collapsed, setCollapsed] = useState(true);
+
+    const collapsedClick = (e: React.MouseEvent<HTMLTableRowElement, MouseEvent>) => {
+        setCollapsed(!collapsed);
+    };
+
+    return (
+        <tr
+            {...row.getRowProps()}
+            className={`table__cell${collapsed ? '--collapsed' : ''}`}
+            onClick={collapsedClick}
+            attr-collapsed={'true'}
+        >
+            {row.cells.map((cell, i) => {
+                return <td {...cell.getCellProps()}>{cell.render('Cell')}</td>;
+            })}
+        </tr>
+    );
+};
