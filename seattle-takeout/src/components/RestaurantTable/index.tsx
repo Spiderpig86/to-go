@@ -80,7 +80,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                     type={'search'}
                     value={props.filterInput}
                     onChange={handleFilterChange}
-                    placeholder={'Search for a restaurant...'}
+                    placeholder={'Search by name, type, ...'}
                 />
             </div>
             <div

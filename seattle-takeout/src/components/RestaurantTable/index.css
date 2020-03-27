@@ -61,9 +61,10 @@ and (max-device-width: 1024px) {
         border: none;
         border-bottom: 1px solid #eee;
         min-height: 4rem;
+        overflow: auto;
         position: relative;
         padding: 1rem;
-        padding-left: 35% !important;
+        padding-left: 15% !important;
     }
     
     tr.table__cell--collapsed {
@@ -76,7 +77,7 @@ and (max-device-width: 1024px) {
         /* Top/left values mimic padding */
         top: 30%;
         left: 1rem;
-        width: 35%;
+        width: 15%;
         padding-right: 10px;
         white-space: nowrap;
         font-weight: bold;
