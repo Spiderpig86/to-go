@@ -17,6 +17,7 @@
     "color-hash": "^1.0.3",
     "react": "^16.0.0",
     "react-dom": "^16.13.1",
+    "react-floating-action-button": "^1.0.5",
     "react-scripts": "3.4.1",
     "react-table": "^7.0.0",
     "typescript": "^3.8.3"

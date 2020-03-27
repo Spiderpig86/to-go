@@ -110,13 +110,12 @@ function App() {
                 }}
             >
                 <h1>🍴 SeaToGo.</h1>
-                <p>Restaurants offering deliveries in these tough times.</p>
+                <p>Restaurants still open in these tough times.</p>
                 <div className="content">
                     <blockquote>
                         👋 Hey guys! This is very much WIP (UI changes, sorting, new restaurants, etc.), but I hope that this list of restaurants will
-                        encourage people to support local restaurants that are struggling during this crisis. For any
-                        new entries, please create a new issue{' '}
-                        <a target="_blank" rel="noopener noref" href="https://github.com/Spiderpig86/seattle-takeout/issues/new">here</a>.
+                        encourage people to support local restaurants that are struggling during this crisis. For adding or updating restaurants, please fill out this {' '}
+                        <a target="_blank" rel="noopener noref" href="https://forms.gle/KRtTQUevbPbUck5H8">form</a>.
                     </blockquote>
                     <RestaurantTable columns={columns} data={restaurantData} {...{filterInput, setFilterInput}} />
                 </div>

@@ -17,9 +17,8 @@ export const CollapsableTr: React.FC<CollapsableTrProps> = props => {
     return (
         <tr
             {...row.getRowProps()}
-            className={`table__cell${collapsed ? '--collapsed' : ''}`}
+            className={`table__cell ${collapsed ? 'table__cell--collapsed' : ''}`}
             onClick={collapsedClick}
-            attr-collapsed={'true'}
         >
             {row.cells.map((cell, i) => {
                 return <td {...cell.getCellProps()}>{cell.render('Cell')}</td>;

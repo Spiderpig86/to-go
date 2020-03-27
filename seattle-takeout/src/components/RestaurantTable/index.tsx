@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useTable, useGlobalFilter, useGroupBy, useExpanded, useSortBy, Row, useFilters } from 'react-table';
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core';
+import { Container, Button, Link } from 'react-floating-action-button';
 
 import { Restaurant } from '../../model/restaurant';
 
@@ -23,19 +24,29 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                     const restaurant: Restaurant = row.original;
                     filterValue = filterValue.toLowerCase();
 
-                    const containsDelivery = restaurant.deliveryApps.some(delivery => delivery.toLowerCase().indexOf(filterValue) > -1);
-                    if (containsDelivery) { return true; }
-                    const containsLocation = restaurant.locations.some(location => location.toLowerCase().indexOf(filterValue) > -1);
-                    if (containsLocation) { return true; }
+                    const containsDelivery = restaurant.deliveryApps.some(
+                        delivery => delivery.toLowerCase().indexOf(filterValue) > -1
+                    );
+                    if (containsDelivery) {
+                        return true;
+                    }
+                    const containsLocation = restaurant.locations.some(
+                        location => location.toLowerCase().indexOf(filterValue) > -1
+                    );
+                    if (containsLocation) {
+                        return true;
+                    }
                     const containsType = restaurant.types.some(type => type.toLowerCase().indexOf(filterValue) > -1);
-                    if (containsType) { return true; }
+                    if (containsType) {
+                        return true;
+                    }
 
                     return (
-                        restaurant.name.toLowerCase().indexOf(filterValue) > -1
-                        || restaurant.phone.indexOf(filterValue) > -1
-                        || restaurant.address.toLowerCase().indexOf(filterValue) > -1
-                        || restaurant.price.indexOf(filterValue) > -1
-                    )
+                        restaurant.name.toLowerCase().indexOf(filterValue) > -1 ||
+                        restaurant.phone.indexOf(filterValue) > -1 ||
+                        restaurant.address.toLowerCase().indexOf(filterValue) > -1 ||
+                        restaurant.price.indexOf(filterValue) > -1
+                    );
                 });
             }
         }),
@@ -113,13 +124,21 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                     <tbody {...getTableBodyProps()}>
                         {rows.map(row => {
                             prepareRow(row); // Allow row to get props dynamically
-                            return (
-                                <CollapsableTr row={row} />
-                            );
+                            return <CollapsableTr row={row} />;
                         })}
                     </tbody>
                 </table>
             </div>
+            <Container>
+                <Link href="https://forms.gle/KRtTQUevbPbUck5H8" tooltip="Add/Edit a restaurant." icon="far fa-sticky-note" />
+                <Link href="https://github.com/Spiderpig86/sea-to-go/issues/new" tooltip="Report a bug." icon="fas fa-bug" />
+                <Button
+                    className="fab-item btn btn-link btn-lg text-white"
+                    tooltip="Actions!"
+                    icon="fas fa-bolt"
+                    rotate={true}
+                />
+            </Container>
         </div>
     );
 };
