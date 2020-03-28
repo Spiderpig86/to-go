@@ -1,6 +1,7 @@
 export interface Restaurant {
     name: string;
     types: string[];
+    services: string[];
     phone: string;
     locations: string[];
     address: string;

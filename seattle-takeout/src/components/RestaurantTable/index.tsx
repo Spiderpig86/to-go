@@ -30,6 +30,12 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                     if (containsDelivery) {
                         return true;
                     }
+                    const containsService = restaurant.services.some(
+                        service => service.toLowerCase().indexOf(filterValue) > -1
+                    )
+                    if (containsService) {
+                        return true;
+                    }
                     const containsLocation = restaurant.locations.some(
                         location => location.toLowerCase().indexOf(filterValue) > -1
                     );

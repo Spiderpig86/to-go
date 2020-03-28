@@ -55,6 +55,11 @@ function App() {
                         Cell: ({ cell: { value } }: CellType) => <TypeTag types={value} setFilterInput={setFilterInput} />
                     },
                     {
+                        Header: 'Services',
+                        accessor: (restaurant: Restaurant) => restaurant.services,
+                        Cell: ({ cell: { value } }: CellType) => <TypeTag types={value} setFilterInput={setFilterInput} />
+                    },
+                    {
                         Header: 'Phone',
                         accessor: (restaurant: Restaurant) => restaurant.phone,
                         Cell: ({ cell: { value } }: CellType) => {
