@@ -6,6 +6,10 @@
                 "Chinese",
                 "Cantonese"
             ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
+            ],
             "phone": "(206) 682-1267",
             "locations": ["International District"],
             "address": "419 6th Ave S, Seattle, WA 98104",
@@ -23,6 +27,10 @@
                 "Chinese",
                 "Cantonese"
             ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
+            ],
             "phone": "(206) 667-8760",
             "locations": ["International District"],
             "address": "663 S Weller St, Seattle, WA 98104",
@@ -38,6 +46,10 @@
             "types": [
                 "Chinese",
                 "Cantonese"
+            ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
             ],
             "phone": "(206) 624-2275",
             "locations": ["International District"],
@@ -56,6 +68,10 @@
                 "Chinese",
                 "Japanese"
             ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
+            ],
             "phone": "(425) 869-2960",
             "locations": ["Redmond"],
             "address": "17875 Redmond Way # 150, Redmond, WA 98052",
@@ -70,6 +86,10 @@
             "name": "Bun & Oc",
             "types": [
                 "Vietnamese"
+            ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
             ],
             "phone": "(206) 860-1556",
             "locations": ["International District"],
@@ -87,6 +107,10 @@
             "types": [
                 "Asian Fusion", "Hawaiian", "American (New)"
             ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
+            ],
             "phone": "(206) 420-1201",
             "locations": ["Columbia City"],
             "address": "3714 S Hudson St, Seattle, WA 98118",
@@ -100,6 +124,10 @@
             "name": "El Parche Colombiano Restaurant",
             "types": [
                 "Colombian"
+            ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
             ],
             "phone": "(206) 458-2465",
             "locations": ["Columbia City"],
@@ -115,6 +143,10 @@
             "types": [
                 "Thai", "Vegan"
             ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
+            ],
             "phone": "(206) 402-6634",
             "locations": ["Capitol Hill"],
             "address": "2808 E Madison St, Seattle, WA 98112",
@@ -128,6 +160,10 @@
             "name": "Mean Sandwich",
             "types": [
                 "Sandwiches", "Burgers", "Falafel"
+            ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
             ],
             "phone": "(206) 789-9999",
             "locations": ["Ballard"],
@@ -143,6 +179,10 @@
             "types": [
                 "Sandwiches", "Thai"
             ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
+            ],
             "phone": "(206) 466-1650",
             "locations": ["Ballard"],
             "address": "2010 NW 56th St, Seattle, WA 98107",
@@ -156,6 +196,10 @@
             "name": "O'Ginger Bistro",
             "types": [
                 "Thai"
+            ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
             ],
             "phone": "(206) 922-2362",
             "locations": ["Greenlake"],
@@ -171,6 +215,10 @@
             "types": [
                 "Cajun", "Creole", "Burgers"
             ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
+            ],
             "phone": "(206) 659-4754",
             "locations": ["Fremont"],
             "address": "4354 Leary Way NW, Seattle, WA 98107",
@@ -184,6 +232,10 @@
             "name": "Ballard Pizza Company",
             "types": [
                 "Pizza", "Italian", "Beer Bar"
+            ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
             ],
             "phone": "(206) 946-9960",
             "locations": ["Ballard"],
