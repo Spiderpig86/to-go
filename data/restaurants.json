@@ -245,6 +245,78 @@
             ],
             "veganOptions": true,
             "price": "$$"
+        },
+        {
+            "name": "Ristorante Machiavelli",
+            "types": [
+                "Italian", "Pizza", "Desserts"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 621-7941",
+            "locations": ["Capitol Hill"],
+            "address": "1215 Pine Street, Seattle, WA 98101",
+            "website": "https://www.ristorantemachiavelli.com/menu",
+            "deliveryApps": [
+            ],
+            "veganOptions": true,
+            "price": "$$"
+        },
+        {
+            "name": "Sushi Kanpai",
+            "types": [
+                "Japanese", "Sushi"
+            ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 588-2769",
+            "locations": ["First Hill"],
+            "address": "900 8th Ave. Seattle WA 98104",
+            "website": "http://sushikanpaiseattle.cafecityguide.website/",
+            "deliveryApps": [
+                "UberEats"
+            ],
+            "veganOptions": true,
+            "price": "$$"
+        },
+        {
+            "name": "8oz Burger",
+            "types": [
+                "Burgers"
+            ],
+            "services": [
+                "Delivery Apps",
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 782-2491",
+            "locations": ["Ballard"],
+            "address": "2409 NW Market St, Seattle, WA 98107",
+            "website": "https://www.8ozburgerandco.com/",
+            "deliveryApps": [
+                "UberEats"
+            ],
+            "veganOptions": null,
+            "price": "$$"
+        },
+        {
+            "name": "Caffe Zingaro",
+            "types": [
+                "Coffee", "Breakfast", "Desserts", "Tea"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 352-2861",
+            "locations": ["Lower Queen Anne"],
+            "address": "127 Mercer St, Seattle, WA 98109",
+            "website": "http://www.ballardpizzacompany.com/bpc-ballard",
+            "deliveryApps": [
+            ],
+            "veganOptions": true,
+            "price": "$"
         }
     ]
 }
