@@ -317,6 +317,1656 @@
             ],
             "veganOptions": true,
             "price": "$"
+        },
+        {
+            "name": "Ambrosia Cafe",
+            "types": [
+                "Taiwanese (Bubble Tea)"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 623-9028",
+            "locations": [],
+            "address": "",
+            "website": "https://www.facebook.com/ambrosiacafeseattle/",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Blackball Taiwanese Dessert",
+            "types": [
+                "Taiwanese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 538-0596",
+            "locations": [],
+            "address": "",
+            "website": "http://blackball.com.tw/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Bush Garden",
+            "types": [
+                "Japanese (Sushi, Karaoke)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 682-6830",
+            "locations": [],
+            "address": "",
+            "website": "http://www.bushgarden.net/",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Cake House My Favorite",
+            "types": [
+                "Bakery"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 233-2766",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Chu Minh Tofu",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "\u202d(206) 723-6095\u202c",
+            "locations": [],
+            "address": "",
+            "website": "https://www.chuminhtofu.com/",
+            "deliveryApps": [
+                "Caviar"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Chung Chun Rice Dog",
+            "types": [
+                "Korean"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 682-1300",
+            "locations": [],
+            "address": "",
+            "website": "https://www.chungchunhotdog.us/",
+            "deliveryApps": [
+                "Chowbus"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Congeez",
+            "types": [
+                "Comfort food"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 556-6498",
+            "locations": [],
+            "address": "",
+            "website": "https://www.facebook.com/CongeezBreakfast/",
+            "deliveryApps": [
+                "Grubhub",
+                "Caviar"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Crawfish King",
+            "types": [
+                "Cajun"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 623-3622",
+            "locations": [],
+            "address": "",
+            "website": "http://www.crawfishkingwa.com/#/",
+            "deliveryApps": [
+                "Grubhub",
+                "Uber Eats",
+                "Postmates",
+                "Doordash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Dochi",
+            "types": [
+                "Japanese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Gift Card"
+            ],
+            "phone": "",
+            "locations": [],
+            "address": "",
+            "website": "https://www.dochicompany.com/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Dong Thap Noodles",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 325-1122",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Caviar"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Dough Zone",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 285-9999",
+            "locations": [],
+            "address": "",
+            "website": "https://www.doughzonedumplinghouse.com/",
+            "deliveryApps": [
+                "Caviar",
+                "Postmates",
+                "GrubHub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Duk Li Dim Sum Restaurant",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 340-6122",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Eastern Cafe",
+            "types": [
+                "Coffee Shop"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 623-1776",
+            "locations": [],
+            "address": "",
+            "website": "https://www.facebook.com/EasternCafe",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Ferry Noodle House",
+            "types": [
+                "Thai"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "",
+            "locations": [],
+            "address": "",
+            "website": "http://www.ferrynoodlehousethai.com/",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Fort St. George",
+            "types": [
+                "Japanese (American Fusion)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 382-0662",
+            "locations": [],
+            "address": "",
+            "website": "https://fortstgeorgeseattle.com/",
+            "deliveryApps": [
+                "Postmates"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Fortuna Cafe",
+            "types": [
+                "Hong Kong style cafe"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 485-7477",
+            "locations": [],
+            "address": "",
+            "website": "https://fortunacafeseattle.com",
+            "deliveryApps": [
+                "Caviar",
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Fortune Garden",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 521-8933",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Grubhub",
+                "Uber Eats",
+                "DoorDash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Fuji Bakery",
+            "types": [
+                "Bakery tree"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 623-4050",
+            "locations": [],
+            "address": "",
+            "website": "https://fujibakeryinc.com",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Fuji Sushi",
+            "types": [
+                "Japanese (Sushi)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 624-1201",
+            "locations": [],
+            "address": "",
+            "website": "https://www.fujisushiseattle.com/",
+            "deliveryApps": [
+                "Uber Eats",
+                "DoorDash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Gan Bei",
+            "types": [
+                ""
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps",
+                "Gift Card"
+            ],
+            "phone": "(206) 625-0408",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "DoorDash",
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Golden Wheat Bakery",
+            "types": [
+                "baked pastry, empanadas, pupusas"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 325-5055",
+            "locations": [],
+            "address": "",
+            "website": "http://goldenwheatbakeryseattle.cafecityguide.website",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "goPok\u00e9",
+            "types": [
+                "Poke"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 799-9560",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Gourmet Noodle Bowl",
+            "types": [
+                ""
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 264-8899",
+            "locations": [],
+            "address": "",
+            "website": "https://qmenu.us/#/gourmet-noodle-bowl-seattle/menu/menu-1",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Green Leaf Vietnamese Restaurant",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 340-1388",
+            "locations": [],
+            "address": "",
+            "website": "http://greenleaftaste.com/#!/home/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "H Bistro",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 382-9888",
+            "locations": [],
+            "address": "",
+            "website": "https://www.hbistroseattle.com/",
+            "deliveryApps": [
+                "Grubhub",
+                "Uber Eats"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Harbor City Restaurant",
+            "types": [
+                "Chinese (Dim Sum)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 621-2228",
+            "locations": [],
+            "address": "",
+            "website": "http://www.harborcityrestaurant.com/",
+            "deliveryApps": [
+                "Caviar",
+                "Postmates"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Hardwok Cafe",
+            "types": [
+                "Taiwanese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 568-1688",
+            "locations": [],
+            "address": "",
+            "website": "https://www.hardwokcafeseattle.com",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Henry's Taiwan Kitchen",
+            "types": [
+                "Taiwanese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 682-0389",
+            "locations": [],
+            "address": "",
+            "website": "https://www.henrysseattle.com",
+            "deliveryApps": [
+                "DoorDash",
+                "Postmates"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Hi B3ar",
+            "types": [
+                "Thai dessert"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 624-0183",
+            "locations": [],
+            "address": "",
+            "website": "http://hib3ar.com",
+            "deliveryApps": [
+                "Doordash",
+                "Grubhub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Ho Ho Seafood",
+            "types": [
+                "Chinese (Cantonese)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 382-9671",
+            "locations": [],
+            "address": "",
+            "website": "https://www.hohoseafood.com",
+            "deliveryApps": [
+                "DoorDash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Honey Court Seafood Restaurant",
+            "types": [
+                "Chinese (Dim Sum)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 292-8828",
+            "locations": [],
+            "address": "",
+            "website": "http://www.honeycourtrestaurant.com/",
+            "deliveryApps": [
+                "Grubhub",
+                "Closed until 4/2"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Hong Kong Bistro",
+            "types": [
+                "Chinese (Dim Sum & more)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 682-1922",
+            "locations": [],
+            "address": "",
+            "website": "http://www.hongkongbistroseattle.com/",
+            "deliveryApps": [
+                "DoorDash",
+                "Postmates"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Hood Famous Cafe + Bar",
+            "types": [
+                "Filipino (Bakery)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Gift Card"
+            ],
+            "phone": "(206) 485-7049",
+            "locations": [],
+            "address": "",
+            "website": "http://www.hoodfamousbakeshop.com/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "House of Hong",
+            "types": [
+                "Chinese (Dim Sum)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 622-7997",
+            "locations": [],
+            "address": "",
+            "website": "https://houseofhongseattle.com/",
+            "deliveryApps": [
+                "Postmates"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Hue Ky Mi Gia",
+            "types": [
+                "Vietnamese-Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 568-1268",
+            "locations": [],
+            "address": "",
+            "website": "http://huekymigia.com",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "H\u01b0\u01a1ng B\u00ecnh Restaurant",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 860-3038",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Ironsteak",
+            "types": [
+                "Japanese (Teppan)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 623-2541",
+            "locations": [],
+            "address": "",
+            "website": "http://ironsteak.com",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "J Sushi",
+            "types": [
+                "Japanese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 287-9000",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Jade Garden",
+            "types": [
+                "Chinese (Dim Sum)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 622-8181",
+            "locations": [],
+            "address": "",
+            "website": "http://jade garden seattle.com/",
+            "deliveryApps": [
+                "DoorDash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Joyale Seafood Restaurant",
+            "types": [
+                "Chinese (Dim Sum)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 623-1318",
+            "locations": [],
+            "address": "",
+            "website": "https://www.joyaleseafood.com/",
+            "deliveryApps": [
+                "DoorDash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Kaname Izakaya",
+            "types": [
+                "Japanese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 682-1828",
+            "locations": [],
+            "address": "",
+            "website": "https://www.facebook.com/pg/kanameizakaya/posts/",
+            "deliveryApps": [
+                "Postmates"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Kau Kau",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 682-4006",
+            "locations": [],
+            "address": "",
+            "website": "http://www.kaukaubbq.com/",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "King Noodle",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 748-9168",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "King's Barbeque House",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 622-2828",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Lan Hue",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 623-3866",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Little Sheep",
+            "types": [
+                "Mongolian"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 623-6700",
+            "locations": [],
+            "address": "",
+            "website": "https://order.menusifu.com/little-sheep-hotpot-seattle-restaurant",
+            "deliveryApps": [
+                "Fantuan"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Loving Hut",
+            "types": [
+                "Various"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 299-2219",
+            "locations": [],
+            "address": "",
+            "website": "https://www.lovinghutseattle.com/",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Maneki Restaurant",
+            "types": [
+                "Japanese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Gift Card"
+            ],
+            "phone": "(503) 662-2814",
+            "locations": [],
+            "address": "",
+            "website": "http://www.manekirestaurantenu-item-2893",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Mi La Cay",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 322-6840",
+            "locations": [],
+            "address": "",
+            "website": "https://www.seattlemilacay.com/",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Mike's Noodle House",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 389-7099",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Momosan",
+            "types": [
+                "Japanese (Ramen)"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 501-4499",
+            "locations": [],
+            "address": "",
+            "website": "http://momosanseattle.com",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "New Star Restaurant",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 622-8801",
+            "locations": [],
+            "address": "",
+            "website": "http://www.newstarseafood.com/",
+            "deliveryApps": [
+                "Uber Eats",
+                "Grubhub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Oasis Tea Zone",
+            "types": [
+                ""
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps",
+                "Gift Card"
+            ],
+            "phone": "(206) 447-8098",
+            "locations": [],
+            "address": "",
+            "website": "http://www.oasisteazone.com",
+            "deliveryApps": [
+                "Doordash"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Ocean Star",
+            "types": [
+                "Chinese (Dim Sum)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 623-1670",
+            "locations": [],
+            "address": "",
+            "website": "https://www.oceanstarseattle.com/",
+            "deliveryApps": [
+                "grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "One Pot Korean Stew",
+            "types": [
+                "Korean"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 876-9282  ",
+            "locations": [],
+            "address": "",
+            "website": "http://www.onepotstew.com/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Phnom Penh Noodle House",
+            "types": [
+                "Cambodian"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Gift Card"
+            ],
+            "phone": "(206) 427-0113",
+            "locations": [],
+            "address": "",
+            "website": "https://www.allmenus.com/wa/seattle/61737-phnom-penh-noodle-house/menu/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Pho Ba",
+            "types": [
+                "Vietnamese (Pho)"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 621-0532",
+            "locations": [],
+            "address": "",
+            "website": "http://phobaseattle.juisyfood.com",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Pho Bac Boat",
+            "types": [
+                "Vietnamese (Pho)"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 323-4387",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Pho Bac Sup Shop",
+            "types": [
+                "Vietnamese (Pho)"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 568-0882",
+            "locations": [],
+            "address": "",
+            "website": "https://www.thephobac.com\nhttps://phobac.smartonlineorder.com",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Pho Hoa",
+            "types": [
+                "Vietnamese (Pho)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 624-7189",
+            "locations": [],
+            "address": "",
+            "website": "https://phohoa.com",
+            "deliveryApps": [
+                "Postmates"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Ph\u1edf S\u1ed1 1",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 860-2824",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Purple Dot Cafe",
+            "types": [
+                "Chinese (Dim Sum)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 622-0288",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Postmates",
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Saigon Deli",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 322-3700",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Saigon Vietnam Deli",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 328-2357",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Seattle Fish Guys",
+            "types": [
+                "Poke"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 485-7388",
+            "locations": [],
+            "address": "",
+            "website": "https://www.seattlefishguys.com/",
+            "deliveryApps": [
+                "Uber Eats"
+            ],
+            "veganOptions": false,
+            "price": ""
+        },
+        {
+            "name": "Seoul Tofu House",
+            "types": [
+                "Korean"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 682-2152",
+            "locations": [],
+            "address": "",
+            "website": "http://www.seoul-tofu-house-seattle.com",
+            "deliveryApps": [
+                "Uber Eats"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Seven Stars Pepper",
+            "types": [
+                "Chinese (Sichuan)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 568-6446",
+            "locations": [],
+            "address": "",
+            "website": "https://www.sevenstarspepper.com/",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Shanghai Garden",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 625-1688",
+            "locations": [],
+            "address": "",
+            "website": "http://www.shanghai-garden-restaurant.com",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Sichuanese Cuisine",
+            "types": [
+                "Chinese (Sichuan)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 399-8242",
+            "locations": [],
+            "address": "",
+            "website": "http://www.sichuan-cuisine.com/",
+            "deliveryApps": [
+                "Grubhub",
+                "Uber Eats",
+                "Postmates"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Sichuanese Cuisine",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 399-8242",
+            "locations": [],
+            "address": "",
+            "website": "http://www.sichuan-cuisine.com/",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "SIZZLING POT KING",
+            "types": [
+                "Chinese (Hunan)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 624-0314",
+            "locations": [],
+            "address": "",
+            "website": "https://www.spkseattle.com",
+            "deliveryApps": [
+                "Uber Eats",
+                "Grubhub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Song Phang Kong",
+            "types": [
+                "Lao / Thai"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 323-1782",
+            "locations": [],
+            "address": "",
+            "website": "https://menupages.com/song-phang-kong/1017-s-jackson-st-seattle",
+            "deliveryApps": [
+                "Grubhub",
+                "Uber Eats"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Sun Bakery & Cafe",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 622-9288",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Szechuan Fish",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 623-3927",
+            "locations": [],
+            "address": "",
+            "website": "http://www.szechuan-fish.com/",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Szechuan Noodle Bowl",
+            "types": [
+                "Chinese (Sichuan)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 623-4198",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "DoorDash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Tai Tung",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Gift Card"
+            ],
+            "phone": "(206) 622-7372",
+            "locations": [],
+            "address": "",
+            "website": "https://www.taitungrestaurant.com/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Tamarind Tree",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 860-1404",
+            "locations": [],
+            "address": "",
+            "website": "https://tamarindtreerestaurant.com/",
+            "deliveryApps": [
+                "Postmates"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Tan Dinh Deli",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 726-9990",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Tangerine Tree",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 322-2081",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "DoorDash"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Ten Sushi",
+            "types": [
+                "Japanese (Sushi)"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 453-3881",
+            "locations": [],
+            "address": "",
+            "website": "https://www.tensushiseattle35.com",
+            "deliveryApps": [
+                "Uber Eats",
+                "DoorDash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Thai Place",
+            "types": [
+                "Thai"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 749-5451",
+            "locations": [],
+            "address": "",
+            "website": "http://www.thaiplaceseattle.com/",
+            "deliveryApps": [
+                "DoorDash",
+                "Uber Eats"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Thanh Son Tofu",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 320-1316",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Uber Eats"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Thanh Tam Restaurant",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 323-1498",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Ton Kiang",
+            "types": [
+                "Chinese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 622-3388",
+            "locations": [],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Postmates",
+                "Doordash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Tsukushinbo",
+            "types": [
+                "Japanese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 467-4004",
+            "locations": [],
+            "address": "",
+            "website": "http://tsukushinbo.juisyfood.com/",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Vietnam House",
+            "types": [
+                "Vietnamese"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 325-0180",
+            "locations": [],
+            "address": "",
+            "website": "http://places.singleplatform.com/vietnam-house-restaurant/menu?ref=google",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "World Pizza",
+            "types": [
+                "Italian"
+            ],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 682-4161",
+            "locations": [],
+            "address": "",
+            "website": "https://www.worldpizzaseattle.com/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Young Tea",
+            "types": [
+                ""
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 682-6688",
+            "locations": [],
+            "address": "",
+            "website": "www.youngteaglobal.com",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Young Tea",
+            "types": [
+                "Taiwanese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 682-6688",
+            "locations": [],
+            "address": "",
+            "website": "https://www.youngteaglobal.com/flavors",
+            "deliveryApps": [
+                "Grubhub",
+                "ChowBus",
+                "Postmates",
+                "Caviar",
+                "DoorDash"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Yumbit Food Truck",
+            "types": [
+                "Taiwanese"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(425)-443-2822",
+            "locations": [],
+            "address": "",
+            "website": "https://www.yumbitseattle.com",
+            "deliveryApps": [
+                "Grubhub",
+                "Delivery from us! No Delivery Fee for orders $20+"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Yummy House Bakery",
+            "types": [
+                "Hong Kong"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 340-8838",
+            "locations": [],
+            "address": "",
+            "website": "http://www.yummyhousebakery.com/",
+            "deliveryApps": [
+                "Uber Eats"
+            ],
+            "veganOptions": true,
+            "price": ""
         }
     ]
 }
