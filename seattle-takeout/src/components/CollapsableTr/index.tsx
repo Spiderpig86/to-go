@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 import { Row } from 'react-table';
+/** @jsx jsx */
+import { css, jsx } from '@emotion/core';
+
 import { Restaurant } from '../../model/restaurant';
 
 interface CollapsableTrProps {
@@ -17,11 +20,18 @@ export const CollapsableTr: React.FC<CollapsableTrProps> = props => {
     return (
         <tr
             {...row.getRowProps()}
-            className={`table__cell ${collapsed ? 'table__cell--collapsed' : ''}`}
+            className={`table__row ${collapsed ? 'table__row--collapsed' : ''}`}
             onClick={collapsedClick}
         >
             {row.cells.map((cell, i) => {
-                return <td {...cell.getCellProps()}>{cell.render('Cell')}</td>;
+                return <td className={'table__cell'} {...cell.getCellProps()}>
+                    <div css={{
+                        display: 'grid',
+                        maxWidth: '200px'
+                    }}>
+                        {cell.render('Cell')}
+                    </div>
+                </td>;
             })}
         </tr>
     );

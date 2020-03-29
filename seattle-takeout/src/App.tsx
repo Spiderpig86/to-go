@@ -27,7 +27,7 @@ function App() {
     useEffect(() => {
         (async () => {
             const response = await Axios.get(
-                'https://raw.githubusercontent.com/Spiderpig86/seattle-takeout/master/data/restaurants.json'
+                'https://raw.githubusercontent.com/Spiderpig86/sea-to-go/master/dist/restaurants.json'
             );
             setRestaurantData(response.data.restaurants);
         })();
