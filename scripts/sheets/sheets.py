@@ -74,8 +74,6 @@ def process_china_town(worksheet_name, sheet):
             has_vegan = True
         elif row[ChinatownWorksheetEnum.VEGAN] == 'no':
             has_vegan = False
-            
-        print(row)
 
         data.append({
             'name': row[ChinatownWorksheetEnum.NAME],
@@ -93,7 +91,36 @@ def process_china_town(worksheet_name, sheet):
     _write_to_file(worksheet_name, json.dumps(data, indent=4))
 
 def process_south_end(worksheet_name, sheet):
-    pass
+    worksheet = sheet.worksheet(worksheet_name)
+    rows = worksheet.get_all_values()
+
+    data = []
+    for i in range(2, len(rows)):
+        row = rows[i]
+        if row == ['' for i in range(19)]:
+            continue
+
+        delivery_apps = list(filter(lambda item: item != '', row[SouthEndWorksheetEnum.DELIVERY_APPS_1].split('\n')))
+        delivery_apps += list(filter(lambda item: item != '',row[SouthEndWorksheetEnum.DELIVERY_APPS_2].split('\n')))
+
+        services = [AppFields.TAKEOUT]
+        if len(delivery_apps) > 0:
+            services.append(AppFields.DELIVERY_APPS)
+
+        data.append({
+            'name': row[SouthEndWorksheetEnum.NAME].strip(),
+            'types': '',
+            'services': services,
+            'phone': row[SouthEndWorksheetEnum.PHONE].strip(),
+            'locations': [row[SouthEndWorksheetEnum.LOCATION].strip()],
+            'address': '',
+            'website': row[SouthEndWorksheetEnum.WEBSITE],
+            'deliveryApps': delivery_apps,
+            'veganOptions': None,
+            'price': ''
+        })
+
+    _write_to_file(worksheet_name, json.dumps(data, indent=4))
 
 def process_other(worksheet_name, sheet):
     pass
@@ -111,8 +138,8 @@ def main():
 
     sheet = client.open(SHEET_NAME)
     sheets_to_process = [
-        [{'worksheet_name': 'Chinatown-ID', 'sheet': sheet}, process_china_town],
-        [{'worksheet_name': 'South-End', 'sheet': sheet}, process_south_end],
+        # [{'worksheet_name': 'Chinatown-ID', 'sheet': sheet}, process_china_town],
+        [{'worksheet_name': 'South End', 'sheet': sheet}, process_south_end],
         [{'worksheet_name': 'Other Neighborhoods', 'sheet': sheet}, process_other]
     ]
 

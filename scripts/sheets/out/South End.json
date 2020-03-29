@@ -1,0 +1,695 @@
+[
+    {
+        "name": "Joy Palace",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "(206) 723-4066",
+        "locations": [
+            "Rainier"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Cafe Avole",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "206-472-4096",
+        "locations": [
+            "Rainier Beach"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Drae's Lake Route",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "",
+        "locations": [
+            "Rainier Beach"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Emerald City Fish & Chips",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "206-760-FISH (3474)",
+        "locations": [
+            "Mt. Baker-Columbia City"
+        ],
+        "address": "",
+        "website": "http://www.emeraldcityfishandchips.com/",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Eat Time",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "206-241-2679",
+        "locations": [
+            "Burien"
+        ],
+        "address": "",
+        "website": "https://eat-time-restaurant.business.site/",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "King Wha",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "206-243-0323",
+        "locations": [
+            "Burien"
+        ],
+        "address": "",
+        "website": "http://www.kingwha.com/09_menu.html",
+        "deliveryApps": [
+            "UberEats", "DoorDash", "Grubhub"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Bua 9 Thai Cuisine",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "206-323-9445",
+        "locations": [
+            "Columbia City"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "Ubereats"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Island Soul",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "",
+        "locations": [
+            "Columbia City"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "grub hub"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "La Teranga",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "",
+        "locations": [
+            "Columbia City"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "grub hub",
+            "door dash"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Sam Choys",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "206-310-1979",
+        "locations": [
+            "Columbia City"
+        ],
+        "address": "",
+        "website": "https://www.samchoyspoke.com/onlineorder",
+        "deliveryApps": [
+            "Caviar"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Bent Burgers",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "",
+        "locations": [
+            ""
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Max's Restaurant",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "",
+        "locations": [
+            "Tukwila"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Toshio's Teriyaki",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "",
+        "locations": [
+            "Beacon Hill"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Meskel",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "",
+        "locations": [
+            "Genesse"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "grub hub",
+            "door dash"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Mawadda Cafe",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "206-760- 0911",
+        "locations": [
+            "Hillman"
+        ],
+        "address": "",
+        "website": "http://mawaddacafe.com/",
+        "deliveryApps": [
+            "GrubHub"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Thien Phat",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "206 725-7973",
+        "locations": [
+            "Mt. Baker"
+        ],
+        "address": "",
+        "website": "https://www.doordash.com/store/thien-phat-seattle-39412/en-US",
+        "deliveryApps": [
+            "DoorDash"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Vieng Thong",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "206 725-3884",
+        "locations": [
+            "Mt. Baker"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "GrubHub"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Huong Duong",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "",
+        "locations": [
+            "Othello"
+        ],
+        "address": "",
+        "website": "https://huong-duong-2.square.site/",
+        "deliveryApps": [
+            "door dash, postmates"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Comfort Zone",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "",
+        "locations": [
+            "Rainier Valley"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "grub hub"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Emma's BBQ",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "",
+        "locations": [
+            "Rainier"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Ezell's",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "",
+        "locations": [
+            ""
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Wicked Chopstix",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "(206) 721-4156",
+        "locations": [
+            "Rainier"
+        ],
+        "address": "",
+        "website": "https://wickedchopstix.business.site",
+        "deliveryApps": [
+            "DoorDash",
+            "GrubHub"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Musang",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "",
+        "locations": [
+            "Beacon Hill"
+        ],
+        "address": "",
+        "website": "https://www.musangseattle.com/",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Carnitas Michoacan",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "",
+        "locations": [
+            "Beacon Hill"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "kaffa coffee",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "2064533558",
+        "locations": [
+            "Rainier beach"
+        ],
+        "address": "",
+        "website": "kaffacoffee.net",
+        "deliveryApps": [
+            "doordash, ubereats,postmate, grubhub"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Amy's Merkato",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "(206) 324-2527",
+        "locations": [
+            "Hillman City"
+        ],
+        "address": "",
+        "website": "amysmerkato.com",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Canton Noodle House",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "(206) 329-5650",
+        "locations": [
+            "Rainier Valley"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Renton Deli",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "(425) 226-7572",
+        "locations": [
+            "Renton"
+        ],
+        "address": "",
+        "website": "https://www.yelp.com/biz/renton-deli-renton-2",
+        "deliveryApps": [
+            
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Bistro Box",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "(206) 922-3538",
+        "locations": [
+            "Sodo"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "Doordash, Ubereats"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Mizuki Buffet",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "(206) 575-6988",
+        "locations": [
+            "Tukwila"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "Doordash, Ubereats, Postmates"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "The Station",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "206-271-7302",
+        "locations": [
+            "North Beacon Hill"
+        ],
+        "address": "",
+        "website": "https://www.thestationbh.com/",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Pho Hai Yan",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "",
+        "locations": [
+            ""
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "Doordash"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Yummy Kitchen",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "(425) 251-8855",
+        "locations": [
+            "Renton"
+        ],
+        "address": "",
+        "website": "https://www.yelp.com/biz/yummy-kitchen-renton",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Saffron Spice",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "206 325-5332",
+        "locations": [
+            ""
+        ],
+        "address": "",
+        "website": "saffronspiceseattle.com",
+        "deliveryApps": [
+            "GrubHub"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Cafe Weekend",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "no - email website",
+        "locations": [
+            "Judkins Park/ Central District"
+        ],
+        "address": "",
+        "website": "cafe-weekend.square.site",
+        "deliveryApps": [
+            "(Delivery Soon) Pick-Up / Take Out Only"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Akasaka",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "(253) 946-3858",
+        "locations": [
+            "Federal Way"
+        ],
+        "address": "",
+        "website": "https://akasakafederalway.com/",
+        "deliveryApps": [
+            "Ubereats, Pick-up"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Cafe Avole",
+        "types": "",
+        "services": [
+            "Curbside/Takeout"
+        ],
+        "phone": "",
+        "locations": [
+            "South Seattle"
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Bananas Grill",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "",
+        "locations": [
+            ""
+        ],
+        "address": "",
+        "website": "",
+        "deliveryApps": [
+            "GrubHub"
+        ],
+        "veganOptions": null,
+        "price": ""
+    },
+    {
+        "name": "Taco Street",
+        "types": "",
+        "services": [
+            "Curbside/Takeout",
+            "Delivery Apps"
+        ],
+        "phone": "(206) 659-0583",
+        "locations": [
+            "Othello"
+        ],
+        "address": "",
+        "website": "http://www.tacostreetfood.com/",
+        "deliveryApps": [
+            "not yet :("
+        ],
+        "veganOptions": null,
+        "price": ""
+    }
+]

@@ -27,7 +27,7 @@ export const CollapsableTr: React.FC<CollapsableTrProps> = props => {
                 return <td className={'table__cell'} {...cell.getCellProps()}>
                     <div css={{
                         display: 'grid',
-                        maxWidth: '200px'
+                        maxWidth: '200px' 
                     }}>
                         {cell.render('Cell')}
                     </div>
