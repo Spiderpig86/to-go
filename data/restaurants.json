@@ -1905,8 +1905,7 @@
             "address": "",
             "website": "https://www.yumbitseattle.com",
             "deliveryApps": [
-                "Grubhub",
-                "Delivery from us! No Delivery Fee for orders $20+"
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
@@ -2583,7 +2582,7 @@
             "address": "",
             "website": "cafe-weekend.square.site",
             "deliveryApps": [
-                "(Delivery Soon) Pick-Up / Take Out Only"
+                
             ],
             "veganOptions": null,
             "price": ""
@@ -2656,7 +2655,6 @@
             "address": "",
             "website": "http://www.tacostreetfood.com/",
             "deliveryApps": [
-                "not yet :("
             ],
             "veganOptions": null,
             "price": ""
