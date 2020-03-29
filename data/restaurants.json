@@ -15,7 +15,7 @@
             "address": "419 6th Ave S, Seattle, WA 98104",
             "website": null,
             "deliveryApps": [
-                "UberEats",
+                "Uber Eats",
                 "GrubHub"
             ],
             "veganOptions": true,
@@ -57,7 +57,7 @@
             "website": "http://www.asibarbqueseattle.com/",
             "deliveryApps": [
                 "GrubHub",
-                "UberEats"
+                "Uber Eats"
             ],
             "veganOptions": null,
             "price": "$$"
@@ -277,7 +277,7 @@
             "address": "900 8th Ave. Seattle WA 98104",
             "website": "http://sushikanpaiseattle.cafecityguide.website/",
             "deliveryApps": [
-                "UberEats"
+                "Uber Eats"
             ],
             "veganOptions": true,
             "price": "$$"
@@ -296,7 +296,7 @@
             "address": "2409 NW Market St, Seattle, WA 98107",
             "website": "https://www.8ozburgerandco.com/",
             "deliveryApps": [
-                "UberEats"
+                "Uber Eats"
             ],
             "veganOptions": null,
             "price": "$$"
@@ -675,7 +675,7 @@
         {
             "name": "Gan Bei",
             "types": [
-                ""
+                "Asian Fusion", "Hong Kong style cafe"
             ],
             "services": [
                 "Curbside/Takeout",
@@ -683,7 +683,7 @@
                 "Gift Card"
             ],
             "phone": "(206) 625-0408",
-            "locations": [],
+            "locations": ["International District"],
             "address": "",
             "website": "",
             "deliveryApps": [
@@ -710,34 +710,15 @@
             "price": ""
         },
         {
-            "name": "goPok\u00e9",
-            "types": [
-                "Poke"
-            ],
-            "services": [
-                "Curbside/Takeout",
-                "Delivery Apps"
-            ],
-            "phone": "(206) 799-9560",
-            "locations": [],
-            "address": "",
-            "website": "",
-            "deliveryApps": [
-                "Grubhub"
-            ],
-            "veganOptions": null,
-            "price": ""
-        },
-        {
             "name": "Gourmet Noodle Bowl",
             "types": [
-                ""
+                "Chinese (Cantonese)", "Taiwanese", "Hot Pot"
             ],
             "services": [
                 "Curbside/Takeout"
             ],
             "phone": "(206) 264-8899",
-            "locations": [],
+            "locations": ["International District"],
             "address": "",
             "website": "https://qmenu.us/#/gourmet-noodle-bowl-seattle/menu/menu-1",
             "deliveryApps": [],
@@ -1265,7 +1246,7 @@
         {
             "name": "Oasis Tea Zone",
             "types": [
-                ""
+                "Coffee", "Tea", "JuiceBars", "Smoothies", "Bubble Tea"
             ],
             "services": [
                 "Curbside/Takeout",
@@ -1273,7 +1254,7 @@
                 "Gift Card"
             ],
             "phone": "(206) 447-8098",
-            "locations": [],
+            "locations": ["International District", "University District", "Capitol Hill"],
             "address": "",
             "website": "http://www.oasisteazone.com",
             "deliveryApps": [
@@ -1885,25 +1866,6 @@
             "website": "https://www.worldpizzaseattle.com/",
             "deliveryApps": [],
             "veganOptions": true,
-            "price": ""
-        },
-        {
-            "name": "Young Tea",
-            "types": [
-                ""
-            ],
-            "services": [
-                "Curbside/Takeout",
-                "Delivery Apps"
-            ],
-            "phone": "(206) 682-6688",
-            "locations": [],
-            "address": "",
-            "website": "www.youngteaglobal.com",
-            "deliveryApps": [
-                "Grubhub"
-            ],
-            "veganOptions": null,
             "price": ""
         },
         {
