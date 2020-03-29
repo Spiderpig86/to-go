@@ -109,7 +109,7 @@ def process_south_end(worksheet_name, sheet):
 
         data.append({
             'name': row[SouthEndWorksheetEnum.NAME].strip(),
-            'types': '',
+            'types': [],
             'services': services,
             'phone': row[SouthEndWorksheetEnum.PHONE].strip(),
             'locations': [row[SouthEndWorksheetEnum.LOCATION].strip()],

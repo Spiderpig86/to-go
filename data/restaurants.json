@@ -1969,7 +1969,7 @@
         },
         {
             "name": "Joy Palace",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -1985,7 +1985,7 @@
         },
         {
             "name": "Cafe Avole",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2001,7 +2001,7 @@
         },
         {
             "name": "Drae's Lake Route",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2017,13 +2017,13 @@
         },
         {
             "name": "Emerald City Fish & Chips",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
-            "phone": "206-760-FISH (3474)",
+            "phone": "206-760-3474",
             "locations": [
-                "Mt. Baker-Columbia City"
+                "Mt. Baker", "Columbia City"
             ],
             "address": "",
             "website": "http://www.emeraldcityfishandchips.com/",
@@ -2033,7 +2033,7 @@
         },
         {
             "name": "Eat Time",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2049,7 +2049,7 @@
         },
         {
             "name": "King Wha",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2061,14 +2061,14 @@
             "address": "",
             "website": "http://www.kingwha.com/09_menu.html",
             "deliveryApps": [
-                "UberEats", "DoorDash", "Grubhub"
+                "UberEats, DoorDash, and Grubhub"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Bua 9 Thai Cuisine",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2080,14 +2080,14 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "Ubereats"
+                "UberEats"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Island Soul",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2099,14 +2099,14 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "grub hub"
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "La Teranga",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2118,15 +2118,15 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "grub hub",
-                "door dash"
+                "Grubhub",
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Sam Choys",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2145,7 +2145,7 @@
         },
         {
             "name": "Bent Burgers",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2161,7 +2161,7 @@
         },
         {
             "name": "Max's Restaurant",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2177,7 +2177,7 @@
         },
         {
             "name": "Toshio's Teriyaki",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2193,7 +2193,7 @@
         },
         {
             "name": "Meskel",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2205,15 +2205,15 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "grub hub",
-                "door dash"
+                "Grubhub",
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Mawadda Cafe",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2232,7 +2232,7 @@
         },
         {
             "name": "Thien Phat",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2251,7 +2251,7 @@
         },
         {
             "name": "Vieng Thong",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2270,7 +2270,7 @@
         },
         {
             "name": "Huong Duong",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2282,14 +2282,14 @@
             "address": "",
             "website": "https://huong-duong-2.square.site/",
             "deliveryApps": [
-                "door dash, postmates"
+                "Doordash, postmates"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Comfort Zone",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2301,14 +2301,14 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "grub hub"
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Emma's BBQ",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2324,7 +2324,7 @@
         },
         {
             "name": "Ezell's",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2340,7 +2340,7 @@
         },
         {
             "name": "Wicked Chopstix",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2360,7 +2360,7 @@
         },
         {
             "name": "Musang",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2376,7 +2376,7 @@
         },
         {
             "name": "Carnitas Michoacan",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2392,7 +2392,7 @@
         },
         {
             "name": "kaffa coffee",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2411,7 +2411,7 @@
         },
         {
             "name": "Amy's Merkato",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2427,7 +2427,7 @@
         },
         {
             "name": "Canton Noodle House",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2443,7 +2443,7 @@
         },
         {
             "name": "Renton Deli",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2455,14 +2455,14 @@
             "address": "",
             "website": "https://www.yelp.com/biz/renton-deli-renton-2",
             "deliveryApps": [
-                
+                "??"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Bistro Box",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2474,14 +2474,14 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "Doordash, Ubereats"
+                "Doordash", "UberEats"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Mizuki Buffet",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2493,14 +2493,14 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "Doordash, Ubereats, Postmates"
+                "Doordash", "UberEats", "Postmates"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "The Station",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2516,7 +2516,7 @@
         },
         {
             "name": "Pho Hai Yan",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2535,7 +2535,7 @@
         },
         {
             "name": "Yummy Kitchen",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2551,7 +2551,7 @@
         },
         {
             "name": "Saffron Spice",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2570,7 +2570,7 @@
         },
         {
             "name": "Cafe Weekend",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2582,14 +2582,14 @@
             "address": "",
             "website": "cafe-weekend.square.site",
             "deliveryApps": [
-                
+                "(Delivery Soon) Pick-Up / Take Out Only"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Akasaka",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2601,14 +2601,14 @@
             "address": "",
             "website": "https://akasakafederalway.com/",
             "deliveryApps": [
-                "Ubereats, Pick-up"
+                "UberEats"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
             "name": "Cafe Avole",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout"
             ],
@@ -2624,7 +2624,7 @@
         },
         {
             "name": "Bananas Grill",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2643,7 +2643,7 @@
         },
         {
             "name": "Taco Street",
-            "types": "",
+            "types": [],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
@@ -2654,8 +2654,7 @@
             ],
             "address": "",
             "website": "http://www.tacostreetfood.com/",
-            "deliveryApps": [
-            ],
+            "deliveryApps": [],
             "veganOptions": null,
             "price": ""
         }
