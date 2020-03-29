@@ -112,7 +112,7 @@ def process_south_end(worksheet_name, sheet):
             'types': [],
             'services': services,
             'phone': row[SouthEndWorksheetEnum.PHONE].strip(),
-            'locations': [row[SouthEndWorksheetEnum.LOCATION].strip()],
+            'locations': list(filter(lambda item: item != '', row[SouthEndWorksheetEnum.LOCATION].strip())),
             'address': '',
             'website': row[SouthEndWorksheetEnum.WEBSITE],
             'deliveryApps': delivery_apps,

@@ -16,7 +16,7 @@
             "website": null,
             "deliveryApps": [
                 "Uber Eats",
-                "GrubHub"
+                "Grubhub"
             ],
             "veganOptions": true,
             "price": "$"
@@ -36,7 +36,7 @@
             "address": "663 S Weller St, Seattle, WA 98104",
             "website": "https://www.663bistro.com/",
             "deliveryApps": [
-                "GrubHub"
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": "$$"
@@ -56,7 +56,7 @@
             "address": "655 S Jackson St A, Seattle, WA 98104",
             "website": "http://www.asibarbqueseattle.com/",
             "deliveryApps": [
-                "GrubHub",
+                "Grubhub",
                 "Uber Eats"
             ],
             "veganOptions": null,
@@ -96,8 +96,8 @@
             "address": "1306 S King St, Seattle, WA 98144",
             "website": null,
             "deliveryApps": [
-                "DoorDash",
-                "GrubHub"
+                "Doordash",
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": "$$"
@@ -426,7 +426,8 @@
         {
             "name": "Congeez",
             "types": [
-                "Comfort food"
+                "Chinese",
+                "Comfort Food"
             ],
             "services": [
                 "Curbside/Takeout",
@@ -517,7 +518,7 @@
             "deliveryApps": [
                 "Caviar",
                 "Postmates",
-                "GrubHub"
+                "Grubhub"
             ],
             "veganOptions": true,
             "price": ""
@@ -631,7 +632,7 @@
             "deliveryApps": [
                 "Grubhub",
                 "Uber Eats",
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
@@ -667,7 +668,7 @@
             "website": "https://www.fujisushiseattle.com/",
             "deliveryApps": [
                 "Uber Eats",
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
@@ -687,7 +688,7 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "DoorDash",
+                "Doordash",
                 "Grubhub"
             ],
             "veganOptions": null,
@@ -811,7 +812,7 @@
             "address": "",
             "website": "https://www.henrysseattle.com",
             "deliveryApps": [
-                "DoorDash",
+                "Doordash",
                 "Postmates"
             ],
             "veganOptions": true,
@@ -851,13 +852,13 @@
             "address": "",
             "website": "https://www.hohoseafood.com",
             "deliveryApps": [
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
         },
         {
-            "name": "Honey Court Seafood Restaurant",
+            "name": "Honey Court Seafood Restaurant [CLOSED]",
             "types": [
                 "Chinese (Dim Sum)"
             ],
@@ -870,8 +871,7 @@
             "address": "",
             "website": "http://www.honeycourtrestaurant.com/",
             "deliveryApps": [
-                "Grubhub",
-                "Closed until 4/2"
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
@@ -890,7 +890,7 @@
             "address": "",
             "website": "http://www.hongkongbistroseattle.com/",
             "deliveryApps": [
-                "DoorDash",
+                "Doordash",
                 "Postmates"
             ],
             "veganOptions": true,
@@ -1013,7 +1013,7 @@
             "address": "",
             "website": "http://jade garden seattle.com/",
             "deliveryApps": [
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
@@ -1032,7 +1032,7 @@
             "address": "",
             "website": "https://www.joyaleseafood.com/",
             "deliveryApps": [
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
@@ -1646,7 +1646,7 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
@@ -1717,7 +1717,7 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": true,
             "price": ""
@@ -1737,7 +1737,7 @@
             "website": "https://www.tensushiseattle35.com",
             "deliveryApps": [
                 "Uber Eats",
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
@@ -1756,7 +1756,7 @@
             "address": "",
             "website": "http://www.thaiplaceseattle.com/",
             "deliveryApps": [
-                "DoorDash",
+                "Doordash",
                 "Uber Eats"
             ],
             "veganOptions": true,
@@ -1886,7 +1886,7 @@
                 "ChowBus",
                 "Postmates",
                 "Caviar",
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": true,
             "price": ""
@@ -1962,7 +1962,7 @@
             "address": "4219 S Othello St, Ste 105-C, Seattle, WA 98118",
             "website": null,
             "deliveryApps": [
-                "GrubHub"
+                "Grubhub"
             ],
             "veganOptions": true,
             "price": "$$"
@@ -2061,7 +2061,7 @@
             "address": "",
             "website": "http://www.kingwha.com/09_menu.html",
             "deliveryApps": [
-                "UberEats, DoorDash, and Grubhub"
+                "Uber Eats", "Doordash", "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
@@ -2080,7 +2080,7 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "UberEats"
+                "Uber Eats"
             ],
             "veganOptions": null,
             "price": ""
@@ -2145,19 +2145,17 @@
         },
         {
             "name": "Bent Burgers",
-            "types": [],
+            "types": ["Burgers"],
             "services": [
                 "Curbside/Takeout"
             ],
-            "phone": "",
-            "locations": [
-                ""
-            ],
-            "address": "",
-            "website": "",
-            "deliveryApps": [],
+            "phone": "(206) 760-0291",
+            "locations": ["Seward Park"],
+            "address": "5100 Dawson St Ste 100, Seattle, WA 98118",
+            "website": "https://www.bentburgers.com/",
+            "deliveryApps": ["Uber Eats", "Grubhub"],
             "veganOptions": null,
-            "price": ""
+            "price": "$$"
         },
         {
             "name": "Max's Restaurant",
@@ -2225,7 +2223,7 @@
             "address": "",
             "website": "http://mawaddacafe.com/",
             "deliveryApps": [
-                "GrubHub"
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
@@ -2244,7 +2242,7 @@
             "address": "",
             "website": "https://www.doordash.com/store/thien-phat-seattle-39412/en-US",
             "deliveryApps": [
-                "DoorDash"
+                "Doordash"
             ],
             "veganOptions": null,
             "price": ""
@@ -2263,7 +2261,7 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "GrubHub"
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
@@ -2282,7 +2280,7 @@
             "address": "",
             "website": "https://huong-duong-2.square.site/",
             "deliveryApps": [
-                "Doordash, postmates"
+                "Doordash", "Postmates"
             ],
             "veganOptions": null,
             "price": ""
@@ -2323,20 +2321,18 @@
             "price": ""
         },
         {
-            "name": "Ezell's",
-            "types": [],
+            "name": "Ezell's Famous Chicken",
+            "types": ["Southern", "Chicken Shop", "Comfort Food"],
             "services": [
                 "Curbside/Takeout"
             ],
-            "phone": "",
-            "locations": [
-                ""
-            ],
-            "address": "",
-            "website": "",
-            "deliveryApps": [],
+            "phone": "(206) 339-0126",
+            "locations": ["Central District"],
+            "address": "501 23rd Ave, Seattle, WA 98122",
+            "website": "https://ezellschicken.com/",
+            "deliveryApps": ["Doordash", "Grubhub"],
             "veganOptions": null,
-            "price": ""
+            "price": "$"
         },
         {
             "name": "Wicked Chopstix",
@@ -2352,8 +2348,8 @@
             "address": "",
             "website": "https://wickedchopstix.business.site",
             "deliveryApps": [
-                "DoorDash",
-                "GrubHub"
+                "Doordash",
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
@@ -2404,7 +2400,7 @@
             "address": "",
             "website": "kaffacoffee.net",
             "deliveryApps": [
-                "doordash, ubereats,postmate, grubhub"
+                "doordash", "Uber Eat", "Postmates", "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
@@ -2474,7 +2470,7 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "Doordash", "UberEats"
+                "Doordash", "Uber Eats"
             ],
             "veganOptions": null,
             "price": ""
@@ -2493,7 +2489,7 @@
             "address": "",
             "website": "",
             "deliveryApps": [
-                "Doordash", "UberEats", "Postmates"
+                "Doordash", "Uber Eats", "Postmates"
             ],
             "veganOptions": null,
             "price": ""
@@ -2516,22 +2512,22 @@
         },
         {
             "name": "Pho Hai Yan",
-            "types": [],
+            "types": ["Vietnamese", "Noodles"],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
             ],
-            "phone": "",
+            "phone": "(206) 323-5570",
             "locations": [
-                ""
+                "Central District"
             ],
-            "address": "",
-            "website": "",
+            "address": "810 Rainier Ave S, Seattle, WA 98127",
+            "website": null,
             "deliveryApps": [
                 "Doordash"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "$"
         },
         {
             "name": "Yummy Kitchen",
@@ -2563,7 +2559,7 @@
             "address": "",
             "website": "saffronspiceseattle.com",
             "deliveryApps": [
-                "GrubHub"
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
@@ -2581,9 +2577,7 @@
             ],
             "address": "",
             "website": "cafe-weekend.square.site",
-            "deliveryApps": [
-                "(Delivery Soon) Pick-Up / Take Out Only"
-            ],
+            "deliveryApps": [],
             "veganOptions": null,
             "price": ""
         },
@@ -2601,7 +2595,7 @@
             "address": "",
             "website": "https://akasakafederalway.com/",
             "deliveryApps": [
-                "UberEats"
+                "Uber Eats"
             ],
             "veganOptions": null,
             "price": ""
@@ -2624,22 +2618,20 @@
         },
         {
             "name": "Bananas Grill",
-            "types": [],
+            "types": ["Mediterranean", "Halal", "Fast Food", "Burgers"],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
             ],
             "phone": "",
-            "locations": [
-                ""
-            ],
-            "address": "",
-            "website": "",
+            "locations": ["Columbia City"],
+            "address": "4556 Martin Luther King Jr Way S, Seattle, WA 98108",
+            "website": "https://bananagrillseattle.com/",
             "deliveryApps": [
-                "GrubHub"
+                "Grubhub", "Doordash"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "$"
         },
         {
             "name": "Taco Street",
