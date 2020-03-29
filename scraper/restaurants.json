@@ -1,0 +1,28 @@
+{
+    "restaurants": [
+        {
+            "name": "Great American Diner Bar",
+            "types": [
+                "American",
+                "Breakfast",
+                "Diner",
+                "Dinner",
+                "Lunch Specials"
+            ],
+            "services": [
+                "Delivery Apps"
+            ],
+            "phone": "(425) 417-6797",
+            "locations": [
+                ""
+            ],
+            "address": "419 6th Ave S, Seattle, WA 98104",
+            "website": "",
+            "deliveryApps": [
+                "GrubHub"
+            ],
+            "veganOptions": "",
+            "price": "$$"
+        }
+    ]
+}
