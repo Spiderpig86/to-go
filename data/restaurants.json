@@ -1277,7 +1277,7 @@
             "address": "",
             "website": "https://www.oceanstarseattle.com/",
             "deliveryApps": [
-                "grubhub"
+                "Grubhub"
             ],
             "veganOptions": null,
             "price": ""
@@ -1929,6 +1929,44 @@
             ],
             "veganOptions": true,
             "price": ""
+        },
+        {
+            "name": "Kiss Cafe",
+            "types": [
+                "Cafe", "Sandwiches", "Beer", "Wine", "Spirits"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Gift Card"
+            ],
+            "phone": "(206) 789-5477",
+            "locations": ["Ballard"],
+            "address": "2817 NW Market St, Ballard, WA 98107",
+            "website": "http://ballardkisscafe.com/",
+            "deliveryApps": [
+                "Uber Eats"
+            ],
+            "veganOptions": true,
+            "price": "$$"
+        },
+        {
+            "name": "Le’s Deli & Bakery",
+            "types": [
+                "Vietnamese", "Delis", "Bakery"
+            ],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 397-4352",
+            "locations": ["Rainier Valley"],
+            "address": "4219 S Othello St, Ste 105-C, Seattle, WA 98118",
+            "website": null,
+            "deliveryApps": [
+                "GrubHub"
+            ],
+            "veganOptions": true,
+            "price": "$$"
         }
     ]
 }

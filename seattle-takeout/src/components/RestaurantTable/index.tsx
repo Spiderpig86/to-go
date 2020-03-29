@@ -59,7 +59,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
         []
     );
 
-    const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow, setFilter, setGlobalFilter } = useTable(
+    const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow, setGlobalFilter } = useTable(
         {
             columns: props.columns,
             data: props.data,

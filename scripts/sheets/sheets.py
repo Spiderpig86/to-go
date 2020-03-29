@@ -17,10 +17,11 @@ class AppFields(str, Enum):
     GIFTCARD = 'Gift Card'
 
 class ChinatownWorksheetEnum(IntEnum):
-    NAME = 1
-    TYPES = 2
-    PHONE = 3
-    OPEN = 4
+    NAME = 0
+    TYPES = 1
+    PHONE = 2
+    OPEN = 3
+    _ = 4
     POC_OWNED = 5
     WEBSITE = 6
     DELIVERY_APPS_1 = 7
@@ -30,26 +31,26 @@ class ChinatownWorksheetEnum(IntEnum):
     NOTES = 11
 
 class SouthEndWorksheetEnum(IntEnum):
-    NAME = 1
-    _ = 2
-    PHONE = 3
-    POC_OWNED = 4
-    WEBSITE = 5
-    BUSINESS_DELIVERY = 6
-    DELIVERY_APPS_1 = 7
-    DELIVERY_APPS_2 = 8
-    LOCATION = 9
-    NOTES = 10
+    NAME = 0
+    _ = 1
+    PHONE = 2
+    POC_OWNED = 3
+    WEBSITE = 4
+    BUSINESS_DELIVERY = 5
+    DELIVERY_APPS_1 = 6
+    DELIVERY_APPS_2 = 7
+    LOCATION = 8
+    NOTES = 9
 
 class OtherWorksheetEnum(IntEnum):
-    NAME = 1
-    LOCATION = 2
-    PHONE = 3
-    POC_OWNED = 4
-    WEBSITE = 5
-    BUSINESS_DELIVERY = 6
-    DELIVERY_APPS = 7
-    VEGAN = 8
+    NAME = 0
+    LOCATION = 1
+    PHONE = 2
+    POC_OWNED = 3
+    WEBSITE = 4
+    BUSINESS_DELIVERY = 5
+    DELIVERY_APPS = 6
+    VEGAN = 7
 
 def process_china_town(worksheet_name, sheet):
     worksheet = sheet.worksheet(worksheet_name)
@@ -59,8 +60,8 @@ def process_china_town(worksheet_name, sheet):
     for i in range(2, len(rows)):
         row = rows[i]
         
-        delivery_apps = row[ChinatownWorksheetEnum.DELIVERY_APPS_1].split('\n')
-        delivery_apps += row[ChinatownWorksheetEnum.DELIVERY_APPS_2].split('\n')
+        delivery_apps = list(filter(lambda item: item != '', row[ChinatownWorksheetEnum.DELIVERY_APPS_1].split('\n')))
+        delivery_apps += list(filter(lambda item: item != '',row[ChinatownWorksheetEnum.DELIVERY_APPS_2].split('\n')))
 
         services = [AppFields.TAKEOUT]
         if len(delivery_apps) > 0:
@@ -73,11 +74,12 @@ def process_china_town(worksheet_name, sheet):
             has_vegan = True
         elif row[ChinatownWorksheetEnum.VEGAN] == 'no':
             has_vegan = False
-
+            
+        print(row)
 
         data.append({
             'name': row[ChinatownWorksheetEnum.NAME],
-            'types': row[ChinatownWorksheetEnum.TYPES],
+            'types': [row[ChinatownWorksheetEnum.TYPES]],
             'services': services,
             'phone': row[ChinatownWorksheetEnum.PHONE],
             'locations': [],
