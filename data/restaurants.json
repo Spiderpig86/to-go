@@ -2547,22 +2547,23 @@
         },
         {
             "name": "Saffron Spice",
-            "types": [],
+            "types": ["Indian"],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
             ],
-            "phone": "206 325-5332",
+            "phone": "(206) 325-5332",
             "locations": [
-                ""
+                "Beacon Hill",
+                "Downtown"
             ],
-            "address": "",
+            "address": "1901 Rainier Ave S, Seattle, WA 98144",
             "website": "saffronspiceseattle.com",
             "deliveryApps": [
                 "Grubhub"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "$$"
         },
         {
             "name": "Cafe Weekend",
@@ -2571,7 +2572,7 @@
                 "Curbside/Takeout",
                 "Delivery Apps"
             ],
-            "phone": "no - email website",
+            "phone": null,
             "locations": [
                 "Judkins Park/ Central District"
             ],
@@ -3157,7 +3158,7 @@
             ],
             "phone": "(206) 695-2564",
             "locations": [
-                "Downtown Seattle"
+                "Downtown"
             ],
             "address": "",
             "website": "littleduckwa.com",
@@ -3554,32 +3555,32 @@
         },
         {
             "name": "Tengu Sushi Restaurant",
-            "types": [],
+            "types": ["Sushi", "Bar", "Japanese"],
             "services": [
                 "Curbside/Takeout"
             ],
             "phone": "(206) 525-9999",
             "locations": [
-                ""
+                "Northgate"
             ],
             "address": "",
             "website": "https://tengusushi.com/main/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": ""
+            "price": "$$"
         },
         {
             "name": "Thai On 1",
-            "types": [],
+            "types": ["Thai"],
             "services": [
                 "Curbside/Takeout",
                 "Delivery Apps"
             ],
             "phone": "206-441-4348",
             "locations": [
-                ""
+                "Belltown"
             ],
-            "address": "",
+            "address": "2904 1st Ave, Seattle, WA 98121",
             "website": "http://www.thaion1.com",
             "deliveryApps": [
                 "ChowNow",
@@ -3587,23 +3588,23 @@
                 "Grubhub"
             ],
             "veganOptions": true,
-            "price": ""
+            "price": "$$"
         },
         {
             "name": "The Station",
-            "types": [],
+            "types": ["Mexican", "Coffee", "Tea"],
             "services": [
                 "Curbside/Takeout"
             ],
             "phone": "206-453-4892",
             "locations": [
-                ""
+                "Beacon Hill"
             ],
             "address": "",
             "website": "https://www.thestationbh.com/",
             "deliveryApps": [],
             "veganOptions": true,
-            "price": ""
+            "price": "$"
         }
     ]
 }
