@@ -19,7 +19,8 @@
                 "Grubhub"
             ],
             "veganOptions": true,
-            "price": "$"
+            "price": "$",
+            "status": "CLOSED"
         },
         {
             "name": "663 Bistro",
@@ -594,7 +595,8 @@
                 "Postmates"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "",
+            "status": "DINNER_ONLY"
         },
         {
             "name": "Fortuna Cafe",
@@ -692,7 +694,8 @@
                 "Grubhub"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "Golden Wheat Bakery",
@@ -816,7 +819,8 @@
                 "Postmates"
             ],
             "veganOptions": true,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "Hi B3ar",
@@ -858,7 +862,7 @@
             "price": ""
         },
         {
-            "name": "Honey Court Seafood Restaurant [CLOSED]",
+            "name": "Honey Court Seafood Restaurant",
             "types": [
                 "Chinese (Dim Sum)"
             ],
@@ -874,7 +878,8 @@
                 "Grubhub"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "Hong Kong Bistro",
@@ -894,7 +899,8 @@
                 "Postmates"
             ],
             "veganOptions": true,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "Hood Famous Cafe + Bar",
@@ -911,7 +917,8 @@
             "website": "http://www.hoodfamousbakeshop.com/",
             "deliveryApps": [],
             "veganOptions": true,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "House of Hong",
@@ -981,7 +988,8 @@
                 "Grubhub"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "J Sushi",
@@ -1059,7 +1067,10 @@
         {
             "name": "Kau Kau",
             "types": [
-                "Chinese"
+                "Chinese",
+                "Barbeque",
+                "Seafood",
+                "Cantonese"
             ],
             "services": [
                 "Curbside/Takeout",
@@ -1067,13 +1078,13 @@
             ],
             "phone": "(206) 682-4006",
             "locations": ["International District"],
-            "address": "",
+            "address": "656 S King St, Seattle, WA 98104",
             "website": "http://www.kaukaubbq.com/",
             "deliveryApps": [
                 "Grubhub"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "$$"
         },
         {
             "name": "King Noodle",
@@ -1105,7 +1116,8 @@
             "website": "",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "Lan Hue",
@@ -1221,7 +1233,8 @@
             "website": "http://momosanseattle.com",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "New Star Restaurant",
@@ -1296,7 +1309,8 @@
             "website": "http://www.onepotstew.com/",
             "deliveryApps": [],
             "veganOptions": true,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "Phnom Penh Noodle House",
@@ -1313,7 +1327,8 @@
             "website": "https://www.allmenus.com/wa/seattle/61737-phnom-penh-noodle-house/menu/",
             "deliveryApps": [],
             "veganOptions": true,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "Pho Ba",
@@ -1542,7 +1557,8 @@
                 "Postmates"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "Sichuanese Cuisine",
@@ -1834,7 +1850,8 @@
                 "Grubhub"
             ],
             "veganOptions": null,
-            "price": ""
+            "price": "",
+            "status": "DINNER_ONLY"
         },
         {
             "name": "Vietnam House",
@@ -1879,7 +1896,7 @@
             ],
             "phone": "(206) 682-6688",
             "locations": ["International District"],
-            "address": "",
+            "address": "609 S Weller St, Seattle, 98104",
             "website": "https://www.youngteaglobal.com/flavors",
             "deliveryApps": [
                 "Grubhub",
@@ -1889,7 +1906,8 @@
                 "Doordash"
             ],
             "veganOptions": true,
-            "price": ""
+            "price": "",
+            "status": "CLOSED"
         },
         {
             "name": "Yumbit Food Truck",
@@ -2572,7 +2590,7 @@
                 "Curbside/Takeout",
                 "Delivery Apps"
             ],
-            "phone": null,
+            "phone": "",
             "locations": [
                 "Judkins Park/ Central District"
             ],
