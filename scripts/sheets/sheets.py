@@ -123,7 +123,41 @@ def process_south_end(worksheet_name, sheet):
     _write_to_file(worksheet_name, json.dumps(data, indent=4))
 
 def process_other(worksheet_name, sheet):
-    pass
+    worksheet = sheet.worksheet(worksheet_name)
+    rows = worksheet.get_all_values()
+
+    data = []
+    for i in range(2, len(rows)):
+        row = rows[i]
+        if row == ['' for i in range(19)]:
+            continue
+
+        delivery_apps = list(filter(lambda item: item != '', row[OtherWorksheetEnum.DELIVERY_APPS].split(', ')))
+
+        services = [AppFields.TAKEOUT]
+        if len(delivery_apps) > 0:
+            services.append(AppFields.DELIVERY_APPS)
+
+        has_vegan = None
+        if row[OtherWorksheetEnum.VEGAN] == 'yes':
+            has_vegan = True
+        elif row[OtherWorksheetEnum.VEGAN] == 'no':
+            has_vegan = False
+
+        data.append({
+            'name': row[OtherWorksheetEnum.NAME].strip(),
+            'types': [],
+            'services': services,
+            'phone': row[OtherWorksheetEnum.PHONE].strip(),
+            'locations': [row[OtherWorksheetEnum.LOCATION].strip()],
+            'address': '',
+            'website': row[OtherWorksheetEnum.WEBSITE],
+            'deliveryApps': delivery_apps,
+            'veganOptions': has_vegan,
+            'price': ''
+        })
+
+    _write_to_file(worksheet_name, json.dumps(data, indent=4))
 
 def _write_to_file(worksheet_name, stringified_json):
     if not os.path.isdir(f'./{OUTPUT_DIR}'):
@@ -139,7 +173,7 @@ def main():
     sheet = client.open(SHEET_NAME)
     sheets_to_process = [
         # [{'worksheet_name': 'Chinatown-ID', 'sheet': sheet}, process_china_town],
-        [{'worksheet_name': 'South End', 'sheet': sheet}, process_south_end],
+        # [{'worksheet_name': 'South End', 'sheet': sheet}, process_south_end],
         [{'worksheet_name': 'Other Neighborhoods', 'sheet': sheet}, process_other]
     ]
 

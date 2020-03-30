@@ -2649,6 +2649,961 @@
             "deliveryApps": [],
             "veganOptions": null,
             "price": ""
+        },
+        {
+            "name": "Aloha Ramen",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 838-3837",
+            "locations": [
+                "Aurora"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Postmates"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Annapurna Cafe",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 320-7770",
+            "locations": [
+                "Aurora"
+            ],
+            "address": "",
+            "website": "http://www.annapurnacafe.com/",
+            "deliveryApps": [
+                "Doordash"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Arepa Venezuelan Kitchen",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 556-4879",
+            "locations": [
+                "Ballard"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Bai Tong Thai Street Cafe",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 787-8448",
+            "locations": [
+                "Downtown"
+            ],
+            "address": "",
+            "website": "https://www.baitongthaistreetcafe.com/",
+            "deliveryApps": [],
+            "veganOptions": false,
+            "price": ""
+        },
+        {
+            "name": "Bamboo Village",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 632-8888",
+            "locations": [
+                "Beacon Hill"
+            ],
+            "address": "",
+            "website": "http://www.bamboovillagerestaurant.com/",
+            "deliveryApps": [
+                "Doordash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Banh Town",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "",
+            "locations": [
+                "Bellevue"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Bonchon",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 420-8225",
+            "locations": [
+                "Bellevue"
+            ],
+            "address": "",
+            "website": "https://bonchon.com/korean-fried-chicken-first-hill-wa/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Cafe Weekend",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "no",
+            "locations": [
+                "Belltown"
+            ],
+            "address": "",
+            "website": "https://cafe-weekend.square.site",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Cedars on Capitol Hill",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 325-3988",
+            "locations": [
+                "Belltown"
+            ],
+            "address": "",
+            "website": "https://cedarsseattle.com/",
+            "deliveryApps": [
+                "Caviar",
+                "Amazon Prime Now",
+                "Postmates",
+                "Bite Squad",
+                "Eat24",
+                "GrubHub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Chef Liao",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206)789-6441",
+            "locations": [
+                "Belltown"
+            ],
+            "address": "",
+            "website": "http://chefliaoseattle.com/",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Covington Teriyaki",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(253) 639-6300",
+            "locations": [
+                "Belltown"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Covington Teriyaki",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "253-639-6300",
+            "locations": [
+                "Covington"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Daawat Indian Grill",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 467-7272",
+            "locations": [
+                "Belltown, Redmond"
+            ],
+            "address": "",
+            "website": "http://www.daawatindiangrill.com/",
+            "deliveryApps": [
+                "Grubhub",
+                "Caviar",
+                "Doordash",
+                "Postmates"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Frying FIsh",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(425) 643-1234",
+            "locations": [
+                "Bitter Lake"
+            ],
+            "address": "",
+            "website": "https://www.fryingfishbellevue.com/",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Fu Shen",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 624-3888",
+            "locations": [
+                "Bitter Lake"
+            ],
+            "address": "",
+            "website": "https://www.yelp.com/menu/fu-shen-seattle",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "HK Dim Sum",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "",
+            "locations": [
+                "Bitter Lake"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Hood Famous Bakeshop",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 979-2253",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "",
+            "website": "http://www.hoodfamousbakeshop.com/locations",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Ichi Roll Wok & Teriyaki",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 363-5100",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Uber Eats"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Ichiro Sushi & Teriyaki",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 286-8755",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Caviar"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "iSandwich",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 529-3221",
+            "locations": [
+                "Shoreline"
+            ],
+            "address": "",
+            "website": "https://www.isandwichesteriyaki.com/#/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Judy Fu's Snappy Dragon",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 528-5575",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "",
+            "website": "http://www.snappydragon.com/",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Julie's Garden",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 223-3690",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "",
+            "website": "http://julies-garden.com/",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Karaage Setsuna",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "206-448-3595",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "",
+            "website": "https://karaagesetsuna.com/",
+            "deliveryApps": [
+                "Doordash",
+                "Postmates"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Kastoori Grill",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 441-5456",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "",
+            "website": "https://kastoorigrill.com/",
+            "deliveryApps": [
+                "Uber Eats"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Kedai Makan",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Kiki's Bakery",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 617-7688",
+            "locations": [
+                "Covington"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "La Cocina Oaxaquena",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 623-8226",
+            "locations": [
+                "Downtown"
+            ],
+            "address": "",
+            "website": "http://lacocinaoaxaquena.com/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Lionhead",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 922-3326",
+            "locations": [
+                "Downtown"
+            ],
+            "address": "",
+            "website": "www.lionheadseattle.com",
+            "deliveryApps": [
+                "Grubhub",
+                "Doordash",
+                "Caviar"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Little Duck",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 695-2564",
+            "locations": [
+                "Downtown Seattle"
+            ],
+            "address": "",
+            "website": "littleduckwa.com",
+            "deliveryApps": [
+                "Doordash"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Lola's Lumpia Cuisine",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "2066174833",
+            "locations": [
+                "Eastlake"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Luna Azul",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 706-5392",
+            "locations": [
+                "First Hill"
+            ],
+            "address": "",
+            "website": "https://www.yelp.com/biz/luna-azul-seattle",
+            "deliveryApps": [
+                "Uber Eats",
+                "Caviar"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Mamnoon",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 906-9606",
+            "locations": [
+                "First Hill"
+            ],
+            "address": "",
+            "website": "https://mamnoonrestaurant.com/",
+            "deliveryApps": [
+                "Caviar"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Maneki",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(503) 662-2814",
+            "locations": [
+                "Greenwood"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Me+Crepe",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "425-454-2479",
+            "locations": [
+                "International District, Capitol Hill"
+            ],
+            "address": "",
+            "website": "www.meandcrepe.com",
+            "deliveryApps": [
+                "Uber Eats",
+                "Chowbus",
+                "Grubhub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Moonlight Cafe",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "206-322-3378",
+            "locations": [
+                "Central District"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Mount and Bao",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206)6877997 (no answer)",
+            "locations": [
+                "Judkins Park / Central District"
+            ],
+            "address": "",
+            "website": "https://mountbao.business.site/?utm_source=gmb&utm_medium=referral",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Mura Asian Eatery",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 390-7148",
+            "locations": [
+                "Lake City"
+            ],
+            "address": "",
+            "website": "http://www.muraasianeatery.com/",
+            "deliveryApps": [
+                "Caviar"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Nijo Susi & Grill",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "206-340-8880",
+            "locations": [
+                "Lake City"
+            ],
+            "address": "",
+            "website": "www.nijosushi.com",
+            "deliveryApps": [
+                "Chownow"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Ooink",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206)568-7669",
+            "locations": [
+                "Lake City"
+            ],
+            "address": "",
+            "website": "https://www.ooinkramen.com/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Pho An",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 362-3439",
+            "locations": [
+                "Magnolia"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Pho Ha",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206)-368-3887",
+            "locations": [
+                "Magnolia"
+            ],
+            "address": "",
+            "website": "https://www.phoharestaurants.com/",
+            "deliveryApps": [
+                "Uber Eats",
+                "DoorDash",
+                "Grubhub "
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Queen Sheba Ethiopian Restaurant, East John Street, Seattle, WA",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 322-0852",
+            "locations": [
+                "Maple Leaf"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Grubhub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Rocking Wok",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 545-4878",
+            "locations": [
+                "Multiple Locations"
+            ],
+            "address": "",
+            "website": "https://rockingwoktogo.com/",
+            "deliveryApps": [
+                "Postmates"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Shiro's",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "",
+            "locations": [
+                "Multiple Locations"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [],
+            "veganOptions": false,
+            "price": ""
+        },
+        {
+            "name": "Son of a Butcher",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "",
+            "locations": [
+                "Phinney Ridge"
+            ],
+            "address": "",
+            "website": "https://www.yelp.com/biz/son-of-a-butcher-seattle-3",
+            "deliveryApps": [
+                "Uber Eats"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Stone Korean",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206)-717-2864",
+            "locations": [
+                "Pioneer Square"
+            ],
+            "address": "",
+            "website": "http://stonekorean.com/",
+            "deliveryApps": [
+                "Uber Eats",
+                "Caviar"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Sweet Alchemy",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206)313-0615",
+            "locations": [
+                "University District"
+            ],
+            "address": "",
+            "website": "http://sweetalchemyicecreamery.com/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "Tacos Chukis",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206) 905-8537",
+            "locations": [
+                "Shoreline"
+            ],
+            "address": "",
+            "website": "",
+            "deliveryApps": [
+                "Postmates",
+                "Grubhub",
+                "Doordash"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "TAM Noodle Box",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "(206)-257-5729",
+            "locations": [
+                "Wallingford"
+            ],
+            "address": "",
+            "website": "https://www.facebook.com/tamnoodlebox/",
+            "deliveryApps": [
+                "Uber Eats",
+                "GrubHub",
+                "DoorDash"
+            ],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Taurus Ox",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 972-0075",
+            "locations": [
+                "Wallingford"
+            ],
+            "address": "",
+            "website": "https://www.instagram.com/taurusoxseattle/?hl=en",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Tengu Sushi Restaurant",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "(206) 525-9999",
+            "locations": [
+                ""
+            ],
+            "address": "",
+            "website": "https://tengusushi.com/main/",
+            "deliveryApps": [],
+            "veganOptions": null,
+            "price": ""
+        },
+        {
+            "name": "Thai On 1",
+            "types": [],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "206-441-4348",
+            "locations": [
+                ""
+            ],
+            "address": "",
+            "website": "http://www.thaion1.com",
+            "deliveryApps": [
+                "ChowNow",
+                "Postmates",
+                "Grubhub"
+            ],
+            "veganOptions": true,
+            "price": ""
+        },
+        {
+            "name": "The Station",
+            "types": [],
+            "services": [
+                "Curbside/Takeout"
+            ],
+            "phone": "206-453-4892",
+            "locations": [
+                ""
+            ],
+            "address": "",
+            "website": "https://www.thestationbh.com/",
+            "deliveryApps": [],
+            "veganOptions": true,
+            "price": ""
         }
     ]
 }
