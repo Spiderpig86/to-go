@@ -1,3 +1,5 @@
+import { Status } from './status';
+
 export interface Restaurant {
     name: string;
     types: string[];
@@ -9,4 +11,5 @@ export interface Restaurant {
     deliveryApps: string[];
     veganOptions: boolean | null;
     price: string;
+    status?: Status;
 }

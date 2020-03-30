@@ -90,7 +90,11 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
         <div>
             <div
                 css={{
-                    margin: '1rem .25rem'
+                    background: '#fff',
+                    padding: '1rem .25rem',
+                    position: 'sticky',
+                    top: 0,
+                    zIndex: 999
                 }}
             >
                 <input
