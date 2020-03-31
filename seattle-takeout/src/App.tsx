@@ -114,8 +114,12 @@ function App() {
                     marginTop: '7rem'
                 }}
             >
-                <h1>🍴 SeaToGo.</h1>
-                <p>Restaurants still open in these tough times.</p>
+                <h1 className="u-flex u-veritcal-center u-horizontal-center"><img src="/favicon-96x96.png" className="mr-1" css={{
+                    borderRadius: '.25rem',
+                    height: 'auto',
+                    width: '4rem'
+                }} /> SeaToGo.</h1>
+                <p>Supporting local restaurants in <b>Seattle</b>.</p>
                 <div className="content">
                     <blockquote>
                         👋 Hey guys! This is very much WIP (UI changes, sorting, new restaurants, etc.), but I hope that this list of restaurants will

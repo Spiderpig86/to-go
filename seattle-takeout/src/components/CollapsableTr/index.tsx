@@ -37,7 +37,7 @@ export const CollapsableTr: React.FC<CollapsableTrProps> = props => {
             }}
         >
             {row.cells.map((cell, i) => {
-                return <td className={'table__cell'} {...cell.getCellProps()}>
+                return <td key={i} className={'table__cell'} {...cell.getCellProps()}>
                     <div css={{
                         display: 'grid',
                         maxWidth: '200px' 

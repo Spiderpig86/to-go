@@ -132,9 +132,9 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                         ))}
                     </thead>
                     <tbody {...getTableBodyProps()}>
-                        {rows.map(row => {
+                        {rows.map((row, i) => {
                             prepareRow(row); // Allow row to get props dynamically
-                            return <CollapsableTr row={row} />;
+                            return <CollapsableTr key={i} row={row} />;
                         })}
                     </tbody>
                 </table>
