@@ -2794,23 +2794,7 @@
             "price": ""
         },
         {
-            "name": "Cafe Weekend",
-            "types": [],
-            "services": [
-                "Curbside/Takeout"
-            ],
-            "phone": "no",
-            "locations": [
-                "Belltown"
-            ],
-            "address": "",
-            "website": "https://cafe-weekend.square.site",
-            "deliveryApps": [],
-            "veganOptions": null,
-            "price": ""
-        },
-        {
-            "name": "Cedars on Capitol Hill",
+            "name": "Cedars in Capitol Hill",
             "types": [],
             "services": [
                 "Curbside/Takeout",
@@ -2818,7 +2802,7 @@
             ],
             "phone": "(206) 325-3988",
             "locations": [
-                "Belltown"
+                "Capitol Hill"
             ],
             "address": "",
             "website": "https://cedarsseattle.com/",
@@ -2890,7 +2874,7 @@
             ],
             "phone": "(206) 467-7272",
             "locations": [
-                "Belltown, Redmond"
+                "Belltown", "Redmond"
             ],
             "address": "",
             "website": "http://www.daawatindiangrill.com/",
@@ -3258,7 +3242,7 @@
             "price": ""
         },
         {
-            "name": "Me+Crepe",
+            "name": "Me + Crepe",
             "types": [],
             "services": [
                 "Curbside/Takeout",
@@ -3266,7 +3250,7 @@
             ],
             "phone": "425-454-2479",
             "locations": [
-                "International District, Capitol Hill"
+                "International District", "Capitol Hill"
             ],
             "address": "",
             "website": "www.meandcrepe.com",
@@ -3300,9 +3284,9 @@
             "services": [
                 "Curbside/Takeout"
             ],
-            "phone": "(206)6877997 (no answer)",
+            "phone": "(206) 687-7997",
             "locations": [
-                "Judkins Park / Central District"
+                "Judkins Park", "Central District"
             ],
             "address": "",
             "website": "https://mountbao.business.site/?utm_source=gmb&utm_medium=referral",
