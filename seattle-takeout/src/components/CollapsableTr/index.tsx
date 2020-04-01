@@ -12,7 +12,7 @@ interface CollapsableTrProps {
 
 const statusColorMap: Map<Status, string> = new Map([
     [Status.OPEN, 'inherit'],
-    [Status.CLOSED, '#feecf0'],
+    [Status.CLOSED, '#ffc0ce'],
     [Status.DINNER_ONLY, '#ebfffc'],
     [Status.LUNCH_ONLY, '#eef3fc'],
     [Status.LUNCH_AND_DINNER, '#eef6fc'],
@@ -37,7 +37,7 @@ export const CollapsableTr: React.FC<CollapsableTrProps> = props => {
             }}
         >
             {row.cells.map((cell, i) => {
-                return <td key={i} className={'table__cell'} {...cell.getCellProps()}>
+                return <td className={'table__cell'} {...cell.getCellProps()}>
                     <div css={{
                         display: 'grid',
                         maxWidth: '200px' 

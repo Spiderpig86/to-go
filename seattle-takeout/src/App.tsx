@@ -62,6 +62,11 @@ function App() {
                     {
                         Header: 'Phone',
                         accessor: (restaurant: Restaurant) => restaurant.phone,
+                        sortType: (a, b) => {
+                            const aNumber = a.original.phone.replace(/[\(\)\s-]/g, '');
+                            const bNumber = b.original.phone.replace(/[\(\)\s-]/g, '');
+                            return String(aNumber).localeCompare(String(bNumber));
+                        },
                         Cell: ({ cell: { value } }: CellType) => {
                             return (value && value !== '') ? <a css={{whiteSpace: 'nowrap'}} className="column-link" href={'tel:' + value} target="_blank" rel="noopener noref">{value}</a> : <div></div>
                         }

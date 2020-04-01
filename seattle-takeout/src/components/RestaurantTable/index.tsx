@@ -5,9 +5,9 @@ import { css, jsx } from '@emotion/core';
 import { Container, Button, Link } from 'react-floating-action-button';
 
 import { Restaurant } from '../../model/restaurant';
+import { CollapsableTr } from '../CollapsableTr';
 
 import './index.css';
-import { CollapsableTr } from '../CollapsableTr';
 
 interface RestaurantTableProps {
     columns: any;
@@ -17,32 +17,36 @@ interface RestaurantTableProps {
 }
 
 export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
+    const [limitSearchResults, setLimitSearchResults] = useState(true); // Limit displayed results to speed up app
     const filterTypes = React.useMemo(
         () => ({
             restaurantFilter: (rows, id, filterValue) => {
+                if (!filterValue) {
+                    return rows;
+                }
                 return rows.filter(row => {
                     const restaurant: Restaurant = row.original;
                     filterValue = filterValue.toLowerCase();
 
-                    const containsDelivery = restaurant.deliveryApps.some(
-                        delivery => delivery.toLowerCase().indexOf(filterValue) > -1
+                    const containsDelivery = restaurant.deliveryApps.some(delivery =>
+                        delivery.toLowerCase().includes(filterValue)
                     );
                     if (containsDelivery) {
                         return true;
                     }
-                    const containsService = restaurant.services.some(
-                        service => service.toLowerCase().indexOf(filterValue) > -1
-                    )
+                    const containsService = restaurant.services.some(service =>
+                        service.toLowerCase().includes(filterValue)
+                    );
                     if (containsService) {
                         return true;
                     }
-                    const containsLocation = restaurant.locations.some(
-                        location => location.toLowerCase().indexOf(filterValue) > -1
+                    const containsLocation = restaurant.locations.some(location =>
+                        location.toLowerCase().includes(filterValue)
                     );
                     if (containsLocation) {
                         return true;
                     }
-                    const containsType = restaurant.types.some(type => type.toLowerCase().indexOf(filterValue) > -1);
+                    const containsType = restaurant.types.some(type => type.toLowerCase().includes(filterValue));
                     if (containsType) {
                         return true;
                     }
@@ -75,8 +79,11 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
 
     const handleFilterChange = (e: any) => {
         const value = e.target.value || '';
+        if (value.length < 3) {
+            setLimitSearchResults(true);
+        }
+
         setGlobalFilter(value);
-        // setFilter('Name', value);
         props.setFilterInput(value);
     };
 
@@ -85,6 +92,14 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
         setGlobalFilter(value);
         props.setFilterInput(value);
     }, [props.filterInput]);
+
+    window.onscroll = function() {
+        if (limitSearchResults && window.pageYOffset > 750) {
+            setLimitSearchResults(false);
+        }
+    };
+
+    const rowsToRender = limitSearchResults ? rows.slice(0, Math.min(20, rows.length)) : rows;
 
     return (
         <div>
@@ -132,16 +147,24 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                         ))}
                     </thead>
                     <tbody {...getTableBodyProps()}>
-                        {rows.map((row, i) => {
-                            prepareRow(row); // Allow row to get props dynamically
+                        {rowsToRender.map((row, i) => {
+                            prepareRow(row); // Allow row to get props
                             return <CollapsableTr key={i} row={row} />;
                         })}
                     </tbody>
                 </table>
             </div>
             <Container>
-                <Link href="https://forms.gle/KRtTQUevbPbUck5H8" tooltip="Add/Edit a restaurant." icon="far fa-sticky-note" />
-                <Link href="https://github.com/Spiderpig86/sea-to-go/issues/new" tooltip="Report a bug." icon="fas fa-bug" />
+                <Link
+                    href="https://forms.gle/KRtTQUevbPbUck5H8"
+                    tooltip="Add/Edit a restaurant."
+                    icon="far fa-sticky-note"
+                />
+                <Link
+                    href="https://github.com/Spiderpig86/sea-to-go/issues/new"
+                    tooltip="Report a bug."
+                    icon="fas fa-bug"
+                />
                 <Button
                     className="fab-item btn btn-link btn-lg text-white"
                     tooltip="Actions!"
