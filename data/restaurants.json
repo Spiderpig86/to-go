@@ -3607,6 +3607,92 @@
             "deliveryApps": [],
             "veganOptions": true,
             "price": "$"
+        },
+        {
+            "name": "Soi",
+            "types": ["Thai", "Bars", "Desserts"],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps"
+            ],
+            "phone": "2065564853",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "1400 10th Ave, Seattle, WA 98122",
+            "website": "https://soicapitolhill.com/",
+            "deliveryApps": ["Caviar"],
+            "veganOptions": null,
+            "price": "$$"
+        },
+        {
+            "name": "Bottlehouse",
+            "types": ["Wine Bars", "Tapas", "Small Plates"],
+            "services": [
+                "Curbside/Takeout",
+                "Gift Card"
+            ],
+            "phone": "206-708-7164",
+            "locations": [
+                "Madrona"
+            ],
+            "address": "1416 34th Ave, Seattle, WA 98122",
+            "website": "http://www.bottlehouseseattle.com/",
+            "deliveryApps": ["Caviar"],
+            "veganOptions": null,
+            "price": "$$"
+        },
+        {
+            "name": "On Safari Foods",
+            "types": ["Caterers"],
+            "services": [
+                "Curbside/Takeout",
+                "Business Owned Delivery"
+            ],
+            "phone": "206-932-9497",
+            "locations": [
+                "Sodo"
+            ],
+            "address": "3317 3rd Ave South, Seattle, WA 98134",
+            "website": "https://www.onsafarifoods.com/",
+            "deliveryApps": ["Caviar"],
+            "veganOptions": null,
+            "price": "$$"
+        },
+        {
+            "name": "Highline Bar",
+            "types": ["Dive Bars", "American (Traditional)", "TexMex"],
+            "services": [
+                "Curbside/Takeout",
+                "Delivery Apps",
+                "Gift Card"
+            ],
+            "phone": "(206) 328-7837",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "210 Broadway Ave E. Seattle, WA 98102",
+            "website": "https://www.onsafarifoods.com/",
+            "deliveryApps": ["ToastTab"],
+            "veganOptions": true,
+            "price": "$$"
+        },
+        {
+            "name": "Westman's Bagels",
+            "types": ["Bagels", "Coffee", "Tea", "Sandwiches"],
+            "services": [
+                "Curbside/Takeout",
+                "Business Owned Delivery"
+            ],
+            "phone": "(206) 328-7837",
+            "locations": [
+                "Capitol Hill"
+            ],
+            "address": "1509 E Madison St, Seattle, WA 9812",
+            "website": "https://www.westmanstogo.com/order",
+            "deliveryApps": ["ToastTab"],
+            "veganOptions": true,
+            "price": "$"
         }
     ]
 }
