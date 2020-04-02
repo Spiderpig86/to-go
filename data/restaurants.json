@@ -3712,7 +3712,7 @@
             "website": "https://www.miopostopizza.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Locust Cider & Brewing",
@@ -3735,7 +3735,7 @@
             "website": "https://www.locustcider.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Bruciato",
@@ -3751,7 +3751,7 @@
             "website": "https://www.pizzeriabruciato.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Arashi Ramen",
@@ -3767,7 +3767,7 @@
             "website": "https://www.arashiramen.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Joli",
@@ -3783,7 +3783,7 @@
             "website": "https://www.joliseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Monkey Bridge",
@@ -3799,7 +3799,7 @@
             "website": "https://www.themonkeybridge.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Un Bien",
@@ -3815,7 +3815,7 @@
             "website": "https://www.unbienseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Delancey",
@@ -3831,7 +3831,7 @@
             "website": "https://www.delanceyseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Ballard Pizza Co.",
@@ -3847,7 +3847,7 @@
             "website": "https://www.ethanstowellrestaurants.com/locations/ballard-pizza-company",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Mainstay Provisions",
@@ -3863,7 +3863,7 @@
             "website": "https://www.mainstayprovisions.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Porkchop & Co.",
@@ -3879,7 +3879,7 @@
             "website": "https://www.eatatporkchop.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Little Chinook\u2019s",
@@ -3895,7 +3895,7 @@
             "website": "https://www.anthonys.com/restaurants/detail/little-chinooks",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Gracia",
@@ -3911,7 +3911,7 @@
             "website": "https://www.graciaseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Copine",
@@ -3927,7 +3927,7 @@
             "website": "https://www.copineseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Rosellini\u2019s Bakery",
@@ -3943,7 +3943,7 @@
             "website": "https://www.rosellinis.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Trailbend Taproom",
@@ -3959,7 +3959,7 @@
             "website": "https://www.trailbendtaproom.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Giddy Up Burgers",
@@ -3975,7 +3975,7 @@
             "website": "https://www.giddyupburgers.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Senor Moose",
@@ -3991,7 +3991,7 @@
             "website": "https://www.senormoose.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Vera's Pizza and Bar",
@@ -4007,7 +4007,7 @@
             "website": "https://www.verasballard.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Schmaltzy's Delicatessen",
@@ -4023,7 +4023,7 @@
             "website": "https://www.schmaltzysdeli.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Breezy Town Pizza",
@@ -4039,7 +4039,7 @@
             "website": "https://www.breezytownpizza.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Tippe and Drague Alehouse",
@@ -4055,7 +4055,7 @@
             "website": "https://www.tippeanddrague.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Bis on Main",
@@ -4071,7 +4071,7 @@
             "website": "https://www.bisonmain.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Central Bar + Restaurant",
@@ -4087,7 +4087,7 @@
             "website": "https://www.centralbar.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "520 Bar & Grill",
@@ -4103,7 +4103,7 @@
             "website": "https://www.520barandgrill.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Yoroshiku",
@@ -4120,7 +4120,7 @@
             "website": "https://www.yoroshikuseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "3-Pigs Bar B-Q",
@@ -4136,7 +4136,7 @@
             "website": "https://www.3pigsbarbq.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Thaal",
@@ -4152,7 +4152,7 @@
             "website": "https://www.facebook.com/thaalseattle",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Curry Point",
@@ -4168,7 +4168,7 @@
             "website": "https://www.currypoint.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Boat Street Kitchen and Bistro",
@@ -4184,7 +4184,7 @@
             "website": "https://www.boatstreetkitchen.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Some Random Bar",
@@ -4200,7 +4200,7 @@
             "website": "https://www.somerandombar.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Petra Mediterranean Bistro",
@@ -4216,7 +4216,7 @@
             "website": "https://www.petrabistro.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Bento World",
@@ -4232,7 +4232,7 @@
             "website": "https://www.yelp.com/biz/bento-world-seattle",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Jerk Shack",
@@ -4248,7 +4248,7 @@
             "website": "https://www.jerkshackseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Shiro's Sushi",
@@ -4264,7 +4264,7 @@
             "website": "https://www.shiros.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Geo's Cuban Bar & Grill",
@@ -4280,7 +4280,7 @@
             "website": "https://www.geosbarandgrill.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Seattle Sunshine Coffee",
@@ -4296,7 +4296,7 @@
             "website": "https://www.seattlesunshinecoffee.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Bryant Corner Cafe",
@@ -4312,7 +4312,7 @@
             "website": "https://www.thebryantcornercafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Krungthep Thai Cuisine",
@@ -4328,7 +4328,7 @@
             "website": "https://www.krungthep-thai.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Pizza Gallery",
@@ -4344,7 +4344,7 @@
             "website": "https://www.pizzagallery.biz/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Rom Mai Thai",
@@ -4360,7 +4360,7 @@
             "website": "https://www.rommaithai.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Artusi",
@@ -4376,7 +4376,7 @@
             "website": "https://www.artusibar.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Meet Korean BBQ",
@@ -4392,7 +4392,7 @@
             "website": "https://www.meetkoreanbbq.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Lark",
@@ -4408,7 +4408,7 @@
             "website": "https://www.larkseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Rocket Taco",
@@ -4424,7 +4424,7 @@
             "website": "https://www.www.rocket-taco.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Spinasse",
@@ -4440,7 +4440,7 @@
             "website": "https://www.spinasse.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Westmans Bagel",
@@ -4456,7 +4456,7 @@
             "website": "https://www.westmansbagel.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Cafe Pettirosso",
@@ -4472,7 +4472,7 @@
             "website": "https://www.pettirossoseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Betsutenjin Ramen",
@@ -4488,7 +4488,7 @@
             "website": "https://www.facebook.com/pages/category/Ramen-Restaurant/Betsutenjin-Ramen-USA-112504659439834",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Spice Waala",
@@ -4504,7 +4504,7 @@
             "website": "https://www.spicewaala.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Terra Plata",
@@ -4520,7 +4520,7 @@
             "website": "https://www.terraplata.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Two Doors Down",
@@ -4536,7 +4536,7 @@
             "website": "https://www.twodoorsseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Tavolata Capitol Hill",
@@ -4552,7 +4552,7 @@
             "website": "https://www.ethanstowellrestaurants.com/locations/tavolata-capitol-hill",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Rione XIII",
@@ -4568,7 +4568,7 @@
             "website": "https://www.ethanstowellrestaurants.com/locations/rione-xiii",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Plum Bistro",
@@ -4584,7 +4584,7 @@
             "website": "https://www.plumbistro.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "La Dive",
@@ -4600,7 +4600,7 @@
             "website": "https://www.facebook.com/ladiveseattle",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Marmite Seattle",
@@ -4616,7 +4616,7 @@
             "website": "https://www.marmiteseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Fog\u00f3n Cocina Mexican",
@@ -4632,7 +4632,7 @@
             "website": "https://www.fogonseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Nue",
@@ -4648,7 +4648,7 @@
             "website": "https://www.nueseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Jimmy's on Broadway",
@@ -4664,7 +4664,7 @@
             "website": "https://www.jimmysonbroadway.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Mezcaleria Oaxaca",
@@ -4680,7 +4680,7 @@
             "website": "https://www.mezcaleriaoaxaca.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Central Pizza",
@@ -4696,7 +4696,7 @@
             "website": "https://www.centralpizzaseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Reckless Noodles",
@@ -4712,7 +4712,7 @@
             "website": "https://www.recklessnoodles.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Loving Hut Seattle Vegan Cuisine",
@@ -4728,7 +4728,7 @@
             "website": "https://www.lovinghut.us/seattle",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Harbor City",
@@ -4744,7 +4744,7 @@
             "website": "https://www.harborcityrestaurant.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Rookies Sports Bar and Grill/The Backyard",
@@ -4760,7 +4760,7 @@
             "website": "https://www.rookiesseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "The Comfort Zone",
@@ -4776,7 +4776,7 @@
             "website": "https://www.ecomfortzonesoulfood.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "City Teriyaki",
@@ -4792,7 +4792,7 @@
             "website": "https://www.cityteriyaki.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Wild Mountain Cafe",
@@ -4808,7 +4808,7 @@
             "website": "https://www.thewildmountaincafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Genghis Khan Chinese Restaurant",
@@ -4824,7 +4824,7 @@
             "website": "https://www.gkseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Metropolitan Grill",
@@ -4840,7 +4840,7 @@
             "website": "https://www.themetropolitangrill.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Rubinstein Bagels",
@@ -4856,7 +4856,7 @@
             "website": "https://www.rubinsteinbagels.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Swift and Savory",
@@ -4872,7 +4872,7 @@
             "website": "https://www.swiftandsavory.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Pecado Bueno",
@@ -4889,7 +4889,7 @@
             "website": "https://www.pecadobueno.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Scott\u2019s Bar & Grill",
@@ -4905,7 +4905,7 @@
             "website": "https://www.scottsbarandgrill.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "El Parasio",
@@ -4921,7 +4921,7 @@
             "website": "https://www.elparaisomexicangrill.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Pac Island Grill",
@@ -4937,7 +4937,7 @@
             "website": "https://www.hawaiianstylebbq.net/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Little Neon Taco",
@@ -4953,7 +4953,7 @@
             "website": "https://www.littleneontogo.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Sugar Bakery",
@@ -4969,7 +4969,7 @@
             "website": "https://www.sugarbakerycafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Vito's",
@@ -4985,7 +4985,7 @@
             "website": "https://www.vitosseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Seoul Bowl",
@@ -5001,7 +5001,7 @@
             "website": "https://www.seoulbowlco.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Le Coin",
@@ -5017,7 +5017,7 @@
             "website": "https://www.lecoinseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Frelard Pizza Co.",
@@ -5033,7 +5033,7 @@
             "website": "https://www.ethanstowellrestaurants.com/order",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Revel",
@@ -5049,7 +5049,7 @@
             "website": "https://www.www.revelseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Nuna Ramen",
@@ -5065,7 +5065,7 @@
             "website": "https://www.nunaramen.us/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "The Dock Sports Bar and Grill",
@@ -5081,7 +5081,7 @@
             "website": "https://www.fremontdock.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Norm's Eatery and Alehouse",
@@ -5097,7 +5097,7 @@
             "website": "https://www.normseatery.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Paseo",
@@ -5114,7 +5114,7 @@
             "website": "https://www.paseorestaurants.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Ha! Restaurant",
@@ -5130,7 +5130,7 @@
             "website": "https://www.hafremont.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Esters Enoteca",
@@ -5146,7 +5146,7 @@
             "website": "https://www.estersenoteca.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "RoRo BBQ",
@@ -5162,7 +5162,7 @@
             "website": "https://www.rorobbqseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "El Legendario",
@@ -5178,7 +5178,7 @@
             "website": "https://www.facebook.com/ElLegendarioWA",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Frelard Tamales",
@@ -5194,7 +5194,7 @@
             "website": "https://www.frelardtamales.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Retreat",
@@ -5210,7 +5210,7 @@
             "website": "https://www.retreat-greenlake.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Valhalla Sandwiches",
@@ -5226,7 +5226,7 @@
             "website": "https://www.valhallasandwiches.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "The Yard Cafe",
@@ -5242,7 +5242,7 @@
             "website": "https://www.theyardcafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Coyle\u2019s Bakeshop",
@@ -5258,7 +5258,7 @@
             "website": "https://www.coylesbakeshop.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "El Chupacabra",
@@ -5274,7 +5274,7 @@
             "website": "https://www.elchupacabraseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Yard Cafe",
@@ -5290,7 +5290,7 @@
             "website": "https://www.theyardcafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Charming Siam",
@@ -5306,7 +5306,7 @@
             "website": "https://www.charmingsiam.net/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Mendoza's Mexican Mercado",
@@ -5322,7 +5322,7 @@
             "website": "https://www.mendozasmexicanmercado.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Gainsbourg",
@@ -5338,7 +5338,7 @@
             "website": "https://www.gainsbourglounge.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Delish Ethiopian Cuisine",
@@ -5354,7 +5354,7 @@
             "website": "https://www.delishethiopianfood.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Corner Bakery Cafe",
@@ -5370,7 +5370,7 @@
             "website": "https://www.cornerbakerycafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Amante Pizza & Pasta",
@@ -5386,7 +5386,7 @@
             "website": "https://www.amantekent.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Acropolis Pizza and Pasta",
@@ -5402,7 +5402,7 @@
             "website": "https://www.acropolispizzapasta.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Le Grand Bistro Americain",
@@ -5418,7 +5418,7 @@
             "website": "https://www.bistrolegrand.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "The Slip",
@@ -5434,7 +5434,7 @@
             "website": "https://www.theslip2.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "The Box & Burgers Eatery",
@@ -5450,7 +5450,7 @@
             "website": "https://www.theboxonwheels.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "BluWater Bistro - Leschi",
@@ -5466,7 +5466,7 @@
             "website": "https://www.bluwaterbistro.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Chili Basil Thai Grill",
@@ -5482,7 +5482,7 @@
             "website": "https://www.chilibasil.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Nicks on Madison",
@@ -5498,7 +5498,7 @@
             "website": "https://www.nicksonmadison.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Nishino",
@@ -5514,7 +5514,7 @@
             "website": "https://www.nishinorestaurant.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Madison Kitchen",
@@ -5530,7 +5530,7 @@
             "website": "https://www.madison-kitchen.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Jae's Asian Bistro and Sushi",
@@ -5546,7 +5546,7 @@
             "website": "https://www.jaesasianbistro-seattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Surrell",
@@ -5562,7 +5562,7 @@
             "website": "https://www.surrellseattle.com/togofoodandwine",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Snappy Dragon",
@@ -5578,7 +5578,7 @@
             "website": "https://www.snappydragon.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Red Cow",
@@ -5594,7 +5594,7 @@
             "website": "https://www.ethanstowellrestaurants.com/locations/red-cow",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Vendemmia",
@@ -5610,7 +5610,7 @@
             "website": "https://www.vendemmiaseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Maggie Bluffs",
@@ -5626,7 +5626,7 @@
             "website": "https://www.maggiebluffs.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Palisade",
@@ -5642,7 +5642,7 @@
             "website": "https://www.palisaderestaurant.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Mondello",
@@ -5658,7 +5658,7 @@
             "website": "https://www.mondelloristorante.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Pink Salt",
@@ -5674,7 +5674,7 @@
             "website": "https://www.pinksaltseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Chiang\u2019s Gourmet",
@@ -5690,7 +5690,7 @@
             "website": "https://www.chiangsgourmetseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "The Shambles",
@@ -5706,7 +5706,7 @@
             "website": "https://www.delimeatsbar.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "The Maple",
@@ -5722,7 +5722,7 @@
             "website": "https://www.themaplepub.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Heyday Bar & Restaurant",
@@ -5738,7 +5738,7 @@
             "website": "https://www.heydayseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "That's Amore Italian Cafe",
@@ -5754,7 +5754,7 @@
             "website": "https://www.thatsamoreseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Twede\u2019s Cafe",
@@ -5770,7 +5770,7 @@
             "website": "https://www.twedescafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Little Si Restaurant & Lounge",
@@ -5786,7 +5786,7 @@
             "website": "https://www.littlesirestaurantandlounge.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Jewel Box Cafe",
@@ -5802,7 +5802,7 @@
             "website": "https://www.facebook.com/JewelBoxCafe",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Thaiku",
@@ -5818,7 +5818,7 @@
             "website": "https://www.thaiku.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Piroshky Piroshky",
@@ -5834,7 +5834,7 @@
             "website": "https://www.piroshkybakery.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "The Custom Plate",
@@ -5850,7 +5850,7 @@
             "website": "https://www.thecustomplate.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Luigis Italian Eatery",
@@ -5866,7 +5866,7 @@
             "website": "https://www.seattleslittleitaly.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Manu's Tacos",
@@ -5882,7 +5882,7 @@
             "website": "https://www.manustacos.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Sugar Bakery & Coffeehouse",
@@ -5898,7 +5898,7 @@
             "website": "https://www.sugarbakerycafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Heartbeet Cafe",
@@ -5914,7 +5914,7 @@
             "website": "https://www.heartbeethealthy.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Eden Hill Provisions",
@@ -5930,7 +5930,7 @@
             "website": "https://www.edenhillprovisions.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "How to Cook a Wolf",
@@ -5946,7 +5946,7 @@
             "website": "https://www.ethanstowellrestaurants.com/locations/how-to-cook-a-wolf",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Elliott Bay Pizza",
@@ -5962,7 +5962,7 @@
             "website": "https://www.elliottbaypizzaseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Betty",
@@ -5978,7 +5978,7 @@
             "website": "https://www.eatatbetty.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Lil Red BBQ",
@@ -5994,7 +5994,7 @@
             "website": "https://www.lilredtakeout.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Pair",
@@ -6010,7 +6010,7 @@
             "website": "https://www.pairseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Frank\u2019s Oyster House & Champagne Parlor",
@@ -6026,7 +6026,7 @@
             "website": "https://www.franksoysterhouse.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Ridge Pizza Northeast",
@@ -6042,7 +6042,7 @@
             "website": "https://www.ridgepizzanortheast.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Pomegranate Bistro",
@@ -6058,7 +6058,7 @@
             "website": "https://www.pomegranatebistro.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Ooba Tooba",
@@ -6074,7 +6074,7 @@
             "website": "https://www.oobatooba.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Blu Sardinia",
@@ -6090,7 +6090,7 @@
             "website": "https://www.blusardinia.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Teriyaki Box",
@@ -6106,7 +6106,7 @@
             "website": "https://www.yelp.com/biz/teriyaki-box-renton",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Sago Kitchen",
@@ -6122,7 +6122,7 @@
             "website": "https://www.sagokitchen.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Marianna Ristorante",
@@ -6138,7 +6138,7 @@
             "website": "https://www.mariannaristorante.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Peyrassol",
@@ -6154,7 +6154,7 @@
             "website": "https://www.peyrassolcafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Sunlight Cafe",
@@ -6170,7 +6170,7 @@
             "website": "https://www.sunlightcafevegetarian.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Poke Fresh",
@@ -6186,7 +6186,7 @@
             "website": "https://www.pokefresh.me/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Tanoor",
@@ -6202,7 +6202,7 @@
             "website": "https://www.tanoor.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "The Grill King Korean BBQ",
@@ -6218,7 +6218,7 @@
             "website": "https://www.shorelinekoreanbbq.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Brownrigg Hard Cider",
@@ -6234,7 +6234,7 @@
             "website": "https://www.brownrigghardcider.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Local Public Eatery",
@@ -6250,7 +6250,7 @@
             "website": "https://www.localterryave.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Voula\u2019s Offshore Cafe",
@@ -6266,7 +6266,7 @@
             "website": "https://www.voulasoffshore.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Northlake Tavern and Pizza",
@@ -6282,7 +6282,7 @@
             "website": "https://www.northlaketavern.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Mee Sum Pastry",
@@ -6298,7 +6298,7 @@
             "website": "https://www.meesum.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Little Thai",
@@ -6314,7 +6314,7 @@
             "website": "https://www.littlethaiseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Fat Ducks Deli and Bakery",
@@ -6330,7 +6330,7 @@
             "website": "https://www.fatducksdeli.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Piatti",
@@ -6346,7 +6346,7 @@
             "website": "https://www.seattle.piatti.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Agua Verde Cafe",
@@ -6362,7 +6362,7 @@
             "website": "https://www.aguaverdecafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Union Saloon",
@@ -6378,7 +6378,7 @@
             "website": "https://www.unionsaloonseattle.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Harvest Beat",
@@ -6394,7 +6394,7 @@
             "website": "https://www.harvestbeat.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Kozue",
@@ -6410,7 +6410,7 @@
             "website": "https://www.kozue-on-45th.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Bizzarro Italian Cafe",
@@ -6426,7 +6426,7 @@
             "website": "https://www.bizzarroitaliancafe.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Blue Star Cafe & Pub",
@@ -6442,7 +6442,7 @@
             "website": "https://www.bluestarcafeandpub.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         },
         {
             "name": "Kate's Pub",
@@ -6458,7 +6458,7 @@
             "website": "https://www.katespub.com/",
             "deliveryApps": [],
             "veganOptions": null,
-            "price": null
+            "price": ""
         }
     ]
 }
