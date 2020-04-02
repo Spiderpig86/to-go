@@ -3834,22 +3834,6 @@
             "price": ""
         },
         {
-            "name": "Ballard Pizza Co.",
-            "types": [],
-            "services": [
-                "Curbside/Takeout"
-            ],
-            "phone": "206-946-9960",
-            "locations": [
-                "5107 Ballard Ave. N.W., Seattle"
-            ],
-            "address": "5107 Ballard Ave. N.W., Seattle",
-            "website": "https://www.ethanstowellrestaurants.com/locations/ballard-pizza-company",
-            "deliveryApps": [],
-            "veganOptions": null,
-            "price": ""
-        },
-        {
             "name": "Mainstay Provisions",
             "types": [],
             "services": [
