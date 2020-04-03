@@ -1,0 +1,12 @@
+{
+    "name": "",
+    "types": "gaConfig.dimensions.www.second_level_categories",
+    "services": "",
+    "phone": "bizDetailsPageProps.bizContactInfoProps.phoneNumber",
+    "location": "bizDetailsPageProps.mapBoxProps.addressProps.formattedNeighborhoods",
+    "address": "bizDetailsPageProps.bizContactInfoProps.businessAddress",
+    "website": "bizDetailsPageProps.bizContactInfoProps.businessWebsite.linkText",
+    "deliveryApps": "",
+    "veganOptions": "",
+    "price": "gaConfig.dimensions.www.price_range"
+}
