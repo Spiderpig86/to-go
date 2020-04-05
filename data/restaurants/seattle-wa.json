@@ -8,7 +8,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 682-1267",
             "locations": [
@@ -32,7 +32,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 667-8760",
             "locations": [
@@ -54,7 +54,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 624-2275",
             "locations": [
@@ -77,7 +77,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(425) 869-2960",
             "locations": [
@@ -96,7 +96,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 860-1556",
             "locations": [
@@ -120,7 +120,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 420-1201",
             "locations": [
@@ -139,7 +139,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 458-2465",
             "locations": [
@@ -159,7 +159,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 402-6634",
             "locations": [
@@ -180,7 +180,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 789-9999",
             "locations": [
@@ -200,7 +200,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 466-1650",
             "locations": [
@@ -219,7 +219,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 922-2362",
             "locations": [
@@ -240,7 +240,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 659-4754",
             "locations": [
@@ -261,7 +261,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 946-9960",
             "locations": [
@@ -281,7 +281,7 @@
                 "Desserts"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 621-7941",
             "locations": [
@@ -301,7 +301,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 588-2769",
             "locations": [
@@ -322,7 +322,7 @@
             ],
             "services": [
                 "Delivery Apps",
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 782-2491",
             "locations": [
@@ -345,7 +345,7 @@
                 "Tea"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 352-2861",
             "locations": [
@@ -363,7 +363,7 @@
                 "Taiwanese (Bubble Tea)"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 623-9028",
             "locations": [
@@ -381,7 +381,7 @@
                 "Taiwanese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 538-0596",
             "locations": [
@@ -399,7 +399,7 @@
                 "Japanese (Sushi, Karaoke)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 682-6830",
@@ -420,7 +420,7 @@
                 "Bakery"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 233-2766",
             "locations": [
@@ -438,7 +438,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "\u202d(206) 723-6095\u202c",
@@ -459,7 +459,7 @@
                 "Korean"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 682-1300",
@@ -481,7 +481,7 @@
                 "Comfort Food"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 556-6498",
@@ -503,7 +503,7 @@
                 "Cajun"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 623-3622",
@@ -527,7 +527,7 @@
                 "Japanese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Gift Card"
             ],
             "phone": "",
@@ -546,7 +546,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 325-1122",
@@ -567,7 +567,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 285-9999",
@@ -590,7 +590,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 340-6122",
@@ -611,7 +611,7 @@
                 "Coffee Shop"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 623-1776",
@@ -632,7 +632,7 @@
                 "Thai"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -650,7 +650,7 @@
                 "Japanese (American Fusion)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 382-0662",
@@ -672,7 +672,7 @@
                 "Hong Kong style cafe"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 485-7477",
@@ -694,7 +694,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 521-8933",
@@ -717,7 +717,7 @@
                 "Bakery tree"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 623-4050",
             "locations": [
@@ -735,7 +735,7 @@
                 "Japanese (Sushi)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 624-1201",
@@ -758,7 +758,7 @@
                 "Hong Kong style cafe"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps",
                 "Gift Card"
             ],
@@ -784,7 +784,7 @@
                 "Pupusas"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 325-5055",
             "locations": [
@@ -804,7 +804,7 @@
                 "Hot Pot"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 264-8899",
             "locations": [
@@ -822,7 +822,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 340-1388",
             "locations": [
@@ -840,7 +840,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 382-9888",
@@ -862,7 +862,7 @@
                 "Chinese (Dim Sum)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 621-2228",
@@ -884,7 +884,7 @@
                 "Taiwanese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 568-1688",
             "locations": [
@@ -902,7 +902,7 @@
                 "Taiwanese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 682-0389",
@@ -925,7 +925,7 @@
                 "Thai dessert"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 624-0183",
@@ -947,7 +947,7 @@
                 "Chinese (Cantonese)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 382-9671",
@@ -968,7 +968,7 @@
                 "Chinese (Dim Sum)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 292-8828",
@@ -990,7 +990,7 @@
                 "Chinese (Dim Sum & more)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 682-1922",
@@ -1013,7 +1013,7 @@
                 "Filipino (Bakery)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Gift Card"
             ],
             "phone": "(206) 485-7049",
@@ -1033,7 +1033,7 @@
                 "Chinese (Dim Sum)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 622-7997",
@@ -1054,7 +1054,7 @@
                 "Vietnamese-Chinese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 568-1268",
             "locations": [
@@ -1072,7 +1072,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 860-3038",
             "locations": [
@@ -1090,7 +1090,7 @@
                 "Japanese (Teppan)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 623-2541",
@@ -1112,7 +1112,7 @@
                 "Japanese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 287-9000",
             "locations": [
@@ -1130,7 +1130,7 @@
                 "Chinese (Dim Sum)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 622-8181",
@@ -1151,7 +1151,7 @@
                 "Chinese (Dim Sum)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 623-1318",
@@ -1172,7 +1172,7 @@
                 "Japanese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 682-1828",
@@ -1196,7 +1196,7 @@
                 "Cantonese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 682-4006",
@@ -1217,7 +1217,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 748-9168",
             "locations": [
@@ -1235,7 +1235,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 622-2828",
             "locations": [
@@ -1254,7 +1254,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 623-3866",
             "locations": [
@@ -1272,7 +1272,7 @@
                 "Mongolian"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 623-6700",
@@ -1293,7 +1293,7 @@
                 "Various"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 299-2219",
             "locations": [
@@ -1311,7 +1311,7 @@
                 "Japanese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Gift Card"
             ],
             "phone": "(503) 662-2814",
@@ -1330,7 +1330,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 322-6840",
             "locations": [
@@ -1348,7 +1348,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 389-7099",
             "locations": [
@@ -1366,7 +1366,7 @@
                 "Japanese (Ramen)"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 501-4499",
             "locations": [
@@ -1385,7 +1385,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 622-8801",
@@ -1411,7 +1411,7 @@
                 "Bubble Tea"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps",
                 "Gift Card"
             ],
@@ -1435,7 +1435,7 @@
                 "Chinese (Dim Sum)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 623-1670",
@@ -1456,7 +1456,7 @@
                 "Korean"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 876-9282  ",
             "locations": [
@@ -1475,7 +1475,7 @@
                 "Cambodian"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Gift Card"
             ],
             "phone": "(206) 427-0113",
@@ -1495,7 +1495,7 @@
                 "Vietnamese (Pho)"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 621-0532",
             "locations": [
@@ -1513,7 +1513,7 @@
                 "Vietnamese (Pho)"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 323-4387",
             "locations": [
@@ -1531,7 +1531,7 @@
                 "Vietnamese (Pho)"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 568-0882",
             "locations": [
@@ -1549,7 +1549,7 @@
                 "Vietnamese (Pho)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 624-7189",
@@ -1570,7 +1570,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 860-2824",
             "locations": [
@@ -1588,7 +1588,7 @@
                 "Chinese (Dim Sum)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 622-0288",
@@ -1610,7 +1610,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 322-3700",
             "locations": [
@@ -1628,7 +1628,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 328-2357",
             "locations": [
@@ -1646,7 +1646,7 @@
                 "Poke"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 485-7388",
@@ -1667,7 +1667,7 @@
                 "Korean"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 682-2152",
@@ -1688,7 +1688,7 @@
                 "Chinese (Sichuan)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 568-6446",
@@ -1709,7 +1709,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 625-1688",
             "locations": [
@@ -1727,7 +1727,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 399-8242",
             "locations": [
@@ -1745,7 +1745,7 @@
                 "Chinese (Hunan)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 624-0314",
@@ -1767,7 +1767,7 @@
                 "Lao / Thai"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 323-1782",
@@ -1789,7 +1789,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 622-9288",
             "locations": [
@@ -1807,7 +1807,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 623-3927",
             "locations": [
@@ -1825,7 +1825,7 @@
                 "Chinese (Sichuan)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 623-4198",
@@ -1846,7 +1846,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Gift Card"
             ],
             "phone": "(206) 622-7372",
@@ -1865,7 +1865,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 860-1404",
@@ -1886,7 +1886,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 726-9990",
             "locations": [
@@ -1904,7 +1904,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 322-2081",
@@ -1925,7 +1925,7 @@
                 "Japanese (Sushi)"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 453-3881",
@@ -1947,7 +1947,7 @@
                 "Thai"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 749-5451",
@@ -1969,7 +1969,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 320-1316",
@@ -1990,7 +1990,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 323-1498",
             "locations": [
@@ -2008,7 +2008,7 @@
                 "Chinese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 622-3388",
@@ -2030,7 +2030,7 @@
                 "Japanese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 467-4004",
@@ -2052,7 +2052,7 @@
                 "Vietnamese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 325-0180",
             "locations": [
@@ -2070,7 +2070,7 @@
                 "Italian"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 682-4161",
             "locations": [
@@ -2088,7 +2088,7 @@
                 "Taiwanese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 682-6688",
@@ -2114,7 +2114,7 @@
                 "Taiwanese"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(425)-443-2822",
@@ -2135,7 +2135,7 @@
                 "Hong Kong"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 340-8838",
@@ -2160,7 +2160,7 @@
                 "Spirits"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Gift Card"
             ],
             "phone": "(206) 789-5477",
@@ -2183,7 +2183,7 @@
                 "Bakery"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 397-4352",
@@ -2202,7 +2202,7 @@
             "name": "Joy Palace",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 723-4066",
             "locations": [
@@ -2218,7 +2218,7 @@
             "name": "Cafe Avole",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -2234,7 +2234,7 @@
             "name": "Drae's Lake Route",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -2250,7 +2250,7 @@
             "name": "Emerald City Fish & Chips",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-760-3474",
             "locations": [
@@ -2267,7 +2267,7 @@
             "name": "Eat Time",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-241-2679",
             "locations": [
@@ -2283,7 +2283,7 @@
             "name": "King Wha",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "206-243-0323",
@@ -2304,7 +2304,7 @@
             "name": "Bua 9 Thai Cuisine",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "206-323-9445",
@@ -2323,7 +2323,7 @@
             "name": "Island Soul",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "",
@@ -2342,7 +2342,7 @@
             "name": "La Teranga",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "",
@@ -2362,7 +2362,7 @@
             "name": "Sam Choys",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "206-310-1979",
@@ -2383,7 +2383,7 @@
                 "Burgers"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 760-0291",
             "locations": [
@@ -2402,7 +2402,7 @@
             "name": "Max's Restaurant",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -2418,7 +2418,7 @@
             "name": "Toshio's Teriyaki",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -2434,7 +2434,7 @@
             "name": "Meskel",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "",
@@ -2454,7 +2454,7 @@
             "name": "Mawadda Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "206-760- 0911",
@@ -2473,7 +2473,7 @@
             "name": "Thien Phat",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "206 725-7973",
@@ -2492,7 +2492,7 @@
             "name": "Vieng Thong",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "206 725-3884",
@@ -2511,7 +2511,7 @@
             "name": "Huong Duong",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "",
@@ -2531,7 +2531,7 @@
             "name": "Comfort Zone",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "",
@@ -2550,7 +2550,7 @@
             "name": "Emma's BBQ",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -2570,7 +2570,7 @@
                 "Comfort Food"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 339-0126",
             "locations": [
@@ -2589,7 +2589,7 @@
             "name": "Wicked Chopstix",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 721-4156",
@@ -2609,7 +2609,7 @@
             "name": "Musang",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -2625,7 +2625,7 @@
             "name": "Carnitas Michoacan",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -2641,7 +2641,7 @@
             "name": "kaffa coffee",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "2064533558",
@@ -2663,7 +2663,7 @@
             "name": "Amy's Merkato",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 324-2527",
             "locations": [
@@ -2679,7 +2679,7 @@
             "name": "Canton Noodle House",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 329-5650",
             "locations": [
@@ -2695,7 +2695,7 @@
             "name": "Renton Deli",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(425) 226-7572",
@@ -2714,7 +2714,7 @@
             "name": "Bistro Box",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 922-3538",
@@ -2734,7 +2734,7 @@
             "name": "Mizuki Buffet",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 575-6988",
@@ -2759,7 +2759,7 @@
                 "Tea"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-453-4892",
             "locations": [
@@ -2778,7 +2778,7 @@
                 "Noodles"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 323-5570",
@@ -2797,7 +2797,7 @@
             "name": "Yummy Kitchen",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(425) 251-8855",
             "locations": [
@@ -2815,7 +2815,7 @@
                 "Indian"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 325-5332",
@@ -2835,7 +2835,7 @@
             "name": "Cafe Weekend",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "",
@@ -2852,7 +2852,7 @@
             "name": "Akasaka",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(253) 946-3858",
@@ -2876,7 +2876,7 @@
                 "Burgers"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "",
@@ -2896,7 +2896,7 @@
             "name": "Taco Street",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 659-0583",
@@ -2913,7 +2913,7 @@
             "name": "Aloha Ramen",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 838-3837",
@@ -2932,7 +2932,7 @@
             "name": "Annapurna Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 320-7770",
@@ -2951,7 +2951,7 @@
             "name": "Arepa Venezuelan Kitchen",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 556-4879",
@@ -2970,7 +2970,7 @@
             "name": "Bai Tong Thai Street Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 787-8448",
             "locations": [
@@ -2986,7 +2986,7 @@
             "name": "Bamboo Village",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 632-8888",
@@ -3005,7 +3005,7 @@
             "name": "Banh Town",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -3021,7 +3021,7 @@
             "name": "Bonchon",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 420-8225",
             "locations": [
@@ -3037,7 +3037,7 @@
             "name": "Cedars in Capitol Hill",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 325-3988",
@@ -3061,7 +3061,7 @@
             "name": "Chef Liao",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206)789-6441",
             "locations": [
@@ -3077,7 +3077,7 @@
             "name": "Covington Teriyaki",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "253-639-6300",
             "locations": [
@@ -3093,7 +3093,7 @@
             "name": "Daawat Indian Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 467-7272",
@@ -3116,7 +3116,7 @@
             "name": "Frying FIsh",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(425) 643-1234",
@@ -3135,7 +3135,7 @@
             "name": "Fu Shen",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 624-3888",
             "locations": [
@@ -3151,7 +3151,7 @@
             "name": "HK Dim Sum",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -3167,7 +3167,7 @@
             "name": "Hood Famous Bakeshop",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 979-2253",
             "locations": [
@@ -3183,7 +3183,7 @@
             "name": "Ichi Roll Wok & Teriyaki",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 363-5100",
@@ -3202,7 +3202,7 @@
             "name": "Ichiro Sushi & Teriyaki",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 286-8755",
@@ -3221,7 +3221,7 @@
             "name": "iSandwich",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 529-3221",
             "locations": [
@@ -3237,7 +3237,7 @@
             "name": "Judy Fu's Snappy Dragon",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 528-5575",
             "locations": [
@@ -3253,7 +3253,7 @@
             "name": "Julie's Garden",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 223-3690",
@@ -3272,7 +3272,7 @@
             "name": "Karaage Setsuna",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "206-448-3595",
@@ -3292,7 +3292,7 @@
             "name": "Kastoori Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 441-5456",
@@ -3311,7 +3311,7 @@
             "name": "Kedai Makan",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -3327,7 +3327,7 @@
             "name": "Kiki's Bakery",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 617-7688",
             "locations": [
@@ -3343,7 +3343,7 @@
             "name": "La Cocina Oaxaquena",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 623-8226",
             "locations": [
@@ -3359,7 +3359,7 @@
             "name": "Lionhead",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 922-3326",
@@ -3380,7 +3380,7 @@
             "name": "Little Duck",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 695-2564",
@@ -3399,7 +3399,7 @@
             "name": "Lola's Lumpia Cuisine",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "2066174833",
             "locations": [
@@ -3415,7 +3415,7 @@
             "name": "Luna Azul",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 706-5392",
@@ -3435,7 +3435,7 @@
             "name": "Mamnoon",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 906-9606",
@@ -3454,7 +3454,7 @@
             "name": "Maneki",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(503) 662-2814",
             "locations": [
@@ -3470,7 +3470,7 @@
             "name": "Me + Crepe",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "425-454-2479",
@@ -3492,7 +3492,7 @@
             "name": "Moonlight Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-322-3378",
             "locations": [
@@ -3508,7 +3508,7 @@
             "name": "Mount and Bao",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 687-7997",
             "locations": [
@@ -3525,7 +3525,7 @@
             "name": "Mura Asian Eatery",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 390-7148",
@@ -3544,7 +3544,7 @@
             "name": "Nijo Susi & Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "206-340-8880",
@@ -3563,7 +3563,7 @@
             "name": "Ooink",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206)568-7669",
             "locations": [
@@ -3579,7 +3579,7 @@
             "name": "Pho An",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 362-3439",
@@ -3598,7 +3598,7 @@
             "name": "Pho Ha",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206)-368-3887",
@@ -3619,7 +3619,7 @@
             "name": "Queen Sheba Ethiopian Restaurant, East John Street, Seattle, WA",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 322-0852",
@@ -3638,7 +3638,7 @@
             "name": "Rocking Wok",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 545-4878",
@@ -3657,7 +3657,7 @@
             "name": "Shiro's",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "",
             "locations": [
@@ -3673,7 +3673,7 @@
             "name": "Son of a Butcher",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "",
@@ -3692,7 +3692,7 @@
             "name": "Stone Korean",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206)-717-2864",
@@ -3712,7 +3712,7 @@
             "name": "Sweet Alchemy",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206)313-0615",
             "locations": [
@@ -3728,7 +3728,7 @@
             "name": "Tacos Chukis",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206) 905-8537",
@@ -3750,7 +3750,7 @@
             "name": "TAM Noodle Box",
             "types": [],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "(206)-257-5729",
@@ -3771,7 +3771,7 @@
             "name": "Taurus Ox",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 972-0075",
             "locations": [
@@ -3791,7 +3791,7 @@
                 "Japanese"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "(206) 525-9999",
             "locations": [
@@ -3809,7 +3809,7 @@
                 "Thai"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "206-441-4348",
@@ -3834,7 +3834,7 @@
                 "Desserts"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps"
             ],
             "phone": "2065564853",
@@ -3857,7 +3857,7 @@
                 "Small Plates"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Gift Card"
             ],
             "phone": "206-708-7164",
@@ -3878,7 +3878,7 @@
                 "Caterers"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Business Owned Delivery"
             ],
             "phone": "206-932-9497",
@@ -3901,7 +3901,7 @@
                 "TexMex"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Delivery Apps",
                 "Gift Card"
             ],
@@ -3926,7 +3926,7 @@
                 "Sandwiches"
             ],
             "services": [
-                "Curbside/Takeout",
+                "Takeout / Curbside",
                 "Business Owned Delivery"
             ],
             "phone": "(206) 328-7837",
@@ -3945,7 +3945,7 @@
             "name": "Mio Posto",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "888-799-6601",
             "locations": [
@@ -3964,7 +3964,7 @@
             "name": "Locust Cider & Brewing",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "888-799-6601",
             "locations": [
@@ -3991,7 +3991,7 @@
                 "Bars"
             ],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-201-3462",
             "locations": [
@@ -4007,7 +4007,7 @@
             "name": "Arashi Ramen",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-492-7933",
             "locations": [
@@ -4023,7 +4023,7 @@
             "name": "Joli",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-420-7259",
             "locations": [
@@ -4039,7 +4039,7 @@
             "name": "Monkey Bridge",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-297-6048",
             "locations": [
@@ -4055,7 +4055,7 @@
             "name": "Un Bien",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-588-2040",
             "locations": [
@@ -4071,7 +4071,7 @@
             "name": "Delancey",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-838-1960",
             "locations": [
@@ -4087,7 +4087,7 @@
             "name": "Mainstay Provisions",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-659-0170",
             "locations": [
@@ -4103,7 +4103,7 @@
             "name": "Porkchop & Co.",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-257-5761",
             "locations": [
@@ -4119,7 +4119,7 @@
             "name": "Little Chinook\u2019s",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-283-4665",
             "locations": [
@@ -4135,7 +4135,7 @@
             "name": "Gracia",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-268-0217",
             "locations": [
@@ -4151,7 +4151,7 @@
             "name": "Copine",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-258-2467",
             "locations": [
@@ -4167,7 +4167,7 @@
             "name": "Rosellini\u2019s Bakery",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-706-4035",
             "locations": [
@@ -4183,7 +4183,7 @@
             "name": "Trailbend Taproom",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-397-4374",
             "locations": [
@@ -4199,7 +4199,7 @@
             "name": "Giddy Up Burgers",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-782-2798",
             "locations": [
@@ -4215,7 +4215,7 @@
             "name": "Senor Moose",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-784-5568",
             "locations": [
@@ -4231,7 +4231,7 @@
             "name": "Vera's Pizza and Bar",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-784-1528",
             "locations": [
@@ -4247,7 +4247,7 @@
             "name": "Schmaltzy's Delicatessen",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-784-1413",
             "locations": [
@@ -4263,7 +4263,7 @@
             "name": "Breezy Town Pizza",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "312-884-9527",
             "locations": [
@@ -4279,7 +4279,7 @@
             "name": "Tippe and Drague Alehouse",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-538-0094",
             "locations": [
@@ -4295,7 +4295,7 @@
             "name": "Bis on Main",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-455-2033",
             "locations": [
@@ -4311,7 +4311,7 @@
             "name": "Central Bar + Restaurant",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-578-7878",
             "locations": [
@@ -4327,7 +4327,7 @@
             "name": "520 Bar & Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-450-0520",
             "locations": [
@@ -4343,7 +4343,7 @@
             "name": "Yoroshiku",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-449-8111",
             "locations": [
@@ -4360,7 +4360,7 @@
             "name": "3-Pigs Bar B-Q",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-453-0888",
             "locations": [
@@ -4376,7 +4376,7 @@
             "name": "Thaal",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-590-9281",
             "locations": [
@@ -4392,7 +4392,7 @@
             "name": "Curry Point",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-939-5300",
             "locations": [
@@ -4408,7 +4408,7 @@
             "name": "Boat Street Kitchen and Bistro",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-632-4602",
             "locations": [
@@ -4424,7 +4424,7 @@
             "name": "Some Random Bar",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-728-6621",
             "locations": [
@@ -4440,7 +4440,7 @@
             "name": "Petra Mediterranean Bistro",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-728-5389",
             "locations": [
@@ -4456,7 +4456,7 @@
             "name": "Bento World",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-441-4474",
             "locations": [
@@ -4472,7 +4472,7 @@
             "name": "Jerk Shack",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-441-7817",
             "locations": [
@@ -4488,7 +4488,7 @@
             "name": "Shiro's Sushi",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-443-9844",
             "locations": [
@@ -4504,7 +4504,7 @@
             "name": "Geo's Cuban Bar & Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-457-5278",
             "locations": [
@@ -4520,7 +4520,7 @@
             "name": "Seattle Sunshine Coffee",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-420-8461",
             "locations": [
@@ -4536,7 +4536,7 @@
             "name": "Bryant Corner Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-525-1034",
             "locations": [
@@ -4552,7 +4552,7 @@
             "name": "Krungthep Thai Cuisine",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-829-9426",
             "locations": [
@@ -4568,7 +4568,7 @@
             "name": "Pizza Gallery",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-244-5025",
             "locations": [
@@ -4584,7 +4584,7 @@
             "name": "Rom Mai Thai",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-726-9058",
             "locations": [
@@ -4600,7 +4600,7 @@
             "name": "Artusi",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-251-7673",
             "locations": [
@@ -4616,7 +4616,7 @@
             "name": "Meet Korean BBQ",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-695-2621",
             "locations": [
@@ -4632,7 +4632,7 @@
             "name": "Lark",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-323-5275",
             "locations": [
@@ -4648,7 +4648,7 @@
             "name": "Rocket Taco",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-457-5355",
             "locations": [
@@ -4664,7 +4664,7 @@
             "name": "Spinasse",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-251-7673",
             "locations": [
@@ -4680,7 +4680,7 @@
             "name": "Westmans Bagel",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-906-9606",
             "locations": [
@@ -4696,7 +4696,7 @@
             "name": "Cafe Pettirosso",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-324-2233",
             "locations": [
@@ -4712,7 +4712,7 @@
             "name": "Betsutenjin Ramen",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-324-0843",
             "locations": [
@@ -4728,7 +4728,7 @@
             "name": "Spice Waala",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-466-5195",
             "locations": [
@@ -4744,7 +4744,7 @@
             "name": "Terra Plata",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-325-1501",
             "locations": [
@@ -4760,7 +4760,7 @@
             "name": "Two Doors Down",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-324-2337",
             "locations": [
@@ -4776,7 +4776,7 @@
             "name": "Tavolata Capitol Hill",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-420-8355",
             "locations": [
@@ -4792,7 +4792,7 @@
             "name": "Rione XIII",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-838-2878",
             "locations": [
@@ -4808,7 +4808,7 @@
             "name": "Plum Bistro",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-838-5333",
             "locations": [
@@ -4824,7 +4824,7 @@
             "name": "La Dive",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-556-4853",
             "locations": [
@@ -4840,7 +4840,7 @@
             "name": "Marmite Seattle",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-755-8606",
             "locations": [
@@ -4856,7 +4856,7 @@
             "name": "Fog\u00f3n Cocina Mexican",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-320-7777",
             "locations": [
@@ -4872,7 +4872,7 @@
             "name": "Nue",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-257-0312",
             "locations": [
@@ -4888,7 +4888,7 @@
             "name": "Jimmy's on Broadway",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-204-1188",
             "locations": [
@@ -4904,7 +4904,7 @@
             "name": "Mezcaleria Oaxaca",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-324-0506",
             "locations": [
@@ -4920,7 +4920,7 @@
             "name": "Central Pizza",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-602-6333",
             "locations": [
@@ -4936,7 +4936,7 @@
             "name": "Reckless Noodles",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-329-5499",
             "locations": [
@@ -4952,7 +4952,7 @@
             "name": "Loving Hut Seattle Vegan Cuisine",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-299-2219",
             "locations": [
@@ -4968,7 +4968,7 @@
             "name": "Harbor City",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-621-2228",
             "locations": [
@@ -4984,7 +4984,7 @@
             "name": "Rookies Sports Bar and Grill/The Backyard",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-722-0301",
             "locations": [
@@ -5000,7 +5000,7 @@
             "name": "The Comfort Zone",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-246-2800",
             "locations": [
@@ -5016,7 +5016,7 @@
             "name": "City Teriyaki",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-723-5489",
             "locations": [
@@ -5032,7 +5032,7 @@
             "name": "Wild Mountain Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-297-9453",
             "locations": [
@@ -5048,7 +5048,7 @@
             "name": "Genghis Khan Chinese Restaurant",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-682-3606",
             "locations": [
@@ -5064,7 +5064,7 @@
             "name": "Metropolitan Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-624-3287",
             "locations": [
@@ -5080,7 +5080,7 @@
             "name": "Rubinstein Bagels",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-550-1666",
             "locations": [
@@ -5096,7 +5096,7 @@
             "name": "Swift and Savory",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-877-9418",
             "locations": [
@@ -5112,7 +5112,7 @@
             "name": "Pecado Bueno",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-687-7423",
             "locations": [
@@ -5129,7 +5129,7 @@
             "name": "Scott\u2019s Bar & Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-775-2561",
             "locations": [
@@ -5145,7 +5145,7 @@
             "name": "El Parasio",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-252-6026",
             "locations": [
@@ -5161,7 +5161,7 @@
             "name": "Pac Island Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "253-529-8667",
             "locations": [
@@ -5177,7 +5177,7 @@
             "name": "Little Neon Taco",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-682-2026",
             "locations": [
@@ -5193,7 +5193,7 @@
             "name": "Sugar Bakery",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-749-4105",
             "locations": [
@@ -5209,7 +5209,7 @@
             "name": "Vito's",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-397-4053",
             "locations": [
@@ -5225,7 +5225,7 @@
             "name": "Seoul Bowl",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "253-298-2301",
             "locations": [
@@ -5241,7 +5241,7 @@
             "name": "Le Coin",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-708-7207",
             "locations": [
@@ -5257,7 +5257,7 @@
             "name": "Frelard Pizza Co.",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-946-9966",
             "locations": [
@@ -5273,7 +5273,7 @@
             "name": "Revel",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-547-2040",
             "locations": [
@@ -5289,7 +5289,7 @@
             "name": "Nuna Ramen",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-258-3612",
             "locations": [
@@ -5305,7 +5305,7 @@
             "name": "The Dock Sports Bar and Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-829-8372",
             "locations": [
@@ -5321,7 +5321,7 @@
             "name": "Norm's Eatery and Alehouse",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-547-1417",
             "locations": [
@@ -5337,7 +5337,7 @@
             "name": "Paseo",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-545-7440",
             "locations": [
@@ -5354,7 +5354,7 @@
             "name": "Ha! Restaurant",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-588-1169",
             "locations": [
@@ -5370,7 +5370,7 @@
             "name": "Esters Enoteca",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-295-1903",
             "locations": [
@@ -5386,7 +5386,7 @@
             "name": "RoRo BBQ",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-954-1100",
             "locations": [
@@ -5402,7 +5402,7 @@
             "name": "El Legendario",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-539-9731",
             "locations": [
@@ -5418,7 +5418,7 @@
             "name": "Frelard Tamales",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-523-6654",
             "locations": [
@@ -5434,7 +5434,7 @@
             "name": "Retreat",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-694-3045",
             "locations": [
@@ -5450,7 +5450,7 @@
             "name": "Valhalla Sandwiches",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-257-0658",
             "locations": [
@@ -5466,7 +5466,7 @@
             "name": "The Yard Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-588-1746",
             "locations": [
@@ -5482,7 +5482,7 @@
             "name": "Coyle\u2019s Bakeshop",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-257-4736",
             "locations": [
@@ -5498,7 +5498,7 @@
             "name": "El Chupacabra",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-706-4889",
             "locations": [
@@ -5514,7 +5514,7 @@
             "name": "Yard Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-588-1746",
             "locations": [
@@ -5530,7 +5530,7 @@
             "name": "Charming Siam",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "207-706-4569",
             "locations": [
@@ -5546,7 +5546,7 @@
             "name": "Mendoza's Mexican Mercado",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-245-1089",
             "locations": [
@@ -5562,7 +5562,7 @@
             "name": "Gainsbourg",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-783-4004",
             "locations": [
@@ -5578,7 +5578,7 @@
             "name": "Delish Ethiopian Cuisine",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-723-3821",
             "locations": [
@@ -5594,7 +5594,7 @@
             "name": "Corner Bakery Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-673-2955",
             "locations": [
@@ -5610,7 +5610,7 @@
             "name": "Amante Pizza & Pasta",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "253-395-2777",
             "locations": [
@@ -5626,7 +5626,7 @@
             "name": "Acropolis Pizza and Pasta",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-828-2727",
             "locations": [
@@ -5642,7 +5642,7 @@
             "name": "Le Grand Bistro Americain",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-828-7778",
             "locations": [
@@ -5658,7 +5658,7 @@
             "name": "The Slip",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-739-0033",
             "locations": [
@@ -5674,7 +5674,7 @@
             "name": "The Box & Burgers Eatery",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-821-0777",
             "locations": [
@@ -5690,7 +5690,7 @@
             "name": "BluWater Bistro - Leschi",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-328-2233",
             "locations": [
@@ -5706,7 +5706,7 @@
             "name": "Chili Basil Thai Grill",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-672-1155",
             "locations": [
@@ -5722,7 +5722,7 @@
             "name": "Nicks on Madison",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-900-7960",
             "locations": [
@@ -5738,7 +5738,7 @@
             "name": "Nishino",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-322-5800",
             "locations": [
@@ -5754,7 +5754,7 @@
             "name": "Madison Kitchen",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-557-4640",
             "locations": [
@@ -5770,7 +5770,7 @@
             "name": "Jae's Asian Bistro and Sushi",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-323-0171",
             "locations": [
@@ -5786,7 +5786,7 @@
             "name": "Surrell",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-402-5698",
             "locations": [
@@ -5802,7 +5802,7 @@
             "name": "Snappy Dragon",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-528-5575",
             "locations": [
@@ -5818,7 +5818,7 @@
             "name": "Red Cow",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-454-7932",
             "locations": [
@@ -5834,7 +5834,7 @@
             "name": "Vendemmia",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-466-2533",
             "locations": [
@@ -5850,7 +5850,7 @@
             "name": "Maggie Bluffs",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-283-8322",
             "locations": [
@@ -5866,7 +5866,7 @@
             "name": "Palisade",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-285-1000",
             "locations": [
@@ -5882,7 +5882,7 @@
             "name": "Mondello",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-352-8700",
             "locations": [
@@ -5898,7 +5898,7 @@
             "name": "Pink Salt",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-284-7305",
             "locations": [
@@ -5914,7 +5914,7 @@
             "name": "Chiang\u2019s Gourmet",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-527-8888",
             "locations": [
@@ -5930,7 +5930,7 @@
             "name": "The Shambles",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-659-0074",
             "locations": [
@@ -5946,7 +5946,7 @@
             "name": "The Maple",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-402-613\"",
             "locations": [
@@ -5962,7 +5962,7 @@
             "name": "Heyday Bar & Restaurant",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-829-9816",
             "locations": [
@@ -5978,7 +5978,7 @@
             "name": "That's Amore Italian Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-322-3677",
             "locations": [
@@ -5994,7 +5994,7 @@
             "name": "Twede\u2019s Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-831-5511",
             "locations": [
@@ -6010,7 +6010,7 @@
             "name": "Little Si Restaurant & Lounge",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-888-5501",
             "locations": [
@@ -6026,7 +6026,7 @@
             "name": "Jewel Box Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-432-9341",
             "locations": [
@@ -6042,7 +6042,7 @@
             "name": "Thaiku",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-706-7807",
             "locations": [
@@ -6058,7 +6058,7 @@
             "name": "Piroshky Piroshky",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-764-1000",
             "locations": [
@@ -6074,7 +6074,7 @@
             "name": "The Custom Plate",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-478-4399",
             "locations": [
@@ -6090,7 +6090,7 @@
             "name": "Luigis Italian Eatery",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-622-7688",
             "locations": [
@@ -6106,7 +6106,7 @@
             "name": "Manu's Tacos",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-914-5992",
             "locations": [
@@ -6122,7 +6122,7 @@
             "name": "Sugar Bakery & Coffeehouse",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-749-4105",
             "locations": [
@@ -6138,7 +6138,7 @@
             "name": "Heartbeet Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-525-0300",
             "locations": [
@@ -6154,7 +6154,7 @@
             "name": "Eden Hill Provisions",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-946-6636",
             "locations": [
@@ -6170,7 +6170,7 @@
             "name": "How to Cook a Wolf",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-838-8090",
             "locations": [
@@ -6186,7 +6186,7 @@
             "name": "Elliott Bay Pizza",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-285-0500",
             "locations": [
@@ -6202,7 +6202,7 @@
             "name": "Betty",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-352-3773",
             "locations": [
@@ -6218,7 +6218,7 @@
             "name": "Lil Red BBQ",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-760-2931",
             "locations": [
@@ -6234,7 +6234,7 @@
             "name": "Pair",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-525-0220",
             "locations": [
@@ -6250,7 +6250,7 @@
             "name": "Frank\u2019s Oyster House & Champagne Parlor",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-525-0220",
             "locations": [
@@ -6266,7 +6266,7 @@
             "name": "Ridge Pizza Northeast",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-535-6167",
             "locations": [
@@ -6282,7 +6282,7 @@
             "name": "Pomegranate Bistro",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-556-5972",
             "locations": [
@@ -6298,7 +6298,7 @@
             "name": "Ooba Tooba",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-702-1694",
             "locations": [
@@ -6314,7 +6314,7 @@
             "name": "Blu Sardinia",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-242-0024",
             "locations": [
@@ -6330,7 +6330,7 @@
             "name": "Teriyaki Box",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-255-3888",
             "locations": [
@@ -6346,7 +6346,7 @@
             "name": "Sago Kitchen",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-277-6909",
             "locations": [
@@ -6362,7 +6362,7 @@
             "name": "Marianna Ristorante",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-271-7042",
             "locations": [
@@ -6378,7 +6378,7 @@
             "name": "Peyrassol",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-282-5472",
             "locations": [
@@ -6394,7 +6394,7 @@
             "name": "Sunlight Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-522-9060",
             "locations": [
@@ -6410,7 +6410,7 @@
             "name": "Poke Fresh",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-453-4349",
             "locations": [
@@ -6426,7 +6426,7 @@
             "name": "Tanoor",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "425-961-0831",
             "locations": [
@@ -6442,7 +6442,7 @@
             "name": "The Grill King Korean BBQ",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-465-1627",
             "locations": [
@@ -6458,7 +6458,7 @@
             "name": "Brownrigg Hard Cider",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-790-3847",
             "locations": [
@@ -6474,7 +6474,7 @@
             "name": "Local Public Eatery",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-257-1888",
             "locations": [
@@ -6490,7 +6490,7 @@
             "name": "Voula\u2019s Offshore Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-634-0183",
             "locations": [
@@ -6506,7 +6506,7 @@
             "name": "Northlake Tavern and Pizza",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-633-5317",
             "locations": [
@@ -6522,7 +6522,7 @@
             "name": "Mee Sum Pastry",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-632-7298",
             "locations": [
@@ -6538,7 +6538,7 @@
             "name": "Little Thai",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-548-8009",
             "locations": [
@@ -6554,7 +6554,7 @@
             "name": "Fat Ducks Deli and Bakery",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-257-4798",
             "locations": [
@@ -6570,7 +6570,7 @@
             "name": "Piatti",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-524-9088",
             "locations": [
@@ -6586,7 +6586,7 @@
             "name": "Agua Verde Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-545-8570",
             "locations": [
@@ -6602,7 +6602,7 @@
             "name": "Union Saloon",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-547-2280",
             "locations": [
@@ -6618,7 +6618,7 @@
             "name": "Harvest Beat",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-547-1348",
             "locations": [
@@ -6634,7 +6634,7 @@
             "name": "Kozue",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-547-2008",
             "locations": [
@@ -6650,7 +6650,7 @@
             "name": "Bizzarro Italian Cafe",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-632-7277",
             "locations": [
@@ -6666,7 +6666,7 @@
             "name": "Blue Star Cafe & Pub",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-548-0345",
             "locations": [
@@ -6682,7 +6682,7 @@
             "name": "Kate's Pub",
             "types": [],
             "services": [
-                "Curbside/Takeout"
+                "Takeout / Curbside"
             ],
             "phone": "206-547-6832",
             "locations": [
