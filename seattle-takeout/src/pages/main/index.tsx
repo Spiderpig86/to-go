@@ -42,7 +42,9 @@ export const Main: React.FC<MainProps> = (props) => {
                         <div className="col-4">
                             <Link to={'/list/' + city.id}>
                                 <figure
+                                    className="figure"
                                     css={{
+                                        borderRadius: '.25rem',
                                         position: 'relative',
                                         overflow: 'hidden',
                                     }}
@@ -50,7 +52,7 @@ export const Main: React.FC<MainProps> = (props) => {
                                     <div
                                         className="img-wrapper u-flex"
                                         css={{
-                                            ':hover:after': {
+                                            ':after': {
                                                 backgroundColor: 'rgba(0, 0, 0, .05)',
                                                 bottom: 0,
                                                 content: ' ',
@@ -63,7 +65,7 @@ export const Main: React.FC<MainProps> = (props) => {
                                             },
                                         }}
                                     >
-                                        <img src={city.image_url} />
+                                        <img className="figure__image" src={city.image_url} />
                                     </div>
                                     <figcaption
                                         className="figcaption h-100 w-100 u-center-alt"

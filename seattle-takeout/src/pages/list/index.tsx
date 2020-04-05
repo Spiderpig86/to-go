@@ -24,11 +24,12 @@ interface ListProps {
 export const List: React.FC<ListProps> = (props) => {
     const [restaurantData, setRestaurantData] = useState([]);
     const [filterInput, setFilterInput] = useState('');
+    const cityName = props.cityId.split('-')[0];
 
     useEffect(() => {
         (async () => {
             const response = await Axios.get(
-                `https://raw.githubusercontent.com/Spiderpig86/sea-to-go/master/data/restaurants/${props.cityId}.json`
+                `https://raw.githubusercontent.com/Spiderpig86/sea-to-go/master/dist/restaurants/${props.cityId}.json`
             );
             setRestaurantData(response.data.restaurants);
         })();
@@ -177,7 +178,9 @@ export const List: React.FC<ListProps> = (props) => {
                 SeaToGo.
             </h1>
             <p>
-                Supporting local restaurants in <b>Seattle</b>.
+                Supporting local restaurants in <b css={{
+                    textTransform: 'capitalize'
+                }}>{cityName}</b>.
             </p>
             <div className="content">
                 <blockquote>

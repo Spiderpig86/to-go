@@ -4,6 +4,15 @@
     font-weight: bold;
 }
 
+.figure .figure__image {
+    filter: brightness(0.85);
+    transition: all .2s;
+}
+
+.figure:hover .figure__image {
+    filter: brightness(0.7);
+}
+
 @media
 only screen 
 and (max-width: 760px), (min-device-width: 768px) 

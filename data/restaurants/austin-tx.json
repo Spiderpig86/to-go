@@ -3227,24 +3227,6 @@
             "price": ""
         },
         {
-            "name": "spring creek ",
-            "types": [
-                "BBQ"
-            ],
-            "services": [
-                "Takeout / Curbside"
-            ],
-            "phone": "(972) 675-2200",
-            "locations": [],
-            "address": "http://maps.apple.com/?q=Spring+Creek+Barbeque&ll=32.947654724121094%2c-96.61837768554688&sll=32.947654724121094%2c-96.61837768554688&ppois=32.947654724121094_-96.61837768554688_Spring+Creek+Barbeque",
-            "website": "wwww.springcreekbarbeque.com",
-            "deliveryApps": [
-                "DoorDash"
-            ],
-            "veganOptions": null,
-            "price": ""
-        },
-        {
             "name": "St. Petes Dancing Marlin",
             "types": [
                 "American"
