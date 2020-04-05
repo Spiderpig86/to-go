@@ -31,6 +31,11 @@ input:not([type=checkbox]):not([type=radio]):not([type=submit]), select {
 only screen 
 and (max-width: 760px), (min-device-width: 768px) 
 and (max-device-width: 1024px) {
+
+    .table-container {
+        overflow: visible;
+    }
+
     table, thead, tbody, th, tr {
         display: block;
         text-align: left;

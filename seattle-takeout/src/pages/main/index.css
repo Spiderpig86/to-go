@@ -1,0 +1,14 @@
+.figcaption {
+    font-family: 'Montserrat';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+@media
+only screen 
+and (max-width: 760px), (min-device-width: 768px) 
+and (max-device-width: 1024px) {
+    .figcaption {
+        font-size: 2rem;
+    }
+}

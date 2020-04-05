@@ -120,6 +120,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                 />
             </div>
             <div
+                className={'table-container'}
                 css={{
                     margin: '1rem 0',
                     overflowX: 'auto'
