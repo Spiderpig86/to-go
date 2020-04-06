@@ -15,8 +15,7 @@ export const Main: React.FC<MainProps> = (props) => {
 
     useEffect(() => {
         (async () => {
-            const response = await Axios.get(`data/pages.json`);
-            console.log(response);
+            const response = await Axios.get(`https://raw.githubusercontent.com/Spiderpig86/sea-to-go/master/data/pages.json`);
 
             setCities(response.data.cities);
         })();
