@@ -10,6 +10,7 @@ import { TypeTag } from '../../components/TypeTag';
 import { DeliveryTag } from '../../components/DeliveryTag';
 import { LocationTag } from '../../components/LocationTag';
 import { PriceTag } from '../../components/PriceTag';
+import { FORM_URL, ENDPOINT_RESTAURANTS } from '../../constants';
 
 interface CellType {
     cell: {
@@ -29,7 +30,7 @@ export const List: React.FC<ListProps> = (props) => {
     useEffect(() => {
         (async () => {
             const response = await Axios.get(
-                `https://raw.githubusercontent.com/Spiderpig86/sea-to-go/master/dist/restaurants/${props.cityId}.json`
+                `${ENDPOINT_RESTAURANTS}${props.cityId}.json`
             );
             setRestaurantData(response.data.restaurants);
         })();
@@ -175,7 +176,9 @@ export const List: React.FC<ListProps> = (props) => {
                         width: '4rem',
                     }}
                 />{' '}
-                { cityName }.
+                <span css={{
+                    textTransform: 'capitalize'
+                }}>{ cityName + ' ' }</span>&nbsp;to go.
             </h1>
             <p>
                 Supporting local restaurants in <b css={{
@@ -187,7 +190,7 @@ export const List: React.FC<ListProps> = (props) => {
                     👋 Hey guys! This is very much WIP (UI changes, sorting, new restaurants, etc.), but I hope that
                     this list of restaurants will encourage people to support local restaurants that are struggling
                     during this crisis. For adding or updating restaurants, please fill out this{' '}
-                    <a target="_blank" rel="noopener noref" href="https://forms.gle/KRtTQUevbPbUck5H8">
+                    <a target="_blank" rel="noopener noref" href={FORM_URL}>
                         form
                     </a>
                     .

@@ -3,9 +3,10 @@ import Axios from 'axios';
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core';
 import TextLoop from "react-text-loop";
+import { Link } from 'react-router-dom';
 
 import { City } from '../../model/city';
-import { Link } from 'react-router-dom';
+import { ENDPOINT_PAGES, FORM_URL } from '../../constants';
 
 import './index.css';
 
@@ -20,7 +21,7 @@ export const Main: React.FC<MainProps> = (props) => {
 
             if (cities.length === 0) {
                 const response = await Axios.get(
-                    `https://raw.githubusercontent.com/Spiderpig86/sea-to-go/master/data/pages.json`
+                    ENDPOINT_PAGES
                 );
                 setCities(response.data.cities);
                 setCityNames(response.data.cities.map((city: City) => city.name));
@@ -70,7 +71,7 @@ export const Main: React.FC<MainProps> = (props) => {
                     👋 Hey guys! This is very much WIP (UI changes, sorting, new restaurants, etc.), but I hope that
                     this list of restaurants will encourage people to support local restaurants that are struggling
                     during this crisis. For adding or updating restaurants, please fill out this{' '}
-                    <a target="_blank" rel="noopener noref" href="https://forms.gle/KRtTQUevbPbUck5H8">
+                    <a target="_blank" rel="noopener noref" href={FORM_URL}>
                         form
                     </a>
                     .
