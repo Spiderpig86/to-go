@@ -110,7 +110,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = (props) => {
                         <b>Status</b>
                     </label>
                     <div
-                        className="u-flex px-2 py-2"
+                        className="u-flex px-2 pb-2"
                         css={{
                             justifyContent: 'center',
                             overflowX: 'auto'

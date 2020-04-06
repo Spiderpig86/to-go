@@ -11,6 +11,7 @@ import { DeliveryTag } from '../../components/DeliveryTag';
 import { LocationTag } from '../../components/LocationTag';
 import { PriceTag } from '../../components/PriceTag';
 import { FORM_URL, ENDPOINT_RESTAURANTS } from '../../constants';
+import { Link } from 'react-router-dom';
 
 interface CellType {
     cell: {
@@ -183,7 +184,8 @@ export const List: React.FC<ListProps> = (props) => {
             <p>
                 Supporting local restaurants in <b css={{
                     textTransform: 'capitalize'
-                }}>{cityName}</b>.
+                }}>{cityName}</b>. <br /> Check out {' '}
+                <Link to='/' className='py-3'>more cities.</Link>
             </p>
             <div className="content">
                 <blockquote>
