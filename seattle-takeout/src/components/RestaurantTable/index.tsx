@@ -8,6 +8,7 @@ import { Restaurant } from '../../model/restaurant';
 import { CollapsableTr } from '../CollapsableTr';
 
 import './index.css';
+import { Status, StatusNameMap, StatusColorMap } from '../../model/status';
 
 interface RestaurantTableProps {
     columns: any;
@@ -16,7 +17,7 @@ interface RestaurantTableProps {
     setFilterInput: (value: string) => void;
 }
 
-export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
+export const RestaurantTable: React.FC<RestaurantTableProps> = (props) => {
     const [limitSearchResults, setLimitSearchResults] = useState(true); // Limit displayed results to speed up app
     const filterTypes = React.useMemo(
         () => ({
@@ -24,29 +25,29 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                 if (!filterValue) {
                     return rows;
                 }
-                return rows.filter(row => {
+                return rows.filter((row) => {
                     const restaurant: Restaurant = row.original;
                     filterValue = filterValue.toLowerCase();
 
-                    const containsDelivery = restaurant.deliveryApps.some(delivery =>
+                    const containsDelivery = restaurant.deliveryApps.some((delivery) =>
                         delivery.toLowerCase().includes(filterValue)
                     );
                     if (containsDelivery) {
                         return true;
                     }
-                    const containsService = restaurant.services.some(service =>
+                    const containsService = restaurant.services.some((service) =>
                         service.toLowerCase().includes(filterValue)
                     );
                     if (containsService) {
                         return true;
                     }
-                    const containsLocation = restaurant.locations.some(location =>
+                    const containsLocation = restaurant.locations.some((location) =>
                         location.toLowerCase().includes(filterValue)
                     );
                     if (containsLocation) {
                         return true;
                     }
-                    const containsType = restaurant.types.some(type => type.toLowerCase().includes(filterValue));
+                    const containsType = restaurant.types.some((type) => type.toLowerCase().includes(filterValue));
                     if (containsType) {
                         return true;
                     }
@@ -58,7 +59,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                         restaurant.price.indexOf(filterValue) > -1
                     );
                 });
-            }
+            },
         }),
         []
     );
@@ -68,7 +69,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
             columns: props.columns,
             data: props.data,
             filterTypes,
-            globalFilter: 'restaurantFilter'
+            globalFilter: 'restaurantFilter',
         },
         useFilters,
         useGlobalFilter,
@@ -93,7 +94,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
         props.setFilterInput(value);
     }, [props.filterInput]);
 
-    window.onscroll = function() {
+    window.onscroll = function () {
         if (limitSearchResults && window.pageYOffset > 750) {
             setLimitSearchResults(false);
         }
@@ -103,13 +104,40 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
 
     return (
         <div>
+            <div className="frame my-3">
+                <div className="frame__body">
+                    <label>
+                        <b>Status</b>
+                    </label>
+                    <div
+                        className="u-flex px-2 py-2"
+                        css={{
+                            justifyContent: 'center',
+                            overflowX: 'auto'
+                        }}
+                    >
+                        {Object.keys(Status).map((status) => {
+                            return (
+                                <div
+                                    className="tag mx-1"
+                                    css={{
+                                        backgroundColor: StatusColorMap.get(status as Status),
+                                    }}
+                                >
+                                    {StatusNameMap.get(status as Status)}
+                                </div>
+                            );
+                        })}
+                    </div>
+                </div>
+            </div>
             <div
                 css={{
                     background: '#fff',
                     padding: '1rem .25rem',
                     position: 'sticky',
                     top: 0,
-                    zIndex: 999
+                    zIndex: 999,
                 }}
             >
                 <input
@@ -123,12 +151,12 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = props => {
                 className={'table-container'}
                 css={{
                     margin: '1rem 0',
-                    overflowX: 'auto'
+                    overflowX: 'auto',
                 }}
             >
                 <table className="table bordered striped" {...getTableProps()}>
                     <thead>
-                        {headerGroups.map(headerGroup => (
+                        {headerGroups.map((headerGroup) => (
                             <tr {...headerGroup.getHeaderGroupProps()}>
                                 {headerGroup.headers.map((column, i) => (
                                     <th

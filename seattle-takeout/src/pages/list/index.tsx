@@ -168,14 +168,14 @@ export const List: React.FC<ListProps> = (props) => {
             <h1 className="u-flex u-veritcal-center u-horizontal-center">
                 <img
                     src="/favicon-96x96.png"
-                    className="mr-1"
+                    className="mr-2"
                     css={{
                         borderRadius: '.25rem',
                         height: 'auto',
                         width: '4rem',
                     }}
                 />{' '}
-                SeaToGo.
+                { cityName }.
             </h1>
             <p>
                 Supporting local restaurants in <b css={{

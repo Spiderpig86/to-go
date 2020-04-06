@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Axios from 'axios';
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core';
+import TextLoop from "react-text-loop";
 
 import { City } from '../../model/city';
 import { Link } from 'react-router-dom';
@@ -12,12 +13,18 @@ interface MainProps {}
 
 export const Main: React.FC<MainProps> = (props) => {
     const [cities, setCities] = useState([]);
+    const [cityNames, setCityNames] = useState(['', '']);
 
     useEffect(() => {
         (async () => {
-            const response = await Axios.get(`https://raw.githubusercontent.com/Spiderpig86/sea-to-go/master/data/pages.json`);
 
-            setCities(response.data.cities);
+            if (cities.length === 0) {
+                const response = await Axios.get(
+                    `https://raw.githubusercontent.com/Spiderpig86/sea-to-go/master/data/pages.json`
+                );
+                setCities(response.data.cities);
+                setCityNames(response.data.cities.map((city: City) => city.name));
+            }
         })();
     }, []);
 
@@ -31,21 +38,57 @@ export const Main: React.FC<MainProps> = (props) => {
                 marginTop: '7rem',
             }}
         >
-            <h1>Cities</h1>
+            {
+                console.log(cityNames)
+                
+            }
+            <h1 className="u-flex u-veritcal-center u-horizontal-center">
+                <img
+                    src="/favicon-96x96.png"
+                    className="mr-2"
+                    css={{
+                        borderRadius: '.25rem',
+                        height: 'auto',
+                        width: '4rem',
+                    }}
+                />{'  '}
+                SeaToGo.
+            </h1>
+            <h3 className="font-alt font-light">
+                Supporting local restaurants in {' '}
+                <b
+                    css={{
+                        textTransform: 'capitalize',
+                    }}
+                >
+                    <TextLoop interval={1500} children={cityNames} />
+                </b>
+                .
+            </h3>
+            <div className="content">
+                <blockquote>
+                    👋 Hey guys! This is very much WIP (UI changes, sorting, new restaurants, etc.), but I hope that
+                    this list of restaurants will encourage people to support local restaurants that are struggling
+                    during this crisis. For adding or updating restaurants, please fill out this{' '}
+                    <a target="_blank" rel="noopener noref" href="https://forms.gle/KRtTQUevbPbUck5H8">
+                        form
+                    </a>
+                    .
+                </blockquote>
+            </div>
+
+            <h3 className="pb-5">Cities</h3>
 
             <div className="row w-100">
                 {cities.map((city: City, i: number) => {
-                    console.log(city.image_url);
-
                     return (
-                        <div className="col-4">
+                        <div className="col-4" key={i}>
                             <Link to={'/list/' + city.id}>
                                 <figure
-                                    className="figure"
+                                    className="figure figure--shadow"
                                     css={{
                                         borderRadius: '.25rem',
                                         position: 'relative',
-                                        overflow: 'hidden',
                                     }}
                                 >
                                     <div
@@ -54,7 +97,7 @@ export const Main: React.FC<MainProps> = (props) => {
                                             ':after': {
                                                 backgroundColor: 'rgba(0, 0, 0, .05)',
                                                 bottom: 0,
-                                                content: ' ',
+                                                content: '" "',
                                                 height: '100%',
                                                 left: 0,
                                                 position: 'absolute',
