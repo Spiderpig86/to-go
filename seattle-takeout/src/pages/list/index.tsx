@@ -179,12 +179,12 @@ export const List: React.FC<ListProps> = (props) => {
                 />{' '}
                 <span css={{
                     textTransform: 'capitalize'
-                }}>{ cityName + ' ' }</span>&nbsp;to go.
+                }}>{ cityName.replace('&', ' ') + ' ' }</span>&nbsp;to go.
             </h1>
             <p>
                 Supporting local restaurants in <b css={{
                     textTransform: 'capitalize'
-                }}>{cityName}</b>. <br /> Check out {' '}
+                }}>{cityName.replace('&', ' ')}</b>. <br /> Check out {' '}
                 <Link to='/' className='py-3'>more cities.</Link>
             </p>
             <div className="content">

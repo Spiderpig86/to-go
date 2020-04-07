@@ -1,3 +1,7 @@
+.row .col-4 {
+    margin: .5rem 0;
+}
+
 .figcaption {
     font-family: 'Montserrat';
     font-size: 2.5rem;
@@ -28,7 +32,11 @@
 }
 
 .figure.figure--shadow:before {
-    box-shadow: 0 2rem 3rem -2rem rgba(0,0,0,0.3);
+    box-shadow: 0 2rem 3rem -2rem rgba(0,0,0,0.4);
+}
+
+.figure.figure--shadow:hover ~ .figure.figure--shadow:before {
+    box-shadow: 0 2rem 3rem -2rem rgba(0,0,0,0.6);
 }
 
 .figure.figure--shadow:before, .figure--shadow:after {

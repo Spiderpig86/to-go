@@ -4,7 +4,6 @@ import { Route, Switch, Redirect } from 'react-router-dom';
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core';
 
-import logo from './logo.svg';
 import './App.css';
 import { List } from './pages/list';
 import { Main } from './pages/main';
