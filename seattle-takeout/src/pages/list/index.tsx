@@ -181,7 +181,7 @@ export const List: React.FC<ListProps> = (props) => {
             </h1>
             <p>
                 Supporting local restaurants in <b>{properties.name}</b>. <br /> Check out{' '}
-                <Link to="/" className="py-3">
+                <Link to="/">
                     more cities.
                 </Link>
             </p>

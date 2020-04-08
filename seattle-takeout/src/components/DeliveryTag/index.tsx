@@ -16,7 +16,9 @@ const deliveryColorMap = new Map<string, TagColors>([
     ['eat24', {backColor: '#b92c19', foreColor: '#fff'}],
     ['bite squad', {backColor: '#00b76e', foreColor: '#fff'}],
     ['caviar', {backColor: '#f26f40', foreColor: '#fff'}],
-    ['amazon prime now', {backColor: '#00a3db', foreColor: '#fff'}]
+    ['amazon prime now', {backColor: '#00a3db', foreColor: '#fff'}],
+    ['chownow', {backColor: '#e45358', foreColor: '#fff'}],
+    ['favor', {backColor: '#179cd5', foreColor: '#fff'}]
 ]);
 
 export const DeliveryTag: React.FC<DeliveryTagProps> = (props) => {
