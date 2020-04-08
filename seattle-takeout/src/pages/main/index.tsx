@@ -39,10 +39,6 @@ export const Main: React.FC<MainProps> = (props) => {
                 marginTop: '7rem',
             }}
         >
-            {
-                console.log(cityNames)
-                
-            }
             <h1 className="u-flex u-veritcal-center u-horizontal-center">
                 <img
                     src="/favicon-96x96.png"
@@ -53,7 +49,7 @@ export const Main: React.FC<MainProps> = (props) => {
                         width: '4rem',
                     }}
                 />{'  '}
-                SeaToGo.
+                Togo.
             </h1>
             <h3 className="font-alt font-light">
                 Supporting local restaurants in {' '}

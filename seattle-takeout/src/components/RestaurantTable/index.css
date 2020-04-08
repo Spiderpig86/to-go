@@ -27,6 +27,22 @@ input:not([type=checkbox]):not([type=radio]):not([type=submit]), select {
     font-size: 1.1rem !important;
 }
 
+.legend {
+    justify-content: center;
+    overflow-x: auto;
+}
+
+@media
+only screen
+and (max-width: 494px) {
+    .legend {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: normal;
+        overflow-x: auto
+    }
+}
+
 @media
 only screen 
 and (max-width: 760px), (min-device-width: 768px) 
@@ -74,6 +90,10 @@ and (max-device-width: 1024px) {
         position: relative;
         padding: 1rem;
         padding-left: 15% !important;
+    }
+
+    td:nth-of-type(1) {
+        font-size: 1rem;
     }
     
     tr.table__row--collapsed {

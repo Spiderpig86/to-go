@@ -24,7 +24,6 @@ function App() {
                 <Switch>
                     <Route exact={true} path={'/'} render={(props) => <Main />} />
                     <Route exact={false} path={'/list/:city'} render={(props) => {
-                        console.log(props);
                         return(<List cityId={props.match.params.city} />)
                     }} />
                 </Switch>
@@ -33,7 +32,7 @@ function App() {
                 marginTop: 'auto'
             }}>
                 <div className="u-text-center content">
-                    <h3 className="white">SeaToGo.</h3>
+                    <h3 className="white">2go.</h3>
                     <div
                         className="divider w-50 u-center"
                         css={{

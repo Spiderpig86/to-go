@@ -4,6 +4,7 @@ import Axios from 'axios';
 import ColorHash from 'color-hash';
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core';
+import { Link } from 'react-router-dom';
 
 import { Restaurant } from '../../model/restaurant';
 import { TypeTag } from '../../components/TypeTag';
@@ -11,7 +12,7 @@ import { DeliveryTag } from '../../components/DeliveryTag';
 import { LocationTag } from '../../components/LocationTag';
 import { PriceTag } from '../../components/PriceTag';
 import { FORM_URL, ENDPOINT_RESTAURANTS } from '../../constants';
-import { Link } from 'react-router-dom';
+import { RestaurantProperties } from '../../model/restaurant_properties';
 
 interface CellType {
     cell: {
@@ -25,15 +26,14 @@ interface ListProps {
 
 export const List: React.FC<ListProps> = (props) => {
     const [restaurantData, setRestaurantData] = useState([]);
+    const [properties, setPropertes] = useState({} as RestaurantProperties);
     const [filterInput, setFilterInput] = useState('');
-    const cityName = props.cityId.split('-')[0];
 
     useEffect(() => {
         (async () => {
-            const response = await Axios.get(
-                `${ENDPOINT_RESTAURANTS}${props.cityId}.json`
-            );
+            const response = await Axios.get(`${ENDPOINT_RESTAURANTS}${props.cityId}.json`);
             setRestaurantData(response.data.restaurants);
+            setPropertes(response.data.properties);
         })();
     }, []);
 
@@ -164,7 +164,7 @@ export const List: React.FC<ListProps> = (props) => {
                 flexDirection: 'column',
                 justifyContent: 'center',
                 marginTop: '7rem',
-                minHeight: '100vh'
+                minHeight: '100vh',
             }}
         >
             <h1 className="u-flex u-veritcal-center u-horizontal-center">
@@ -177,15 +177,13 @@ export const List: React.FC<ListProps> = (props) => {
                         width: '4rem',
                     }}
                 />{' '}
-                <span css={{
-                    textTransform: 'capitalize'
-                }}>{ cityName.replace('&', ' ') + ' ' }</span>&nbsp;to go.
+                {properties.name} to go.
             </h1>
             <p>
-                Supporting local restaurants in <b css={{
-                    textTransform: 'capitalize'
-                }}>{cityName.replace('&', ' ')}</b>. <br /> Check out {' '}
-                <Link to='/' className='py-3'>more cities.</Link>
+                Supporting local restaurants in <b>{properties.name}</b>. <br /> Check out{' '}
+                <Link to="/" className="py-3">
+                    more cities.
+                </Link>
             </p>
             <div className="content">
                 <blockquote>

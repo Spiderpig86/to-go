@@ -109,13 +109,7 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = (props) => {
                     <label>
                         <b>Status</b>
                     </label>
-                    <div
-                        className="u-flex px-2 pb-2"
-                        css={{
-                            justifyContent: 'center',
-                            overflowX: 'auto'
-                        }}
-                    >
+                    <div className="legend px-2 pb-2">
                         {Object.keys(Status).map((status) => {
                             return (
                                 <div
