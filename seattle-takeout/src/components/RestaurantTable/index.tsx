@@ -19,6 +19,7 @@ interface RestaurantTableProps {
 
 export const RestaurantTable: React.FC<RestaurantTableProps> = (props) => {
     const [limitSearchResults, setLimitSearchResults] = useState(true); // Limit displayed results to speed up app
+    const [numRender, setNumRender] = useState(50);
     const filterTypes = React.useMemo(
         () => ({
             restaurantFilter: (rows, id, filterValue) => {
@@ -97,10 +98,20 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = (props) => {
     window.onscroll = function () {
         if (limitSearchResults && window.pageYOffset > 750) {
             setLimitSearchResults(false);
+        } else {
+            const lastRow = document.querySelector(".table__row:last-child");
+            if (!lastRow) {
+                return;
+            }
+            const lastRowOffset = lastRow.getBoundingClientRect().top + this.window.scrollY + lastRow?.clientHeight;
+            const pageOffset = window.pageYOffset + window.innerHeight;
+            if (pageOffset + 500 > lastRowOffset) {
+                setNumRender(numRender + 50);
+            }
         }
     };
 
-    const rowsToRender = limitSearchResults ? rows.slice(0, Math.min(20, rows.length)) : rows;
+    const rowsToRender = limitSearchResults ? rows.slice(0, Math.min(20, rows.length)) : rows.slice(0, Math.min(numRender, rows.length));
 
     return (
         <div>
