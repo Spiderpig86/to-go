@@ -3,12 +3,13 @@ import { useTable, useGlobalFilter, useGroupBy, useExpanded, useSortBy, Row, use
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core';
 import { Container, Button, Link } from 'react-floating-action-button';
+import { BeatLoader } from 'react-spinners';
 
 import { Restaurant } from '../../model/restaurant';
 import { CollapsableTr } from '../CollapsableTr';
+import { Status, StatusNameMap, StatusColorMap } from '../../model/status';
 
 import './index.css';
-import { Status, StatusNameMap, StatusColorMap } from '../../model/status';
 
 interface RestaurantTableProps {
     columns: any;
@@ -20,6 +21,7 @@ interface RestaurantTableProps {
 export const RestaurantTable: React.FC<RestaurantTableProps> = (props) => {
     const [limitSearchResults, setLimitSearchResults] = useState(true); // Limit displayed results to speed up app
     const [numRender, setNumRender] = useState(50);
+    const [isLoading, setIsLoading] = useState(false);
     const filterTypes = React.useMemo(
         () => ({
             restaurantFilter: (rows, id, filterValue) => {
@@ -105,8 +107,12 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = (props) => {
             }
             const lastRowOffset = lastRow.getBoundingClientRect().top + this.window.scrollY + lastRow?.clientHeight;
             const pageOffset = window.pageYOffset + window.innerHeight;
-            if (pageOffset + 500 > lastRowOffset) {
+            if (numRender < rows.length && pageOffset + 500 > lastRowOffset) {
                 setNumRender(numRender + 50);
+                setIsLoading(true);
+                this.setTimeout(() => {
+                    setIsLoading(false);
+                }, 5000);
             }
         }
     };
@@ -206,6 +212,16 @@ export const RestaurantTable: React.FC<RestaurantTableProps> = (props) => {
                     rotate={true}
                 />
             </Container>
+
+            {
+                isLoading && (
+                    <BeatLoader
+                        size={15}
+                        margin={2}
+                        color={'#F2CA2A'}
+                    />
+                )
+            }
         </div>
     );
 };
