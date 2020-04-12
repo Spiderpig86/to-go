@@ -1,6 +1,15 @@
 {
     "cities": [
         {
+            "id": "atlanta-ga",
+            "name": "Atlanta",
+            "abbr": "atl",
+            "state": "Georgia",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1575917649705-5b59aaa12e6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "austin-tx",
             "name": "Austin",
             "abbr": "aus",
@@ -33,6 +42,7 @@
             "abbr": "lax",
             "state": "California",
             "country": "United States",
+            "country_abbr": "US",
             "image_url": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
