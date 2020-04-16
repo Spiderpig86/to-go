@@ -55,6 +55,15 @@
             "image_url": "https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "phoenix-az",
+            "name": "Phoenix",
+            "abbr": "phx",
+            "state": "Arizona",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1558362273-b89d1ea3d6b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "portland-or",
             "name": "Portland",
             "abbr": "pdx",
