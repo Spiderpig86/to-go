@@ -70,6 +70,15 @@ export const List: React.FC<ListProps> = (props) => {
                         Cell: ({ cell: { value } }: CellType) => (
                             <TypeTag types={value} setFilterInput={setFilterInput} />
                         ),
+                        sortType: (a, b) => {
+                            if (a.original.types.length === 0) {
+                                return 1;
+                            }
+
+                            const typeListA = a.original.types;
+                            const typeListB = b.original.types;
+                            return typeListA.join().localeCompare(typeListB.join());
+                        },
                     },
                     {
                         Header: 'Services',
@@ -77,6 +86,15 @@ export const List: React.FC<ListProps> = (props) => {
                         Cell: ({ cell: { value } }: CellType) => (
                             <TypeTag types={value} setFilterInput={setFilterInput} />
                         ),
+                        sortType: (a, b) => {
+                            if (a.original.types.length === 0) {
+                                return 1;
+                            }
+
+                            const typeListA = a.original.types;
+                            const typeListB = b.original.types;
+                            return typeListA.join().localeCompare(typeListB.join());
+                        },
                     },
                     {
                         Header: 'Phone',
@@ -108,6 +126,15 @@ export const List: React.FC<ListProps> = (props) => {
                         Cell: ({ cell: { value } }: CellType) => (
                             <LocationTag locations={value} setFilterInput={setFilterInput} />
                         ),
+                        sortType: (a, b) => {
+                            if (a.original.types.length === 0) {
+                                return 1;
+                            }
+
+                            const typeListA = a.original.types;
+                            const typeListB = b.original.types;
+                            return typeListA.join().localeCompare(typeListB.join());
+                        },
                     },
                     {
                         Header: 'Address',
@@ -133,6 +160,15 @@ export const List: React.FC<ListProps> = (props) => {
                         Cell: ({ cell: { value } }: CellType) => (
                             <DeliveryTag deliveryOptions={value} setFilterInput={setFilterInput} />
                         ),
+                        sortType: (a, b) => {
+                            if (a.original.types.length === 0) {
+                                return 1;
+                            }
+
+                            const typeListA = a.original.types;
+                            const typeListB = b.original.types;
+                            return typeListA.join().localeCompare(typeListB.join());
+                        },
                     },
                     {
                         Header: 'Vegan Options',
