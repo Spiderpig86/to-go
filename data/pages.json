@@ -46,6 +46,15 @@
             "image_url": "https://images.unsplash.com/photo-1545194445-dddb8f4487c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "denver-co",
+            "name": "Denver",
+            "abbr": "den",
+            "state": "Colorado",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1557366401-47f1c3a76a73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "lasvegas-nv",
             "name": "Las Vegas",
             "abbr": "las",
