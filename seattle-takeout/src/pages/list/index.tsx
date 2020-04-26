@@ -91,8 +91,8 @@ export const List: React.FC<ListProps> = (props) => {
                                 return 1;
                             }
 
-                            const typeListA = a.original.types;
-                            const typeListB = b.original.types;
+                            const typeListA = a.original.services;
+                            const typeListB = b.original.services;
                             return typeListA.join().localeCompare(typeListB.join());
                         },
                     },
@@ -131,8 +131,8 @@ export const List: React.FC<ListProps> = (props) => {
                                 return 1;
                             }
 
-                            const typeListA = a.original.types;
-                            const typeListB = b.original.types;
+                            const typeListA = a.original.locations;
+                            const typeListB = b.original.locations;
                             return typeListA.join().localeCompare(typeListB.join());
                         },
                     },
@@ -165,8 +165,8 @@ export const List: React.FC<ListProps> = (props) => {
                                 return 1;
                             }
 
-                            const typeListA = a.original.types;
-                            const typeListB = b.original.types;
+                            const typeListA = a.original.deliveryApps;
+                            const typeListB = b.original.deliveryApps;
                             return typeListA.join().localeCompare(typeListB.join());
                         },
                     },
