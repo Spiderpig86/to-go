@@ -109,6 +109,15 @@
             "image_url": "https://images.unsplash.com/photo-1566792215009-e1f1a1ded130?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "napavalley-ca",
+            "name": "Napa Valley",
+            "abbr": "nap",
+            "state": "California",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1557540771-f4a8b08a445a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "nashville-tn",
             "name": "Nashville",
             "abbr": "BNA",
