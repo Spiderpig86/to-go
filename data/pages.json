@@ -172,6 +172,15 @@
             "image_url": "https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "oklahomacity-ok",
+            "name": "Oklahoma City",
+            "abbr": "okc",
+            "state": "Oklahoma",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1496952449081-1a054d204f82?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "philadelphia-pa",
             "name": "Philadelphia",
             "abbr": "phl",
