@@ -253,6 +253,15 @@
             "image_url": "https://images.unsplash.com/photo-1538097304804-2a1b932466a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "twincities-mn",
+            "name": "Twin Cities",
+            "abbr": "min",
+            "state": "Minnesota",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1563581242286-b4d30663a0d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "washington-dc",
             "name": "Washington DC",
             "abbr": "dca",
