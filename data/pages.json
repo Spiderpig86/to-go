@@ -244,6 +244,15 @@
             "image_url": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "sanjose-ca",
+            "name": "San Jose",
+            "abbr": "sfo",
+            "state": "California",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1564604761388-83eafc96f668?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "seattle-wa",
             "name": "Seattle",
             "abbr": "sea",
