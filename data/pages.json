@@ -109,6 +109,15 @@
             "image_url": "https://images.unsplash.com/photo-1472262808738-234c7a128280?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "grandrapids-mi",
+            "name": "Grand Rapids",
+            "abbr": "grr",
+            "state": "Michigan",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1521204851303-7f27bd3cb427?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "houston-tx",
             "name": "Houston",
             "abbr": "den",
