@@ -244,6 +244,15 @@
             "image_url": "https://images.unsplash.com/photo-1588103874719-cc3275a6626d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "rochester-ny",
+            "name": "Rochester",
+            "abbr": "rst",
+            "state": "New York",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1549676772-ae2537683622?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "sandiego-ca",
             "name": "San Diego",
             "abbr": "san",
