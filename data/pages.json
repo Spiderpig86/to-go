@@ -190,6 +190,15 @@
             "image_url": "https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "niagara-ny",
+            "name": "Niagara",
+            "abbr": "nia",
+            "state": "New York",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1533094602577-198d3beab8ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "oklahomacity-ok",
             "name": "Oklahoma City",
             "abbr": "okc",
