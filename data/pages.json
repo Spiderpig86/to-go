@@ -307,6 +307,15 @@
             "image_url": "https://images.unsplash.com/photo-1538097304804-2a1b932466a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "toledo-oh",
+            "name": "Toledo",
+            "abbr": "tol",
+            "state": "Ohio",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://raw.githubusercontent.com/Spiderpig86/to-go/master/images/toledo-oh.jpg"
+        },
+        {
             "id": "twincities-mn",
             "name": "Twin Cities",
             "abbr": "min",
