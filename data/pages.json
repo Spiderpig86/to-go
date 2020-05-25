@@ -316,6 +316,15 @@
             "image_url": "https://raw.githubusercontent.com/Spiderpig86/to-go/master/images/toledo-oh.jpg"
         },
         {
+            "id": "toronto-on",
+            "name": "Toronto",
+            "abbr": "tor",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_abbr": "CA",
+            "image_url": "https://images.unsplash.com/photo-1507992781348-310259076fe0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "twincities-mn",
             "name": "Twin Cities",
             "abbr": "min",
