@@ -208,6 +208,15 @@
             "image_url": "https://raw.githubusercontent.com/Spiderpig86/to-go/master/images/norfolk-va.jpg"
         },
         {
+            "id": "oakland-ca",
+            "name": "Oakland",
+            "abbr": "oak",
+            "state": "California",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1513916711338-95cb6d164633?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "oklahomacity-ok",
             "name": "Oklahoma City",
             "abbr": "okc",
