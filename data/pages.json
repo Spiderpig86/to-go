@@ -10,6 +10,15 @@
             "image_url": "https://images.unsplash.com/photo-1575917649705-5b59aaa12e6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "arlington-va",
+            "name": "Arlington",
+            "abbr": "arl",
+            "state": "Virginia",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://raw.githubusercontent.com/Spiderpig86/to-go/master/images/arlington-va.jpg"
+        },
+        {
             "id": "austin-tx",
             "name": "Austin",
             "abbr": "aus",
