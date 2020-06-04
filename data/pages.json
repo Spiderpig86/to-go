@@ -145,6 +145,15 @@
             "image_url": "https://images.unsplash.com/photo-1579031151544-529281a75b18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "lake-il",
+            "name": "Lake County",
+            "abbr": "lak",
+            "state": "Illinois",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://raw.githubusercontent.com/Spiderpig86/to-go/master/images/lake-il.jpg"
+        },
+        {
             "id": "lasvegas-nv",
             "name": "Las Vegas",
             "abbr": "las",
