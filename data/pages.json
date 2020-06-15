@@ -316,6 +316,15 @@
             "image_url": "https://images.unsplash.com/photo-1494486607440-c450dde0d9d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
         },
         {
+            "id": "reno-nv",
+            "name": "Reno",
+            "abbr": "rno",
+            "state": "Nevada",
+            "country": "United States",
+            "country_abbr": "US",
+            "image_url": "https://images.unsplash.com/photo-1482987945559-cf71742c8329?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
             "id": "richmond-va",
             "name": "Richmond",
             "abbr": "ric",
